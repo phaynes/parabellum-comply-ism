@@ -1,21 +1,42 @@
+//
+// Copyright 2023 Virtualnation Pty Ltd.
+//
+//
+// Parabellum - Comply - ISM
+// 
+// An application to publish the OSCAL definition of the ACSC ISM via a REST API
+// to support direct security control traces into a system.
 
+// https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/oscal
+// 
+
+
+// std to read in the OSCAL ISM XML definition.
 use std::fs::File;
 use std::io::Read;
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
 // From https://github.com/RazrFalcon/roxmltree
+// A read only XML parsing library. 
 use roxmltree::*;
+
+// Mechanism to publish Security controls and groups.
 use serde::{Serialize, Deserialize};
 
+// Web server library
+use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
-
+//
+// Models an ISM Group. An ISM group will typically contain subgroups or 
+// security controls. 
+// The sort_id field provides a specific mechanism for ordering the controls. 
+// The implmentation removes surrounding words to simplify integration.
+// 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct IsmGroup {
     title: String, 
     overview: String,
     sort_id: String, 
 }
-
 impl IsmGroup {
     pub fn new() -> IsmGroup {
         IsmGroup {
@@ -24,7 +45,15 @@ impl IsmGroup {
             sort_id: String::new(),
         }
     }
-
+    // sort_id is a field to support sorting and grouping of the different 
+    // controls and groups. 
+    // Withing the ism oscal definition it is of the form
+    //   "catalog[1].group[03].group[1].group[03].control[2]"
+    // 
+    // While good for readabilty, it is less so for programatic use. 
+    // This method strip out the text, so for the group definition about
+    // the value 03,1,03,2 would be stored as the catalog definition is constant.
+    //
     pub fn set_sort_id(&mut self, id: &str) {
         let mut work_str = id.replace("catalog[1].", "");
         work_str = work_str.replace("group[", "");
@@ -32,31 +61,12 @@ impl IsmGroup {
         work_str = work_str.replace("]","");
         self.sort_id = String::from(work_str);  
     }
-
-    pub fn depth(&mut self) -> i32 {
-      if self.sort_id.len() == 0 {
-        return 0;
-      }
-      let mut depth: i32 = 1;
-      for c in self.sort_id.chars() {
-        if c == ',' {
-            depth += 1;
-        }
-      }
-      depth
-    }
 }
 
-#[test]
-fn test_ism_group() {
-    let mut ism_group = IsmGroup::new();
-    assert!(ism_group.depth() == 0);
-    ism_group.set_sort_id("catalog[1].group[01]");
-    assert!(ism_group.depth() == 1);
-
-}
-
-
+//
+// Models an ISM control based off the OSCAL definition.
+// 
+// The OSCAL document is built and parsed into this structure to support serialisation.
 #[derive(Serialize, Deserialize, Debug)]
 pub struct IsmControl {
     group: String,
@@ -69,7 +79,6 @@ pub struct IsmControl {
     class: String,
     sort_id: String,
 }
-
 impl IsmControl {
     pub fn new() -> IsmControl {
         IsmControl {
@@ -84,6 +93,7 @@ impl IsmControl {
             sort_id: String::new(),
         }
     }
+    // sort_id field supports parsing 
     pub fn set_sort_id(&mut self, id: &str) {
         let mut work_str = id.replace("catalog[1].", "");
         work_str = work_str.replace("group[", "");
@@ -94,23 +104,11 @@ impl IsmControl {
     }
 }
 
-#[get("/")]
-async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello world!")
-}
+static mut ISM_CONTROLS : Vec::<IsmControl> = Vec::<IsmControl>::new();
+static mut ISM_GROUPS : Vec::<IsmGroup>  =  Vec::<IsmGroup>::new();
 
-#[post("/echo")]
-async fn echo(req_body: String) -> impl Responder {
-    HttpResponse::Ok().body(req_body)
-}
-
-async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("Hey there!")
-}
-//
-// Process an ISM control.
-//
-fn process_ism_control<'a, 'input>(ism_controls : &mut Vec::<IsmControl>, ism_group : &String, node : &Node<'a, 'input> ) -> serde_json::Result<String> {
+// Parses an ISM control OSCAL XML fragment
+fn process_ism_control<'a, 'input>(ism_group : &String, node : &Node<'a, 'input> ) -> serde_json::Result<String> {
     
     let mut current_control = IsmControl::new();
 
@@ -169,17 +167,20 @@ fn process_ism_control<'a, 'input>(ism_controls : &mut Vec::<IsmControl>, ism_gr
     }
 
     let result = serde_json::to_string(&current_control)?;
-    ism_controls.push(current_control);
+    unsafe {
+        ISM_CONTROLS.push(current_control);
+    }
     return Ok(result);
 }
 
-fn process_ism_group<'a, 'input>(ism_groups : &mut Vec::<IsmGroup>, ism_controls : &mut Vec::<IsmControl>, node : &Node<'a, 'input> ) ->  serde_json::Result<String>  {
+// Parses and ISM Group oscal definition.
+fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Result<String>  {
     let mut current_group = IsmGroup::new();
     for n in node.children() {
         let tag = n.tag_name().name();
         match tag {
             "group" => {
-                process_ism_group(ism_groups, ism_controls, &n)?;
+                process_ism_group(&n)?;
             }
             "prop" => {
                 let mut attributes = n.attributes();
@@ -191,7 +192,7 @@ fn process_ism_group<'a, 'input>(ism_groups : &mut Vec::<IsmGroup>, ism_controls
                 }    
             }
             "control" => {
-                process_ism_control(ism_controls, &current_group.sort_id, &n)?;
+                process_ism_control(&current_group.sort_id, &n)?;
             }
             "title" => { 
                 let title = n.text().unwrap().to_string();
@@ -218,17 +219,28 @@ fn process_ism_group<'a, 'input>(ism_groups : &mut Vec::<IsmGroup>, ism_controls
         }
     }
     let result = serde_json::to_string(&current_group)?;
-    ism_groups.push(current_group);
-
+    unsafe {
+      ISM_GROUPS.push(current_group);
+    }
     return Ok(result);
+}
+
+#[get("/")]
+async fn hello() -> impl Responder {
+    HttpResponse::Ok().body("Hello world!")
+}
+
+#[post("/echo")]
+async fn echo(req_body: String) -> impl Responder {
+    HttpResponse::Ok().body(req_body)
+}
+
+async fn manual_hello() -> impl Responder {
+    HttpResponse::Ok().body("Hey there!")
 }
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
-
-    let mut ism_controls = Vec::<IsmControl>::new();
-    let mut ism_groups = Vec::<IsmGroup>::new();
-
     let mut ism_file = File::open("./data/ISM_catalog.xml")?;
 
     // Read the file content into a string
@@ -236,9 +248,8 @@ async fn main() -> std::io::Result<()> {
     ism_file.read_to_string(&mut ism_xml)?;
     let doc = roxmltree::Document::parse(&ism_xml).unwrap();
     for node in doc.root().descendants().filter(|n| n.is_element() && n.tag_name().name().eq("group")) {
-        process_ism_group(&mut ism_groups, &mut ism_controls, &node)?;
+        process_ism_group(&node)?;
     }
-
 
     HttpServer::new(|| {
          App::new()

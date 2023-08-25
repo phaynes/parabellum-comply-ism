@@ -2,8 +2,8 @@
 name = "comply"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "Publishes ACSC ISM controls so they may be integrated into a system"
+license = "Apache-2.0"
 
 [dependencies]
 roxmltree  =  "0.18.0"
