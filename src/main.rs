@@ -23,7 +23,8 @@ use roxmltree::*;
 use serde::{Serialize, Deserialize};
 
 // Web server library
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
+use actix_web::{http::header::ContentType, get, web, App, HttpResponse, HttpServer, Responder};
+use actix_files as fs;
 
 //
 // Models an ISM Group. An ISM group will typically contain subgroups or 
@@ -103,7 +104,11 @@ impl IsmControl {
         self.sort_id = String::from(work_str);  
     }
 }
-
+#[derive(Serialize, Deserialize, Debug)]
+pub  struct IsmControlSummary {
+    id: String,
+    title: String, 
+}
 static mut ISM_CONTROLS : Vec::<IsmControl> = Vec::<IsmControl>::new();
 static mut ISM_GROUPS : Vec::<IsmGroup>  =  Vec::<IsmGroup>::new();
 
@@ -230,11 +235,42 @@ async fn hello() -> impl Responder {
     HttpResponse::Ok().body("Hello world!")
 }
 
-#[post("/echo")]
-async fn echo(req_body: String) -> impl Responder {
-    HttpResponse::Ok().body(req_body)
+#[get("/controls")]
+async fn controls() -> impl Responder {
+    let mut control_json : String = String::from("[");
+    unsafe {
+        for ism_control in ISM_CONTROLS.iter() {
+            let  sum : IsmControlSummary = IsmControlSummary {
+                id : ism_control.id.to_string(),
+                title: ism_control.title.to_string(),
+            };
+            control_json.push_str(",\n");
+            control_json.push_str(&serde_json::to_string(&sum).unwrap());
+        }
+    }
+    control_json.push_str("]");
+
+    HttpResponse::Ok().
+        content_type(ContentType::json()).
+        body(control_json)
 }
 
+#[get("/controls/{control_id}")]
+async fn control(control_id: web::Path<String>) -> impl Responder {
+    let mut control_json : String = String::new();
+    let id = control_id.to_string();
+    unsafe {
+        for ism_control  in ISM_CONTROLS.iter() {
+            if id.eq (&ism_control.id) {
+                control_json.push_str(&serde_json::to_string_pretty(&ism_control).unwrap());
+                break;
+            }
+        }
+    }
+    HttpResponse::Ok().
+        content_type(ContentType::json()).
+        body(control_json)
+}
 async fn manual_hello() -> impl Responder {
     HttpResponse::Ok().body("Hey there!")
 }
@@ -254,7 +290,13 @@ async fn main() -> std::io::Result<()> {
     HttpServer::new(|| {
          App::new()
             .service(hello)
-            .service(echo)
+            .service(controls)
+            .service(control)
+            .service(
+                fs::Files::new("/static", "./static")
+                    .show_files_listing()
+                    .use_last_modified(true),
+            )
             .route("/hey", web::get().to(manual_hello))
     })
     .bind(("127.0.0.1", 8080))?
