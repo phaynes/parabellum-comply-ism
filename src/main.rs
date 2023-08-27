@@ -1,15 +1,13 @@
 //
 // Copyright 2023 Virtualnation Pty Ltd.
 //
-//
 // Parabellum - Comply - ISM
 // 
-// An application to publish the OSCAL definition of the ACSC ISM via a REST API
+// Publishes the OSCAL definition of the ACSC ISM via a REST API
 // to support direct security control traces into a system.
-
+//
 // https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/oscal
 // 
-
 
 // std to read in the OSCAL ISM XML definition.
 use std::fs::File;
@@ -231,12 +229,34 @@ fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Resu
 }
 
 #[get("/")]
-async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello world!")
+async fn home() -> impl Responder {
+    HttpResponse::Ok().body("ACSC ISM June 2023 Reference Library")
 }
 
-#[get("/controls")]
+#[get("/group/")]
+async fn groups() -> impl Responder {
+    let mut groups_json : String = String::from("");
+    unsafe {
+        groups_json.push_str(&serde_json::to_string_pretty(&ISM_GROUPS).unwrap());
+    }
+    HttpResponse::Ok().
+        content_type(ContentType::json()).
+        body(groups_json)
+}
+
+#[get("/control/")]
 async fn controls() -> impl Responder {
+    let mut controls_json : String = String::from("");
+    unsafe {
+        controls_json.push_str(&serde_json::to_string_pretty(&ISM_CONTROLS).unwrap());
+    }
+    HttpResponse::Ok().
+        content_type(ContentType::json()).
+        body(controls_json)
+}
+
+#[get("/control/sum")]
+async fn controls_sum() -> impl Responder {
     let mut control_json : String = String::from("[");
     unsafe {
         for ism_control in ISM_CONTROLS.iter() {
@@ -255,7 +275,7 @@ async fn controls() -> impl Responder {
         body(control_json)
 }
 
-#[get("/controls/{control_id}")]
+#[get("/control/{control_id}")]
 async fn control(control_id: web::Path<String>) -> impl Responder {
     let mut control_json : String = String::new();
     let id = control_id.to_string();
@@ -270,9 +290,6 @@ async fn control(control_id: web::Path<String>) -> impl Responder {
     HttpResponse::Ok().
         content_type(ContentType::json()).
         body(control_json)
-}
-async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("Hey there!")
 }
 
 #[actix_web::main]
@@ -289,15 +306,16 @@ async fn main() -> std::io::Result<()> {
 
     HttpServer::new(|| {
          App::new()
-            .service(hello)
-            .service(controls)
+            .service(home)
+            .service(controls_sum)
             .service(control)
+            .service(controls)
+            .service(groups)
             .service(
                 fs::Files::new("/static", "./static")
                     .show_files_listing()
                     .use_last_modified(true),
             )
-            .route("/hey", web::get().to(manual_hello))
     })
     .bind(("127.0.0.1", 8080))?
     .run()
