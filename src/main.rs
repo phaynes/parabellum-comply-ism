@@ -11,7 +11,9 @@
 
 // std to read in the OSCAL ISM XML definition.
 use std::fs::File;
-use std::io::Read;
+use std::io::{Read, Write};
+use std::env;
+
 
 // From https://github.com/RazrFalcon/roxmltree
 // A read only XML parsing library. 
@@ -75,6 +77,7 @@ pub struct IsmControl {
     updated: String,
     applicability: String,
     statement: String,
+    essential_eight_applicability: String,
     class: String,
     sort_id: String,
 }
@@ -88,6 +91,7 @@ impl IsmControl {
             updated: String::new(),
             applicability: String::new(),
             statement: String::new(),
+            essential_eight_applicability: String::from("N/A"),
             class: String::new(),
             sort_id: String::new(),
         }
@@ -131,7 +135,10 @@ fn process_ism_control<'a, 'input>(ism_group : &String, node : &Node<'a, 'input>
                 let mut attributes = n.attributes();
                 if attributes.len() > 0 {
                     let nm = attributes.next().unwrap().value();
-                    let value = attributes.next().unwrap().value().to_string();
+                    let mut value = attributes.next().unwrap().value().to_string();
+                    if nm.ne("sort-id") {
+                        value = attributes.next().unwrap().value().to_string();
+                    }
                     match nm {
                       "sort-id" => {
                           current_control.set_sort_id(&value.as_str());
@@ -145,7 +152,11 @@ fn process_ism_control<'a, 'input>(ism_group : &String, node : &Node<'a, 'input>
                       "applicability" => {
                           current_control.applicability = value;
                       }
-                      _ => {}
+                      "essential-eight-applicability" => {
+                          current_control.essential_eight_applicability = value;
+                      }
+                      _ => {
+                      }
                   }
                 }    
             }
@@ -227,6 +238,31 @@ fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Resu
     }
     return Ok(result);
 }
+fn produce_markdown() -> std::io::Result<()> {
+    let mut dir = env::current_dir().unwrap();
+    dir.push("static");
+    dir.push("ism");
+    dir.push("control");
+    let _ = std::fs::create_dir_all(dir.clone());
+    let mut pwd : String = String::new();
+    pwd.push_str(&dir.to_str().unwrap());
+    let mut index_md = String::new();
+    unsafe {
+        for ism_control in ISM_CONTROLS.iter() {
+            let ism_filename = format!("{}/{}.md", pwd, ism_control.id);
+            let mut output = File::create(ism_filename)?;
+
+            write!(output, "### {}; Revision: {}; Updated: {}; Applicability: {}; Essential Eight:{}\n{}", ism_control.title, ism_control.revision, ism_control.updated, ism_control.applicability, ism_control.essential_eight_applicability, ism_control.statement)?;
+            
+            let index_string = String::from("[*](/ism/control/*)\n");
+            index_md.push_str(index_string.replacen('*', ism_control.id.as_str(), 2).as_str());
+        }
+    }
+    let ism_index_filename = format!("{}/index.md", pwd);
+    let mut index_output = File::create(ism_index_filename)?;
+    write!(index_output, "{}", index_md)?;
+    Ok(())
+}
 
 #[get("/")]
 async fn home() -> impl Responder {
@@ -303,7 +339,9 @@ async fn main() -> std::io::Result<()> {
     for node in doc.root().descendants().filter(|n| n.is_element() && n.tag_name().name().eq("group")) {
         process_ism_group(&node)?;
     }
-
+    
+    produce_markdown()?;
+    
     HttpServer::new(|| {
          App::new()
             .service(home)
@@ -316,6 +354,12 @@ async fn main() -> std::io::Result<()> {
                     .show_files_listing()
                     .use_last_modified(true),
             )
+            .service(
+                fs::Files::new("/ism", "./static/ism")
+                    .show_files_listing()
+                    .use_last_modified(true),
+            )
+
     })
     .bind(("127.0.0.1", 8080))?
     .run()
