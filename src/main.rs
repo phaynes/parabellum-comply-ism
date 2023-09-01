@@ -9,11 +9,14 @@
 // https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/ism/oscal
 // 
 
+
 // std to read in the OSCAL ISM XML definition.
 use std::fs::File;
 use std::io::{Read, Write};
 use std::env;
 
+// For sorting collections.
+use std::collections::BTreeMap;
 
 // From https://github.com/RazrFalcon/roxmltree
 // A read only XML parsing library. 
@@ -246,18 +249,32 @@ fn produce_markdown() -> std::io::Result<()> {
     let _ = std::fs::create_dir_all(dir.clone());
     let mut pwd : String = String::new();
     pwd.push_str(&dir.to_str().unwrap());
-    let mut index_md = String::new();
+    let mut control_index = BTreeMap::<String, String>::new();
+    
     unsafe {
         for ism_control in ISM_CONTROLS.iter() {
             let ism_filename = format!("{}/{}.md", pwd, ism_control.id);
             let mut output = File::create(ism_filename)?;
 
-            write!(output, "### {}; Revision: {}; Updated: {}; Applicability: {}; Essential Eight:{}\n{}", ism_control.title, ism_control.revision, ism_control.updated, ism_control.applicability, ism_control.essential_eight_applicability, ism_control.statement)?;
+            write!(output, "### {}; Revision: {}; Updated: {}; Applicability: {}; Essential Eight: {}\n{}", ism_control.title, ism_control.revision, ism_control.updated, ism_control.applicability, ism_control.essential_eight_applicability, ism_control.statement)?;
             
-            let index_string = String::from("[*](/ism/control/*)\n");
-            index_md.push_str(index_string.replacen('*', ism_control.id.as_str(), 2).as_str());
+            let mut index_string = String::from("| [*](/ism/control/*) | ");
+            index_string = index_string.replacen('*', ism_control.id.as_str(), 2);
+            index_string.push_str(ism_control.statement.replace("\n", "").as_str());
+            index_string.push_str(" | \n");
+
+            control_index.insert(ism_control.id.clone(), index_string);
         }
     }
+
+    let mut ism_values: Vec<_> = control_index.values().cloned().collect();
+    ism_values.sort();
+    let mut index_md = String::new();
+    index_md.push_str("# ISM CONTROL INDEX\n|    ISM Control   | Statement |\n| :-------------: | ----------- |\n");
+    for ism_value in ism_values.iter() {
+        index_md.push_str(ism_value.as_str());
+    }
+    
     let ism_index_filename = format!("{}/index.md", pwd);
     let mut index_output = File::create(ism_index_filename)?;
     write!(index_output, "{}", index_md)?;

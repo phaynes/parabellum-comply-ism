@@ -1,2 +1,2 @@
-### Security Principle: P11; Revision: ; Updated: ; Applicability: ALL; Essential Eight:N/A
+### Security Principle: P11; Revision: ; Updated: ; Applicability: ALL; Essential Eight: N/A
 <p>Personnel are granted the minimum access to systems, applications and data repositories required for their duties.</p>

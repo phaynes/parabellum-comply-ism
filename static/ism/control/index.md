@@ -1,2721 +1,910 @@
-[ism-principle-g1](/ism/control/ism-principle-g1)
-[ism-principle-g2](/ism/control/ism-principle-g2)
-[ism-principle-g3](/ism/control/ism-principle-g3)
-[ism-principle-g4](/ism/control/ism-principle-g4)
-[ism-principle-g5](/ism/control/ism-principle-g5)
-[ism-principle-p1](/ism/control/ism-principle-p1)
-[ism-principle-p2](/ism/control/ism-principle-p2)
-[ism-principle-p3](/ism/control/ism-principle-p3)
-[ism-principle-p4](/ism/control/ism-principle-p4)
-[ism-principle-p5](/ism/control/ism-principle-p5)
-[ism-principle-p6](/ism/control/ism-principle-p6)
-[ism-principle-p7](/ism/control/ism-principle-p7)
-[ism-principle-p8](/ism/control/ism-principle-p8)
-[ism-principle-p9](/ism/control/ism-principle-p9)
-[ism-principle-p10](/ism/control/ism-principle-p10)
-[ism-principle-p11](/ism/control/ism-principle-p11)
-[ism-principle-p12](/ism/control/ism-principle-p12)
-[ism-principle-p13](/ism/control/ism-principle-p13)
-[ism-principle-p14](/ism/control/ism-principle-p14)
-[ism-principle-d1](/ism/control/ism-principle-d1)
-[ism-principle-d2](/ism/control/ism-principle-d2)
-[ism-principle-r1](/ism/control/ism-principle-r1)
-[ism-principle-r2](/ism/control/ism-principle-r2)
-[ism-principle-r3](/ism/control/ism-principle-r3)
-[ism-principle-g1](/ism/control/ism-principle-g1)
-[ism-principle-g2](/ism/control/ism-principle-g2)
-[ism-principle-g3](/ism/control/ism-principle-g3)
-[ism-principle-g4](/ism/control/ism-principle-g4)
-[ism-principle-g5](/ism/control/ism-principle-g5)
-[ism-principle-p1](/ism/control/ism-principle-p1)
-[ism-principle-p2](/ism/control/ism-principle-p2)
-[ism-principle-p3](/ism/control/ism-principle-p3)
-[ism-principle-p4](/ism/control/ism-principle-p4)
-[ism-principle-p5](/ism/control/ism-principle-p5)
-[ism-principle-p6](/ism/control/ism-principle-p6)
-[ism-principle-p7](/ism/control/ism-principle-p7)
-[ism-principle-p8](/ism/control/ism-principle-p8)
-[ism-principle-p9](/ism/control/ism-principle-p9)
-[ism-principle-p10](/ism/control/ism-principle-p10)
-[ism-principle-p11](/ism/control/ism-principle-p11)
-[ism-principle-p12](/ism/control/ism-principle-p12)
-[ism-principle-p13](/ism/control/ism-principle-p13)
-[ism-principle-p14](/ism/control/ism-principle-p14)
-[ism-principle-d1](/ism/control/ism-principle-d1)
-[ism-principle-d2](/ism/control/ism-principle-d2)
-[ism-principle-r1](/ism/control/ism-principle-r1)
-[ism-principle-r2](/ism/control/ism-principle-r2)
-[ism-principle-r3](/ism/control/ism-principle-r3)
-[ism-principle-g1](/ism/control/ism-principle-g1)
-[ism-principle-g2](/ism/control/ism-principle-g2)
-[ism-principle-g3](/ism/control/ism-principle-g3)
-[ism-principle-g4](/ism/control/ism-principle-g4)
-[ism-principle-g5](/ism/control/ism-principle-g5)
-[ism-principle-p1](/ism/control/ism-principle-p1)
-[ism-principle-p2](/ism/control/ism-principle-p2)
-[ism-principle-p3](/ism/control/ism-principle-p3)
-[ism-principle-p4](/ism/control/ism-principle-p4)
-[ism-principle-p5](/ism/control/ism-principle-p5)
-[ism-principle-p6](/ism/control/ism-principle-p6)
-[ism-principle-p7](/ism/control/ism-principle-p7)
-[ism-principle-p8](/ism/control/ism-principle-p8)
-[ism-principle-p9](/ism/control/ism-principle-p9)
-[ism-principle-p10](/ism/control/ism-principle-p10)
-[ism-principle-p11](/ism/control/ism-principle-p11)
-[ism-principle-p12](/ism/control/ism-principle-p12)
-[ism-principle-p13](/ism/control/ism-principle-p13)
-[ism-principle-p14](/ism/control/ism-principle-p14)
-[ism-principle-d1](/ism/control/ism-principle-d1)
-[ism-principle-d2](/ism/control/ism-principle-d2)
-[ism-principle-r1](/ism/control/ism-principle-r1)
-[ism-principle-r2](/ism/control/ism-principle-r2)
-[ism-principle-r3](/ism/control/ism-principle-r3)
-[ism-0714](/ism/control/ism-0714)
-[ism-1478](/ism/control/ism-1478)
-[ism-1617](/ism/control/ism-1617)
-[ism-0724](/ism/control/ism-0724)
-[ism-0725](/ism/control/ism-0725)
-[ism-0726](/ism/control/ism-0726)
-[ism-0718](/ism/control/ism-0718)
-[ism-0733](/ism/control/ism-0733)
-[ism-1618](/ism/control/ism-1618)
-[ism-0734](/ism/control/ism-0734)
-[ism-0720](/ism/control/ism-0720)
-[ism-0731](/ism/control/ism-0731)
-[ism-0732](/ism/control/ism-0732)
-[ism-0717](/ism/control/ism-0717)
-[ism-0735](/ism/control/ism-0735)
-[ism-1071](/ism/control/ism-1071)
-[ism-1525](/ism/control/ism-1525)
-[ism-1633](/ism/control/ism-1633)
-[ism-1634](/ism/control/ism-1634)
-[ism-1635](/ism/control/ism-1635)
-[ism-1636](/ism/control/ism-1636)
-[ism-0027](/ism/control/ism-0027)
-[ism-1526](/ism/control/ism-1526)
-[ism-1587](/ism/control/ism-1587)
-[ism-0714](/ism/control/ism-0714)
-[ism-1478](/ism/control/ism-1478)
-[ism-1617](/ism/control/ism-1617)
-[ism-0724](/ism/control/ism-0724)
-[ism-0725](/ism/control/ism-0725)
-[ism-0726](/ism/control/ism-0726)
-[ism-0718](/ism/control/ism-0718)
-[ism-0733](/ism/control/ism-0733)
-[ism-1618](/ism/control/ism-1618)
-[ism-0734](/ism/control/ism-0734)
-[ism-0720](/ism/control/ism-0720)
-[ism-0731](/ism/control/ism-0731)
-[ism-0732](/ism/control/ism-0732)
-[ism-0717](/ism/control/ism-0717)
-[ism-0735](/ism/control/ism-0735)
-[ism-0714](/ism/control/ism-0714)
-[ism-1478](/ism/control/ism-1478)
-[ism-1617](/ism/control/ism-1617)
-[ism-0724](/ism/control/ism-0724)
-[ism-0725](/ism/control/ism-0725)
-[ism-0726](/ism/control/ism-0726)
-[ism-0718](/ism/control/ism-0718)
-[ism-0733](/ism/control/ism-0733)
-[ism-1618](/ism/control/ism-1618)
-[ism-0734](/ism/control/ism-0734)
-[ism-0720](/ism/control/ism-0720)
-[ism-0731](/ism/control/ism-0731)
-[ism-0732](/ism/control/ism-0732)
-[ism-0717](/ism/control/ism-0717)
-[ism-0735](/ism/control/ism-0735)
-[ism-1071](/ism/control/ism-1071)
-[ism-1525](/ism/control/ism-1525)
-[ism-1633](/ism/control/ism-1633)
-[ism-1634](/ism/control/ism-1634)
-[ism-1635](/ism/control/ism-1635)
-[ism-1636](/ism/control/ism-1636)
-[ism-0027](/ism/control/ism-0027)
-[ism-1526](/ism/control/ism-1526)
-[ism-1587](/ism/control/ism-1587)
-[ism-1071](/ism/control/ism-1071)
-[ism-1525](/ism/control/ism-1525)
-[ism-1633](/ism/control/ism-1633)
-[ism-1634](/ism/control/ism-1634)
-[ism-1635](/ism/control/ism-1635)
-[ism-1636](/ism/control/ism-1636)
-[ism-0027](/ism/control/ism-0027)
-[ism-1526](/ism/control/ism-1526)
-[ism-1587](/ism/control/ism-1587)
-[ism-0576](/ism/control/ism-0576)
-[ism-1784](/ism/control/ism-1784)
-[ism-0125](/ism/control/ism-0125)
-[ism-1803](/ism/control/ism-1803)
-[ism-1625](/ism/control/ism-1625)
-[ism-1626](/ism/control/ism-1626)
-[ism-0120](/ism/control/ism-0120)
-[ism-0123](/ism/control/ism-0123)
-[ism-0140](/ism/control/ism-0140)
-[ism-1819](/ism/control/ism-1819)
-[ism-0133](/ism/control/ism-0133)
-[ism-0917](/ism/control/ism-0917)
-[ism-0137](/ism/control/ism-0137)
-[ism-1609](/ism/control/ism-1609)
-[ism-1731](/ism/control/ism-1731)
-[ism-1732](/ism/control/ism-1732)
-[ism-1213](/ism/control/ism-1213)
-[ism-0138](/ism/control/ism-0138)
-[ism-0576](/ism/control/ism-0576)
-[ism-1784](/ism/control/ism-1784)
-[ism-0125](/ism/control/ism-0125)
-[ism-1803](/ism/control/ism-1803)
-[ism-1625](/ism/control/ism-1625)
-[ism-1626](/ism/control/ism-1626)
-[ism-0120](/ism/control/ism-0120)
-[ism-0123](/ism/control/ism-0123)
-[ism-0140](/ism/control/ism-0140)
-[ism-0576](/ism/control/ism-0576)
-[ism-1784](/ism/control/ism-1784)
-[ism-0125](/ism/control/ism-0125)
-[ism-1803](/ism/control/ism-1803)
-[ism-1625](/ism/control/ism-1625)
-[ism-1626](/ism/control/ism-1626)
-[ism-0120](/ism/control/ism-0120)
-[ism-0123](/ism/control/ism-0123)
-[ism-0140](/ism/control/ism-0140)
-[ism-1819](/ism/control/ism-1819)
-[ism-0133](/ism/control/ism-0133)
-[ism-0917](/ism/control/ism-0917)
-[ism-0137](/ism/control/ism-0137)
-[ism-1609](/ism/control/ism-1609)
-[ism-1731](/ism/control/ism-1731)
-[ism-1732](/ism/control/ism-1732)
-[ism-1213](/ism/control/ism-1213)
-[ism-0138](/ism/control/ism-0138)
-[ism-1819](/ism/control/ism-1819)
-[ism-0133](/ism/control/ism-0133)
-[ism-0917](/ism/control/ism-0917)
-[ism-0137](/ism/control/ism-0137)
-[ism-1609](/ism/control/ism-1609)
-[ism-1731](/ism/control/ism-1731)
-[ism-1732](/ism/control/ism-1732)
-[ism-1213](/ism/control/ism-1213)
-[ism-0138](/ism/control/ism-0138)
-[ism-1631](/ism/control/ism-1631)
-[ism-1452](/ism/control/ism-1452)
-[ism-1567](/ism/control/ism-1567)
-[ism-1568](/ism/control/ism-1568)
-[ism-1632](/ism/control/ism-1632)
-[ism-1569](/ism/control/ism-1569)
-[ism-1785](/ism/control/ism-1785)
-[ism-1786](/ism/control/ism-1786)
-[ism-1787](/ism/control/ism-1787)
-[ism-1788](/ism/control/ism-1788)
-[ism-1789](/ism/control/ism-1789)
-[ism-1790](/ism/control/ism-1790)
-[ism-1791](/ism/control/ism-1791)
-[ism-1792](/ism/control/ism-1792)
-[ism-1736](/ism/control/ism-1736)
-[ism-1737](/ism/control/ism-1737)
-[ism-1793](/ism/control/ism-1793)
-[ism-1637](/ism/control/ism-1637)
-[ism-1638](/ism/control/ism-1638)
-[ism-1529](/ism/control/ism-1529)
-[ism-1570](/ism/control/ism-1570)
-[ism-1395](/ism/control/ism-1395)
-[ism-0072](/ism/control/ism-0072)
-[ism-1571](/ism/control/ism-1571)
-[ism-1738](/ism/control/ism-1738)
-[ism-1804](/ism/control/ism-1804)
-[ism-0141](/ism/control/ism-0141)
-[ism-1794](/ism/control/ism-1794)
-[ism-1451](/ism/control/ism-1451)
-[ism-1572](/ism/control/ism-1572)
-[ism-1573](/ism/control/ism-1573)
-[ism-1574](/ism/control/ism-1574)
-[ism-1575](/ism/control/ism-1575)
-[ism-1073](/ism/control/ism-1073)
-[ism-1576](/ism/control/ism-1576)
-[ism-1631](/ism/control/ism-1631)
-[ism-1452](/ism/control/ism-1452)
-[ism-1567](/ism/control/ism-1567)
-[ism-1568](/ism/control/ism-1568)
-[ism-1632](/ism/control/ism-1632)
-[ism-1569](/ism/control/ism-1569)
-[ism-1785](/ism/control/ism-1785)
-[ism-1786](/ism/control/ism-1786)
-[ism-1787](/ism/control/ism-1787)
-[ism-1788](/ism/control/ism-1788)
-[ism-1789](/ism/control/ism-1789)
-[ism-1790](/ism/control/ism-1790)
-[ism-1791](/ism/control/ism-1791)
-[ism-1792](/ism/control/ism-1792)
-[ism-1631](/ism/control/ism-1631)
-[ism-1452](/ism/control/ism-1452)
-[ism-1567](/ism/control/ism-1567)
-[ism-1568](/ism/control/ism-1568)
-[ism-1632](/ism/control/ism-1632)
-[ism-1569](/ism/control/ism-1569)
-[ism-1785](/ism/control/ism-1785)
-[ism-1786](/ism/control/ism-1786)
-[ism-1787](/ism/control/ism-1787)
-[ism-1788](/ism/control/ism-1788)
-[ism-1789](/ism/control/ism-1789)
-[ism-1790](/ism/control/ism-1790)
-[ism-1791](/ism/control/ism-1791)
-[ism-1792](/ism/control/ism-1792)
-[ism-1736](/ism/control/ism-1736)
-[ism-1737](/ism/control/ism-1737)
-[ism-1793](/ism/control/ism-1793)
-[ism-1637](/ism/control/ism-1637)
-[ism-1638](/ism/control/ism-1638)
-[ism-1529](/ism/control/ism-1529)
-[ism-1570](/ism/control/ism-1570)
-[ism-1395](/ism/control/ism-1395)
-[ism-0072](/ism/control/ism-0072)
-[ism-1571](/ism/control/ism-1571)
-[ism-1738](/ism/control/ism-1738)
-[ism-1804](/ism/control/ism-1804)
-[ism-0141](/ism/control/ism-0141)
-[ism-1794](/ism/control/ism-1794)
-[ism-1451](/ism/control/ism-1451)
-[ism-1572](/ism/control/ism-1572)
-[ism-1573](/ism/control/ism-1573)
-[ism-1574](/ism/control/ism-1574)
-[ism-1575](/ism/control/ism-1575)
-[ism-1073](/ism/control/ism-1073)
-[ism-1576](/ism/control/ism-1576)
-[ism-1736](/ism/control/ism-1736)
-[ism-1737](/ism/control/ism-1737)
-[ism-1793](/ism/control/ism-1793)
-[ism-1637](/ism/control/ism-1637)
-[ism-1638](/ism/control/ism-1638)
-[ism-1529](/ism/control/ism-1529)
-[ism-1570](/ism/control/ism-1570)
-[ism-1395](/ism/control/ism-1395)
-[ism-0072](/ism/control/ism-0072)
-[ism-1571](/ism/control/ism-1571)
-[ism-1738](/ism/control/ism-1738)
-[ism-1804](/ism/control/ism-1804)
-[ism-0141](/ism/control/ism-0141)
-[ism-1794](/ism/control/ism-1794)
-[ism-1451](/ism/control/ism-1451)
-[ism-1572](/ism/control/ism-1572)
-[ism-1573](/ism/control/ism-1573)
-[ism-1574](/ism/control/ism-1574)
-[ism-1575](/ism/control/ism-1575)
-[ism-1073](/ism/control/ism-1073)
-[ism-1576](/ism/control/ism-1576)
-[ism-0039](/ism/control/ism-0039)
-[ism-0047](/ism/control/ism-0047)
-[ism-1739](/ism/control/ism-1739)
-[ism-0888](/ism/control/ism-0888)
-[ism-1602](/ism/control/ism-1602)
-[ism-0041](/ism/control/ism-0041)
-[ism-0043](/ism/control/ism-0043)
-[ism-1163](/ism/control/ism-1163)
-[ism-1563](/ism/control/ism-1563)
-[ism-1564](/ism/control/ism-1564)
-[ism-0039](/ism/control/ism-0039)
-[ism-0047](/ism/control/ism-0047)
-[ism-1739](/ism/control/ism-1739)
-[ism-0888](/ism/control/ism-0888)
-[ism-1602](/ism/control/ism-1602)
-[ism-0039](/ism/control/ism-0039)
-[ism-0047](/ism/control/ism-0047)
-[ism-1739](/ism/control/ism-1739)
-[ism-0888](/ism/control/ism-0888)
-[ism-1602](/ism/control/ism-1602)
-[ism-0041](/ism/control/ism-0041)
-[ism-0043](/ism/control/ism-0043)
-[ism-1163](/ism/control/ism-1163)
-[ism-1563](/ism/control/ism-1563)
-[ism-1564](/ism/control/ism-1564)
-[ism-0041](/ism/control/ism-0041)
-[ism-0043](/ism/control/ism-0043)
-[ism-1163](/ism/control/ism-1163)
-[ism-1563](/ism/control/ism-1563)
-[ism-1564](/ism/control/ism-1564)
-[ism-0810](/ism/control/ism-0810)
-[ism-1053](/ism/control/ism-1053)
-[ism-1530](/ism/control/ism-1530)
-[ism-0813](/ism/control/ism-0813)
-[ism-1074](/ism/control/ism-1074)
-[ism-1296](/ism/control/ism-1296)
-[ism-1543](/ism/control/ism-1543)
-[ism-0225](/ism/control/ism-0225)
-[ism-0829](/ism/control/ism-0829)
-[ism-0164](/ism/control/ism-0164)
-[ism-0161](/ism/control/ism-0161)
-[ism-0810](/ism/control/ism-0810)
-[ism-1053](/ism/control/ism-1053)
-[ism-1530](/ism/control/ism-1530)
-[ism-0813](/ism/control/ism-0813)
-[ism-1074](/ism/control/ism-1074)
-[ism-1296](/ism/control/ism-1296)
-[ism-1543](/ism/control/ism-1543)
-[ism-0225](/ism/control/ism-0225)
-[ism-0829](/ism/control/ism-0829)
-[ism-0164](/ism/control/ism-0164)
-[ism-0810](/ism/control/ism-0810)
-[ism-1053](/ism/control/ism-1053)
-[ism-1530](/ism/control/ism-1530)
-[ism-0813](/ism/control/ism-0813)
-[ism-1074](/ism/control/ism-1074)
-[ism-1296](/ism/control/ism-1296)
-[ism-1543](/ism/control/ism-1543)
-[ism-0225](/ism/control/ism-0225)
-[ism-0829](/ism/control/ism-0829)
-[ism-0164](/ism/control/ism-0164)
-[ism-0161](/ism/control/ism-0161)
-[ism-0161](/ism/control/ism-0161)
-[ism-0252](/ism/control/ism-0252)
-[ism-1565](/ism/control/ism-1565)
-[ism-1740](/ism/control/ism-1740)
-[ism-0817](/ism/control/ism-0817)
-[ism-0820](/ism/control/ism-0820)
-[ism-1146](/ism/control/ism-1146)
-[ism-0821](/ism/control/ism-0821)
-[ism-0824](/ism/control/ism-0824)
-[ism-0432](/ism/control/ism-0432)
-[ism-0434](/ism/control/ism-0434)
-[ism-0435](/ism/control/ism-0435)
-[ism-0414](/ism/control/ism-0414)
-[ism-0415](/ism/control/ism-0415)
-[ism-1583](/ism/control/ism-1583)
-[ism-0420](/ism/control/ism-0420)
-[ism-0405](/ism/control/ism-0405)
-[ism-1852](/ism/control/ism-1852)
-[ism-1566](/ism/control/ism-1566)
-[ism-1714](/ism/control/ism-1714)
-[ism-0409](/ism/control/ism-0409)
-[ism-0411](/ism/control/ism-0411)
-[ism-1507](/ism/control/ism-1507)
-[ism-1733](/ism/control/ism-1733)
-[ism-1508](/ism/control/ism-1508)
-[ism-1853](/ism/control/ism-1853)
-[ism-1175](/ism/control/ism-1175)
-[ism-1653](/ism/control/ism-1653)
-[ism-1649](/ism/control/ism-1649)
-[ism-0445](/ism/control/ism-0445)
-[ism-1263](/ism/control/ism-1263)
-[ism-1509](/ism/control/ism-1509)
-[ism-1651](/ism/control/ism-1651)
-[ism-1650](/ism/control/ism-1650)
-[ism-1652](/ism/control/ism-1652)
-[ism-0446](/ism/control/ism-0446)
-[ism-0447](/ism/control/ism-0447)
-[ism-0430](/ism/control/ism-0430)
-[ism-1591](/ism/control/ism-1591)
-[ism-1404](/ism/control/ism-1404)
-[ism-1648](/ism/control/ism-1648)
-[ism-1716](/ism/control/ism-1716)
-[ism-1647](/ism/control/ism-1647)
-[ism-1734](/ism/control/ism-1734)
-[ism-0407](/ism/control/ism-0407)
-[ism-0441](/ism/control/ism-0441)
-[ism-0443](/ism/control/ism-0443)
-[ism-1610](/ism/control/ism-1610)
-[ism-1611](/ism/control/ism-1611)
-[ism-1612](/ism/control/ism-1612)
-[ism-1614](/ism/control/ism-1614)
-[ism-1615](/ism/control/ism-1615)
-[ism-1613](/ism/control/ism-1613)
-[ism-1715](/ism/control/ism-1715)
-[ism-0078](/ism/control/ism-0078)
-[ism-0854](/ism/control/ism-0854)
-[ism-0252](/ism/control/ism-0252)
-[ism-1565](/ism/control/ism-1565)
-[ism-1740](/ism/control/ism-1740)
-[ism-0817](/ism/control/ism-0817)
-[ism-0820](/ism/control/ism-0820)
-[ism-1146](/ism/control/ism-1146)
-[ism-0821](/ism/control/ism-0821)
-[ism-0824](/ism/control/ism-0824)
-[ism-0252](/ism/control/ism-0252)
-[ism-1565](/ism/control/ism-1565)
-[ism-1740](/ism/control/ism-1740)
-[ism-0817](/ism/control/ism-0817)
-[ism-0820](/ism/control/ism-0820)
-[ism-1146](/ism/control/ism-1146)
-[ism-0821](/ism/control/ism-0821)
-[ism-0824](/ism/control/ism-0824)
-[ism-0432](/ism/control/ism-0432)
-[ism-0434](/ism/control/ism-0434)
-[ism-0435](/ism/control/ism-0435)
-[ism-0414](/ism/control/ism-0414)
-[ism-0415](/ism/control/ism-0415)
-[ism-1583](/ism/control/ism-1583)
-[ism-0420](/ism/control/ism-0420)
-[ism-0405](/ism/control/ism-0405)
-[ism-1852](/ism/control/ism-1852)
-[ism-1566](/ism/control/ism-1566)
-[ism-1714](/ism/control/ism-1714)
-[ism-0409](/ism/control/ism-0409)
-[ism-0411](/ism/control/ism-0411)
-[ism-1507](/ism/control/ism-1507)
-[ism-1733](/ism/control/ism-1733)
-[ism-1508](/ism/control/ism-1508)
-[ism-1853](/ism/control/ism-1853)
-[ism-1175](/ism/control/ism-1175)
-[ism-1653](/ism/control/ism-1653)
-[ism-1649](/ism/control/ism-1649)
-[ism-0445](/ism/control/ism-0445)
-[ism-1263](/ism/control/ism-1263)
-[ism-1509](/ism/control/ism-1509)
-[ism-1651](/ism/control/ism-1651)
-[ism-1650](/ism/control/ism-1650)
-[ism-1652](/ism/control/ism-1652)
-[ism-0446](/ism/control/ism-0446)
-[ism-0447](/ism/control/ism-0447)
-[ism-0430](/ism/control/ism-0430)
-[ism-1591](/ism/control/ism-1591)
-[ism-1404](/ism/control/ism-1404)
-[ism-1648](/ism/control/ism-1648)
-[ism-1716](/ism/control/ism-1716)
-[ism-1647](/ism/control/ism-1647)
-[ism-1734](/ism/control/ism-1734)
-[ism-0407](/ism/control/ism-0407)
-[ism-0441](/ism/control/ism-0441)
-[ism-0443](/ism/control/ism-0443)
-[ism-1610](/ism/control/ism-1610)
-[ism-1611](/ism/control/ism-1611)
-[ism-1612](/ism/control/ism-1612)
-[ism-1614](/ism/control/ism-1614)
-[ism-1615](/ism/control/ism-1615)
-[ism-1613](/ism/control/ism-1613)
-[ism-1715](/ism/control/ism-1715)
-[ism-0078](/ism/control/ism-0078)
-[ism-0854](/ism/control/ism-0854)
-[ism-0432](/ism/control/ism-0432)
-[ism-0434](/ism/control/ism-0434)
-[ism-0435](/ism/control/ism-0435)
-[ism-0414](/ism/control/ism-0414)
-[ism-0415](/ism/control/ism-0415)
-[ism-1583](/ism/control/ism-1583)
-[ism-0420](/ism/control/ism-0420)
-[ism-0405](/ism/control/ism-0405)
-[ism-1852](/ism/control/ism-1852)
-[ism-1566](/ism/control/ism-1566)
-[ism-1714](/ism/control/ism-1714)
-[ism-0409](/ism/control/ism-0409)
-[ism-0411](/ism/control/ism-0411)
-[ism-1507](/ism/control/ism-1507)
-[ism-1733](/ism/control/ism-1733)
-[ism-1508](/ism/control/ism-1508)
-[ism-1853](/ism/control/ism-1853)
-[ism-1175](/ism/control/ism-1175)
-[ism-1653](/ism/control/ism-1653)
-[ism-1649](/ism/control/ism-1649)
-[ism-0445](/ism/control/ism-0445)
-[ism-1263](/ism/control/ism-1263)
-[ism-1509](/ism/control/ism-1509)
-[ism-1651](/ism/control/ism-1651)
-[ism-1650](/ism/control/ism-1650)
-[ism-1652](/ism/control/ism-1652)
-[ism-0446](/ism/control/ism-0446)
-[ism-0447](/ism/control/ism-0447)
-[ism-0430](/ism/control/ism-0430)
-[ism-1591](/ism/control/ism-1591)
-[ism-1404](/ism/control/ism-1404)
-[ism-1648](/ism/control/ism-1648)
-[ism-1716](/ism/control/ism-1716)
-[ism-1647](/ism/control/ism-1647)
-[ism-1734](/ism/control/ism-1734)
-[ism-0407](/ism/control/ism-0407)
-[ism-0441](/ism/control/ism-0441)
-[ism-0443](/ism/control/ism-0443)
-[ism-1610](/ism/control/ism-1610)
-[ism-1611](/ism/control/ism-1611)
-[ism-1612](/ism/control/ism-1612)
-[ism-1614](/ism/control/ism-1614)
-[ism-1615](/ism/control/ism-1615)
-[ism-1613](/ism/control/ism-1613)
-[ism-1715](/ism/control/ism-1715)
-[ism-0078](/ism/control/ism-0078)
-[ism-0854](/ism/control/ism-0854)
-[ism-0181](/ism/control/ism-0181)
-[ism-1111](/ism/control/ism-1111)
-[ism-0211](/ism/control/ism-0211)
-[ism-0208](/ism/control/ism-0208)
-[ism-1645](/ism/control/ism-1645)
-[ism-1646](/ism/control/ism-1646)
-[ism-0206](/ism/control/ism-0206)
-[ism-1096](/ism/control/ism-1096)
-[ism-1639](/ism/control/ism-1639)
-[ism-1640](/ism/control/ism-1640)
-[ism-1820](/ism/control/ism-1820)
-[ism-0926](/ism/control/ism-0926)
-[ism-1718](/ism/control/ism-1718)
-[ism-1719](/ism/control/ism-1719)
-[ism-1216](/ism/control/ism-1216)
-[ism-1112](/ism/control/ism-1112)
-[ism-1119](/ism/control/ism-1119)
-[ism-0187](/ism/control/ism-0187)
-[ism-1821](/ism/control/ism-1821)
-[ism-1114](/ism/control/ism-1114)
-[ism-1130](/ism/control/ism-1130)
-[ism-1164](/ism/control/ism-1164)
-[ism-0195](/ism/control/ism-0195)
-[ism-0194](/ism/control/ism-0194)
-[ism-0201](/ism/control/ism-0201)
-[ism-1115](/ism/control/ism-1115)
-[ism-1133](/ism/control/ism-1133)
-[ism-1122](/ism/control/ism-1122)
-[ism-1105](/ism/control/ism-1105)
-[ism-1095](/ism/control/ism-1095)
-[ism-1822](/ism/control/ism-1822)
-[ism-1107](/ism/control/ism-1107)
-[ism-1720](/ism/control/ism-1720)
-[ism-1721](/ism/control/ism-1721)
-[ism-1109](/ism/control/ism-1109)
-[ism-0218](/ism/control/ism-0218)
-[ism-1102](/ism/control/ism-1102)
-[ism-1101](/ism/control/ism-1101)
-[ism-1103](/ism/control/ism-1103)
-[ism-1098](/ism/control/ism-1098)
-[ism-1100](/ism/control/ism-1100)
-[ism-0213](/ism/control/ism-0213)
-[ism-0216](/ism/control/ism-0216)
-[ism-0217](/ism/control/ism-0217)
-[ism-1116](/ism/control/ism-1116)
-[ism-0198](/ism/control/ism-0198)
-[ism-1123](/ism/control/ism-1123)
-[ism-0248](/ism/control/ism-0248)
-[ism-0247](/ism/control/ism-0247)
-[ism-1137](/ism/control/ism-1137)
-[ism-0249](/ism/control/ism-0249)
-[ism-0246](/ism/control/ism-0246)
-[ism-0250](/ism/control/ism-0250)
-[ism-0181](/ism/control/ism-0181)
-[ism-1111](/ism/control/ism-1111)
-[ism-0211](/ism/control/ism-0211)
-[ism-0208](/ism/control/ism-0208)
-[ism-1645](/ism/control/ism-1645)
-[ism-1646](/ism/control/ism-1646)
-[ism-0206](/ism/control/ism-0206)
-[ism-1096](/ism/control/ism-1096)
-[ism-1639](/ism/control/ism-1639)
-[ism-1640](/ism/control/ism-1640)
-[ism-1820](/ism/control/ism-1820)
-[ism-0926](/ism/control/ism-0926)
-[ism-1718](/ism/control/ism-1718)
-[ism-1719](/ism/control/ism-1719)
-[ism-1216](/ism/control/ism-1216)
-[ism-1112](/ism/control/ism-1112)
-[ism-1119](/ism/control/ism-1119)
-[ism-0187](/ism/control/ism-0187)
-[ism-1821](/ism/control/ism-1821)
-[ism-1114](/ism/control/ism-1114)
-[ism-1130](/ism/control/ism-1130)
-[ism-1164](/ism/control/ism-1164)
-[ism-0195](/ism/control/ism-0195)
-[ism-0194](/ism/control/ism-0194)
-[ism-0201](/ism/control/ism-0201)
-[ism-1115](/ism/control/ism-1115)
-[ism-1133](/ism/control/ism-1133)
-[ism-1122](/ism/control/ism-1122)
-[ism-1105](/ism/control/ism-1105)
-[ism-1095](/ism/control/ism-1095)
-[ism-1822](/ism/control/ism-1822)
-[ism-1107](/ism/control/ism-1107)
-[ism-1720](/ism/control/ism-1720)
-[ism-1721](/ism/control/ism-1721)
-[ism-1109](/ism/control/ism-1109)
-[ism-0218](/ism/control/ism-0218)
-[ism-1102](/ism/control/ism-1102)
-[ism-1101](/ism/control/ism-1101)
-[ism-1103](/ism/control/ism-1103)
-[ism-1098](/ism/control/ism-1098)
-[ism-1100](/ism/control/ism-1100)
-[ism-0213](/ism/control/ism-0213)
-[ism-0216](/ism/control/ism-0216)
-[ism-0217](/ism/control/ism-0217)
-[ism-1116](/ism/control/ism-1116)
-[ism-0198](/ism/control/ism-0198)
-[ism-1123](/ism/control/ism-1123)
-[ism-0181](/ism/control/ism-0181)
-[ism-1111](/ism/control/ism-1111)
-[ism-0211](/ism/control/ism-0211)
-[ism-0208](/ism/control/ism-0208)
-[ism-1645](/ism/control/ism-1645)
-[ism-1646](/ism/control/ism-1646)
-[ism-0206](/ism/control/ism-0206)
-[ism-1096](/ism/control/ism-1096)
-[ism-1639](/ism/control/ism-1639)
-[ism-1640](/ism/control/ism-1640)
-[ism-1820](/ism/control/ism-1820)
-[ism-0926](/ism/control/ism-0926)
-[ism-1718](/ism/control/ism-1718)
-[ism-1719](/ism/control/ism-1719)
-[ism-1216](/ism/control/ism-1216)
-[ism-1112](/ism/control/ism-1112)
-[ism-1119](/ism/control/ism-1119)
-[ism-0187](/ism/control/ism-0187)
-[ism-1821](/ism/control/ism-1821)
-[ism-1114](/ism/control/ism-1114)
-[ism-1130](/ism/control/ism-1130)
-[ism-1164](/ism/control/ism-1164)
-[ism-0195](/ism/control/ism-0195)
-[ism-0194](/ism/control/ism-0194)
-[ism-0201](/ism/control/ism-0201)
-[ism-1115](/ism/control/ism-1115)
-[ism-1133](/ism/control/ism-1133)
-[ism-1122](/ism/control/ism-1122)
-[ism-1105](/ism/control/ism-1105)
-[ism-1095](/ism/control/ism-1095)
-[ism-1822](/ism/control/ism-1822)
-[ism-1107](/ism/control/ism-1107)
-[ism-1720](/ism/control/ism-1720)
-[ism-1721](/ism/control/ism-1721)
-[ism-1109](/ism/control/ism-1109)
-[ism-0218](/ism/control/ism-0218)
-[ism-1102](/ism/control/ism-1102)
-[ism-1101](/ism/control/ism-1101)
-[ism-1103](/ism/control/ism-1103)
-[ism-1098](/ism/control/ism-1098)
-[ism-1100](/ism/control/ism-1100)
-[ism-0213](/ism/control/ism-0213)
-[ism-0216](/ism/control/ism-0216)
-[ism-0217](/ism/control/ism-0217)
-[ism-1116](/ism/control/ism-1116)
-[ism-0198](/ism/control/ism-0198)
-[ism-1123](/ism/control/ism-1123)
-[ism-0248](/ism/control/ism-0248)
-[ism-0247](/ism/control/ism-0247)
-[ism-1137](/ism/control/ism-1137)
-[ism-0249](/ism/control/ism-0249)
-[ism-0246](/ism/control/ism-0246)
-[ism-0250](/ism/control/ism-0250)
-[ism-0248](/ism/control/ism-0248)
-[ism-0247](/ism/control/ism-0247)
-[ism-1137](/ism/control/ism-1137)
-[ism-0249](/ism/control/ism-0249)
-[ism-0246](/ism/control/ism-0246)
-[ism-0250](/ism/control/ism-0250)
-[ism-1078](/ism/control/ism-1078)
-[ism-0229](/ism/control/ism-0229)
-[ism-0230](/ism/control/ism-0230)
-[ism-0231](/ism/control/ism-0231)
-[ism-0232](/ism/control/ism-0232)
-[ism-0233](/ism/control/ism-0233)
-[ism-0235](/ism/control/ism-0235)
-[ism-0236](/ism/control/ism-0236)
-[ism-0931](/ism/control/ism-0931)
-[ism-1562](/ism/control/ism-1562)
-[ism-0546](/ism/control/ism-0546)
-[ism-0548](/ism/control/ism-0548)
-[ism-0547](/ism/control/ism-0547)
-[ism-0554](/ism/control/ism-0554)
-[ism-0553](/ism/control/ism-0553)
-[ism-0555](/ism/control/ism-0555)
-[ism-0551](/ism/control/ism-0551)
-[ism-1014](/ism/control/ism-1014)
-[ism-0549](/ism/control/ism-0549)
-[ism-0556](/ism/control/ism-0556)
-[ism-0558](/ism/control/ism-0558)
-[ism-0559](/ism/control/ism-0559)
-[ism-1450](/ism/control/ism-1450)
-[ism-1019](/ism/control/ism-1019)
-[ism-1805](/ism/control/ism-1805)
-[ism-0588](/ism/control/ism-0588)
-[ism-1092](/ism/control/ism-1092)
-[ism-0241](/ism/control/ism-0241)
-[ism-1075](/ism/control/ism-1075)
-[ism-0245](/ism/control/ism-0245)
-[ism-1854](/ism/control/ism-1854)
-[ism-0590](/ism/control/ism-0590)
-[ism-0589](/ism/control/ism-0589)
-[ism-1855](/ism/control/ism-1855)
-[ism-1856](/ism/control/ism-1856)
-[ism-1036](/ism/control/ism-1036)
-[ism-1078](/ism/control/ism-1078)
-[ism-0229](/ism/control/ism-0229)
-[ism-0230](/ism/control/ism-0230)
-[ism-0231](/ism/control/ism-0231)
-[ism-0232](/ism/control/ism-0232)
-[ism-0233](/ism/control/ism-0233)
-[ism-0235](/ism/control/ism-0235)
-[ism-0236](/ism/control/ism-0236)
-[ism-0931](/ism/control/ism-0931)
-[ism-1078](/ism/control/ism-1078)
-[ism-0229](/ism/control/ism-0229)
-[ism-0230](/ism/control/ism-0230)
-[ism-0231](/ism/control/ism-0231)
-[ism-0232](/ism/control/ism-0232)
-[ism-0233](/ism/control/ism-0233)
-[ism-0235](/ism/control/ism-0235)
-[ism-0236](/ism/control/ism-0236)
-[ism-0931](/ism/control/ism-0931)
-[ism-1562](/ism/control/ism-1562)
-[ism-0546](/ism/control/ism-0546)
-[ism-0548](/ism/control/ism-0548)
-[ism-0547](/ism/control/ism-0547)
-[ism-0554](/ism/control/ism-0554)
-[ism-0553](/ism/control/ism-0553)
-[ism-0555](/ism/control/ism-0555)
-[ism-0551](/ism/control/ism-0551)
-[ism-1014](/ism/control/ism-1014)
-[ism-0549](/ism/control/ism-0549)
-[ism-0556](/ism/control/ism-0556)
-[ism-0558](/ism/control/ism-0558)
-[ism-0559](/ism/control/ism-0559)
-[ism-1450](/ism/control/ism-1450)
-[ism-1019](/ism/control/ism-1019)
-[ism-1805](/ism/control/ism-1805)
-[ism-1562](/ism/control/ism-1562)
-[ism-0546](/ism/control/ism-0546)
-[ism-0548](/ism/control/ism-0548)
-[ism-0547](/ism/control/ism-0547)
-[ism-0554](/ism/control/ism-0554)
-[ism-0553](/ism/control/ism-0553)
-[ism-0555](/ism/control/ism-0555)
-[ism-0551](/ism/control/ism-0551)
-[ism-1014](/ism/control/ism-1014)
-[ism-0549](/ism/control/ism-0549)
-[ism-0556](/ism/control/ism-0556)
-[ism-0558](/ism/control/ism-0558)
-[ism-0559](/ism/control/ism-0559)
-[ism-1450](/ism/control/ism-1450)
-[ism-1019](/ism/control/ism-1019)
-[ism-1805](/ism/control/ism-1805)
-[ism-0588](/ism/control/ism-0588)
-[ism-1092](/ism/control/ism-1092)
-[ism-0241](/ism/control/ism-0241)
-[ism-1075](/ism/control/ism-1075)
-[ism-0245](/ism/control/ism-0245)
-[ism-1854](/ism/control/ism-1854)
-[ism-0590](/ism/control/ism-0590)
-[ism-0589](/ism/control/ism-0589)
-[ism-1855](/ism/control/ism-1855)
-[ism-1856](/ism/control/ism-1856)
-[ism-1036](/ism/control/ism-1036)
-[ism-0588](/ism/control/ism-0588)
-[ism-1092](/ism/control/ism-1092)
-[ism-0241](/ism/control/ism-0241)
-[ism-1075](/ism/control/ism-1075)
-[ism-0245](/ism/control/ism-0245)
-[ism-1854](/ism/control/ism-1854)
-[ism-0590](/ism/control/ism-0590)
-[ism-0589](/ism/control/ism-0589)
-[ism-1855](/ism/control/ism-1855)
-[ism-1856](/ism/control/ism-1856)
-[ism-1036](/ism/control/ism-1036)
-[ism-1533](/ism/control/ism-1533)
-[ism-1195](/ism/control/ism-1195)
-[ism-0687](/ism/control/ism-0687)
-[ism-1297](/ism/control/ism-1297)
-[ism-1400](/ism/control/ism-1400)
-[ism-0694](/ism/control/ism-0694)
-[ism-1482](/ism/control/ism-1482)
-[ism-0869](/ism/control/ism-0869)
-[ism-1085](/ism/control/ism-1085)
-[ism-1196](/ism/control/ism-1196)
-[ism-1200](/ism/control/ism-1200)
-[ism-1198](/ism/control/ism-1198)
-[ism-1199](/ism/control/ism-1199)
-[ism-0682](/ism/control/ism-0682)
-[ism-0863](/ism/control/ism-0863)
-[ism-0864](/ism/control/ism-0864)
-[ism-1366](/ism/control/ism-1366)
-[ism-0874](/ism/control/ism-0874)
-[ism-0705](/ism/control/ism-0705)
-[ism-1082](/ism/control/ism-1082)
-[ism-1083](/ism/control/ism-1083)
-[ism-0240](/ism/control/ism-0240)
-[ism-0866](/ism/control/ism-0866)
-[ism-1145](/ism/control/ism-1145)
-[ism-1644](/ism/control/ism-1644)
-[ism-0871](/ism/control/ism-0871)
-[ism-0870](/ism/control/ism-0870)
-[ism-1084](/ism/control/ism-1084)
-[ism-0701](/ism/control/ism-0701)
-[ism-0702](/ism/control/ism-0702)
-[ism-1298](/ism/control/ism-1298)
-[ism-1554](/ism/control/ism-1554)
-[ism-1555](/ism/control/ism-1555)
-[ism-1299](/ism/control/ism-1299)
-[ism-1088](/ism/control/ism-1088)
-[ism-1300](/ism/control/ism-1300)
-[ism-1556](/ism/control/ism-1556)
-[ism-1533](/ism/control/ism-1533)
-[ism-1195](/ism/control/ism-1195)
-[ism-0687](/ism/control/ism-0687)
-[ism-1297](/ism/control/ism-1297)
-[ism-1400](/ism/control/ism-1400)
-[ism-0694](/ism/control/ism-0694)
-[ism-1482](/ism/control/ism-1482)
-[ism-0869](/ism/control/ism-0869)
-[ism-1085](/ism/control/ism-1085)
-[ism-1196](/ism/control/ism-1196)
-[ism-1200](/ism/control/ism-1200)
-[ism-1198](/ism/control/ism-1198)
-[ism-1199](/ism/control/ism-1199)
-[ism-0682](/ism/control/ism-0682)
-[ism-0863](/ism/control/ism-0863)
-[ism-0864](/ism/control/ism-0864)
-[ism-1366](/ism/control/ism-1366)
-[ism-0874](/ism/control/ism-0874)
-[ism-0705](/ism/control/ism-0705)
-[ism-1533](/ism/control/ism-1533)
-[ism-1195](/ism/control/ism-1195)
-[ism-0687](/ism/control/ism-0687)
-[ism-1297](/ism/control/ism-1297)
-[ism-1400](/ism/control/ism-1400)
-[ism-0694](/ism/control/ism-0694)
-[ism-1482](/ism/control/ism-1482)
-[ism-0869](/ism/control/ism-0869)
-[ism-1085](/ism/control/ism-1085)
-[ism-1196](/ism/control/ism-1196)
-[ism-1200](/ism/control/ism-1200)
-[ism-1198](/ism/control/ism-1198)
-[ism-1199](/ism/control/ism-1199)
-[ism-0682](/ism/control/ism-0682)
-[ism-0863](/ism/control/ism-0863)
-[ism-0864](/ism/control/ism-0864)
-[ism-1366](/ism/control/ism-1366)
-[ism-0874](/ism/control/ism-0874)
-[ism-0705](/ism/control/ism-0705)
-[ism-1082](/ism/control/ism-1082)
-[ism-1083](/ism/control/ism-1083)
-[ism-0240](/ism/control/ism-0240)
-[ism-0866](/ism/control/ism-0866)
-[ism-1145](/ism/control/ism-1145)
-[ism-1644](/ism/control/ism-1644)
-[ism-0871](/ism/control/ism-0871)
-[ism-0870](/ism/control/ism-0870)
-[ism-1084](/ism/control/ism-1084)
-[ism-0701](/ism/control/ism-0701)
-[ism-0702](/ism/control/ism-0702)
-[ism-1298](/ism/control/ism-1298)
-[ism-1554](/ism/control/ism-1554)
-[ism-1555](/ism/control/ism-1555)
-[ism-1299](/ism/control/ism-1299)
-[ism-1088](/ism/control/ism-1088)
-[ism-1300](/ism/control/ism-1300)
-[ism-1556](/ism/control/ism-1556)
-[ism-1082](/ism/control/ism-1082)
-[ism-1083](/ism/control/ism-1083)
-[ism-0240](/ism/control/ism-0240)
-[ism-0866](/ism/control/ism-0866)
-[ism-1145](/ism/control/ism-1145)
-[ism-1644](/ism/control/ism-1644)
-[ism-0871](/ism/control/ism-0871)
-[ism-0870](/ism/control/ism-0870)
-[ism-1084](/ism/control/ism-1084)
-[ism-0701](/ism/control/ism-0701)
-[ism-0702](/ism/control/ism-0702)
-[ism-1298](/ism/control/ism-1298)
-[ism-1554](/ism/control/ism-1554)
-[ism-1555](/ism/control/ism-1555)
-[ism-1299](/ism/control/ism-1299)
-[ism-1088](/ism/control/ism-1088)
-[ism-1300](/ism/control/ism-1300)
-[ism-1556](/ism/control/ism-1556)
-[ism-0280](/ism/control/ism-0280)
-[ism-0285](/ism/control/ism-0285)
-[ism-0286](/ism/control/ism-0286)
-[ism-0289](/ism/control/ism-0289)
-[ism-0290](/ism/control/ism-0290)
-[ism-0280](/ism/control/ism-0280)
-[ism-0285](/ism/control/ism-0285)
-[ism-0286](/ism/control/ism-0286)
-[ism-0280](/ism/control/ism-0280)
-[ism-0285](/ism/control/ism-0285)
-[ism-0286](/ism/control/ism-0286)
-[ism-0289](/ism/control/ism-0289)
-[ism-0290](/ism/control/ism-0290)
-[ism-0289](/ism/control/ism-0289)
-[ism-0290](/ism/control/ism-0290)
-[ism-1551](/ism/control/ism-1551)
-[ism-1857](/ism/control/ism-1857)
-[ism-1858](/ism/control/ism-1858)
-[ism-0336](/ism/control/ism-0336)
-[ism-0294](/ism/control/ism-0294)
-[ism-0296](/ism/control/ism-0296)
-[ism-0293](/ism/control/ism-0293)
-[ism-1599](/ism/control/ism-1599)
-[ism-1079](/ism/control/ism-1079)
-[ism-0305](/ism/control/ism-0305)
-[ism-0307](/ism/control/ism-0307)
-[ism-0306](/ism/control/ism-0306)
-[ism-0310](/ism/control/ism-0310)
-[ism-1598](/ism/control/ism-1598)
-[ism-0313](/ism/control/ism-0313)
-[ism-1741](/ism/control/ism-1741)
-[ism-0311](/ism/control/ism-0311)
-[ism-1742](/ism/control/ism-1742)
-[ism-1218](/ism/control/ism-1218)
-[ism-0312](/ism/control/ism-0312)
-[ism-0315](/ism/control/ism-0315)
-[ism-0317](/ism/control/ism-0317)
-[ism-1219](/ism/control/ism-1219)
-[ism-1220](/ism/control/ism-1220)
-[ism-1221](/ism/control/ism-1221)
-[ism-0318](/ism/control/ism-0318)
-[ism-1534](/ism/control/ism-1534)
-[ism-1076](/ism/control/ism-1076)
-[ism-1222](/ism/control/ism-1222)
-[ism-1223](/ism/control/ism-1223)
-[ism-1225](/ism/control/ism-1225)
-[ism-1226](/ism/control/ism-1226)
-[ism-1550](/ism/control/ism-1550)
-[ism-1217](/ism/control/ism-1217)
-[ism-0321](/ism/control/ism-0321)
-[ism-0316](/ism/control/ism-0316)
-[ism-1551](/ism/control/ism-1551)
-[ism-1857](/ism/control/ism-1857)
-[ism-1858](/ism/control/ism-1858)
-[ism-0336](/ism/control/ism-0336)
-[ism-0294](/ism/control/ism-0294)
-[ism-0296](/ism/control/ism-0296)
-[ism-0293](/ism/control/ism-0293)
-[ism-1599](/ism/control/ism-1599)
-[ism-1551](/ism/control/ism-1551)
-[ism-1857](/ism/control/ism-1857)
-[ism-1858](/ism/control/ism-1858)
-[ism-0336](/ism/control/ism-0336)
-[ism-0294](/ism/control/ism-0294)
-[ism-0296](/ism/control/ism-0296)
-[ism-0293](/ism/control/ism-0293)
-[ism-1599](/ism/control/ism-1599)
-[ism-1079](/ism/control/ism-1079)
-[ism-0305](/ism/control/ism-0305)
-[ism-0307](/ism/control/ism-0307)
-[ism-0306](/ism/control/ism-0306)
-[ism-0310](/ism/control/ism-0310)
-[ism-1598](/ism/control/ism-1598)
-[ism-1079](/ism/control/ism-1079)
-[ism-0305](/ism/control/ism-0305)
-[ism-0307](/ism/control/ism-0307)
-[ism-0306](/ism/control/ism-0306)
-[ism-0310](/ism/control/ism-0310)
-[ism-1598](/ism/control/ism-1598)
-[ism-0313](/ism/control/ism-0313)
-[ism-1741](/ism/control/ism-1741)
-[ism-0311](/ism/control/ism-0311)
-[ism-1742](/ism/control/ism-1742)
-[ism-1218](/ism/control/ism-1218)
-[ism-0312](/ism/control/ism-0312)
-[ism-0315](/ism/control/ism-0315)
-[ism-0317](/ism/control/ism-0317)
-[ism-1219](/ism/control/ism-1219)
-[ism-1220](/ism/control/ism-1220)
-[ism-1221](/ism/control/ism-1221)
-[ism-0318](/ism/control/ism-0318)
-[ism-1534](/ism/control/ism-1534)
-[ism-1076](/ism/control/ism-1076)
-[ism-1222](/ism/control/ism-1222)
-[ism-1223](/ism/control/ism-1223)
-[ism-1225](/ism/control/ism-1225)
-[ism-1226](/ism/control/ism-1226)
-[ism-0313](/ism/control/ism-0313)
-[ism-1741](/ism/control/ism-1741)
-[ism-0311](/ism/control/ism-0311)
-[ism-1742](/ism/control/ism-1742)
-[ism-1218](/ism/control/ism-1218)
-[ism-0312](/ism/control/ism-0312)
-[ism-0315](/ism/control/ism-0315)
-[ism-0317](/ism/control/ism-0317)
-[ism-1219](/ism/control/ism-1219)
-[ism-1220](/ism/control/ism-1220)
-[ism-1221](/ism/control/ism-1221)
-[ism-0318](/ism/control/ism-0318)
-[ism-1534](/ism/control/ism-1534)
-[ism-1076](/ism/control/ism-1076)
-[ism-1222](/ism/control/ism-1222)
-[ism-1223](/ism/control/ism-1223)
-[ism-1225](/ism/control/ism-1225)
-[ism-1226](/ism/control/ism-1226)
-[ism-1550](/ism/control/ism-1550)
-[ism-1217](/ism/control/ism-1217)
-[ism-0321](/ism/control/ism-0321)
-[ism-0316](/ism/control/ism-0316)
-[ism-1550](/ism/control/ism-1550)
-[ism-1217](/ism/control/ism-1217)
-[ism-0321](/ism/control/ism-0321)
-[ism-0316](/ism/control/ism-0316)
-[ism-1549](/ism/control/ism-1549)
-[ism-1359](/ism/control/ism-1359)
-[ism-1713](/ism/control/ism-1713)
-[ism-0332](/ism/control/ism-0332)
-[ism-0323](/ism/control/ism-0323)
-[ism-0337](/ism/control/ism-0337)
-[ism-0325](/ism/control/ism-0325)
-[ism-0330](/ism/control/ism-0330)
-[ism-0831](/ism/control/ism-0831)
-[ism-1059](/ism/control/ism-1059)
-[ism-1600](/ism/control/ism-1600)
-[ism-1642](/ism/control/ism-1642)
-[ism-0347](/ism/control/ism-0347)
-[ism-0947](/ism/control/ism-0947)
-[ism-0348](/ism/control/ism-0348)
-[ism-0351](/ism/control/ism-0351)
-[ism-0352](/ism/control/ism-0352)
-[ism-0835](/ism/control/ism-0835)
-[ism-0354](/ism/control/ism-0354)
-[ism-1065](/ism/control/ism-1065)
-[ism-1067](/ism/control/ism-1067)
-[ism-0356](/ism/control/ism-0356)
-[ism-0357](/ism/control/ism-0357)
-[ism-0836](/ism/control/ism-0836)
-[ism-0358](/ism/control/ism-0358)
-[ism-0359](/ism/control/ism-0359)
-[ism-0360](/ism/control/ism-0360)
-[ism-1735](/ism/control/ism-1735)
-[ism-0363](/ism/control/ism-0363)
-[ism-0350](/ism/control/ism-0350)
-[ism-1361](/ism/control/ism-1361)
-[ism-1160](/ism/control/ism-1160)
-[ism-1517](/ism/control/ism-1517)
-[ism-1722](/ism/control/ism-1722)
-[ism-1723](/ism/control/ism-1723)
-[ism-1724](/ism/control/ism-1724)
-[ism-1725](/ism/control/ism-1725)
-[ism-1726](/ism/control/ism-1726)
-[ism-1727](/ism/control/ism-1727)
-[ism-0368](/ism/control/ism-0368)
-[ism-1728](/ism/control/ism-1728)
-[ism-1729](/ism/control/ism-1729)
-[ism-0361](/ism/control/ism-0361)
-[ism-0362](/ism/control/ism-0362)
-[ism-1641](/ism/control/ism-1641)
-[ism-0370](/ism/control/ism-0370)
-[ism-0371](/ism/control/ism-0371)
-[ism-0372](/ism/control/ism-0372)
-[ism-0373](/ism/control/ism-0373)
-[ism-0839](/ism/control/ism-0839)
-[ism-0840](/ism/control/ism-0840)
-[ism-0374](/ism/control/ism-0374)
-[ism-0378](/ism/control/ism-0378)
-[ism-0375](/ism/control/ism-0375)
-[ism-1549](/ism/control/ism-1549)
-[ism-1359](/ism/control/ism-1359)
-[ism-1713](/ism/control/ism-1713)
-[ism-0332](/ism/control/ism-0332)
-[ism-0323](/ism/control/ism-0323)
-[ism-0337](/ism/control/ism-0337)
-[ism-0325](/ism/control/ism-0325)
-[ism-0330](/ism/control/ism-0330)
-[ism-0831](/ism/control/ism-0831)
-[ism-1059](/ism/control/ism-1059)
-[ism-1600](/ism/control/ism-1600)
-[ism-1642](/ism/control/ism-1642)
-[ism-0347](/ism/control/ism-0347)
-[ism-0947](/ism/control/ism-0947)
-[ism-1549](/ism/control/ism-1549)
-[ism-1359](/ism/control/ism-1359)
-[ism-1713](/ism/control/ism-1713)
-[ism-0332](/ism/control/ism-0332)
-[ism-0323](/ism/control/ism-0323)
-[ism-0337](/ism/control/ism-0337)
-[ism-0325](/ism/control/ism-0325)
-[ism-0330](/ism/control/ism-0330)
-[ism-0831](/ism/control/ism-0831)
-[ism-1059](/ism/control/ism-1059)
-[ism-1600](/ism/control/ism-1600)
-[ism-1642](/ism/control/ism-1642)
-[ism-0347](/ism/control/ism-0347)
-[ism-0947](/ism/control/ism-0947)
-[ism-0348](/ism/control/ism-0348)
-[ism-0351](/ism/control/ism-0351)
-[ism-0352](/ism/control/ism-0352)
-[ism-0835](/ism/control/ism-0835)
-[ism-0354](/ism/control/ism-0354)
-[ism-1065](/ism/control/ism-1065)
-[ism-1067](/ism/control/ism-1067)
-[ism-0356](/ism/control/ism-0356)
-[ism-0357](/ism/control/ism-0357)
-[ism-0836](/ism/control/ism-0836)
-[ism-0358](/ism/control/ism-0358)
-[ism-0359](/ism/control/ism-0359)
-[ism-0360](/ism/control/ism-0360)
-[ism-1735](/ism/control/ism-1735)
-[ism-0348](/ism/control/ism-0348)
-[ism-0351](/ism/control/ism-0351)
-[ism-0352](/ism/control/ism-0352)
-[ism-0835](/ism/control/ism-0835)
-[ism-0354](/ism/control/ism-0354)
-[ism-1065](/ism/control/ism-1065)
-[ism-1067](/ism/control/ism-1067)
-[ism-0356](/ism/control/ism-0356)
-[ism-0357](/ism/control/ism-0357)
-[ism-0836](/ism/control/ism-0836)
-[ism-0358](/ism/control/ism-0358)
-[ism-0359](/ism/control/ism-0359)
-[ism-0360](/ism/control/ism-0360)
-[ism-1735](/ism/control/ism-1735)
-[ism-0363](/ism/control/ism-0363)
-[ism-0350](/ism/control/ism-0350)
-[ism-1361](/ism/control/ism-1361)
-[ism-1160](/ism/control/ism-1160)
-[ism-1517](/ism/control/ism-1517)
-[ism-1722](/ism/control/ism-1722)
-[ism-1723](/ism/control/ism-1723)
-[ism-1724](/ism/control/ism-1724)
-[ism-1725](/ism/control/ism-1725)
-[ism-1726](/ism/control/ism-1726)
-[ism-1727](/ism/control/ism-1727)
-[ism-0368](/ism/control/ism-0368)
-[ism-1728](/ism/control/ism-1728)
-[ism-1729](/ism/control/ism-1729)
-[ism-0361](/ism/control/ism-0361)
-[ism-0362](/ism/control/ism-0362)
-[ism-1641](/ism/control/ism-1641)
-[ism-0370](/ism/control/ism-0370)
-[ism-0371](/ism/control/ism-0371)
-[ism-0372](/ism/control/ism-0372)
-[ism-0373](/ism/control/ism-0373)
-[ism-0839](/ism/control/ism-0839)
-[ism-0840](/ism/control/ism-0840)
-[ism-0363](/ism/control/ism-0363)
-[ism-0350](/ism/control/ism-0350)
-[ism-1361](/ism/control/ism-1361)
-[ism-1160](/ism/control/ism-1160)
-[ism-1517](/ism/control/ism-1517)
-[ism-1722](/ism/control/ism-1722)
-[ism-1723](/ism/control/ism-1723)
-[ism-1724](/ism/control/ism-1724)
-[ism-1725](/ism/control/ism-1725)
-[ism-1726](/ism/control/ism-1726)
-[ism-1727](/ism/control/ism-1727)
-[ism-0368](/ism/control/ism-0368)
-[ism-1728](/ism/control/ism-1728)
-[ism-1729](/ism/control/ism-1729)
-[ism-0361](/ism/control/ism-0361)
-[ism-0362](/ism/control/ism-0362)
-[ism-1641](/ism/control/ism-1641)
-[ism-0370](/ism/control/ism-0370)
-[ism-0371](/ism/control/ism-0371)
-[ism-0372](/ism/control/ism-0372)
-[ism-0373](/ism/control/ism-0373)
-[ism-0839](/ism/control/ism-0839)
-[ism-0840](/ism/control/ism-0840)
-[ism-0374](/ism/control/ism-0374)
-[ism-0378](/ism/control/ism-0378)
-[ism-0375](/ism/control/ism-0375)
-[ism-0374](/ism/control/ism-0374)
-[ism-0378](/ism/control/ism-0378)
-[ism-0375](/ism/control/ism-0375)
-[ism-1743](/ism/control/ism-1743)
-[ism-1407](/ism/control/ism-1407)
-[ism-1408](/ism/control/ism-1408)
-[ism-1406](/ism/control/ism-1406)
-[ism-1608](/ism/control/ism-1608)
-[ism-1588](/ism/control/ism-1588)
-[ism-1409](/ism/control/ism-1409)
-[ism-0380](/ism/control/ism-0380)
-[ism-0383](/ism/control/ism-0383)
-[ism-0341](/ism/control/ism-0341)
-[ism-1654](/ism/control/ism-1654)
-[ism-1655](/ism/control/ism-1655)
-[ism-1492](/ism/control/ism-1492)
-[ism-1745](/ism/control/ism-1745)
-[ism-1584](/ism/control/ism-1584)
-[ism-1491](/ism/control/ism-1491)
-[ism-1592](/ism/control/ism-1592)
-[ism-0382](/ism/control/ism-0382)
-[ism-0843](/ism/control/ism-0843)
-[ism-1490](/ism/control/ism-1490)
-[ism-1656](/ism/control/ism-1656)
-[ism-1657](/ism/control/ism-1657)
-[ism-1658](/ism/control/ism-1658)
-[ism-0955](/ism/control/ism-0955)
-[ism-1582](/ism/control/ism-1582)
-[ism-1471](/ism/control/ism-1471)
-[ism-1392](/ism/control/ism-1392)
-[ism-1746](/ism/control/ism-1746)
-[ism-1544](/ism/control/ism-1544)
-[ism-1659](/ism/control/ism-1659)
-[ism-0846](/ism/control/ism-0846)
-[ism-1660](/ism/control/ism-1660)
-[ism-1661](/ism/control/ism-1661)
-[ism-1662](/ism/control/ism-1662)
-[ism-1663](/ism/control/ism-1663)
-[ism-1621](/ism/control/ism-1621)
-[ism-1622](/ism/control/ism-1622)
-[ism-1623](/ism/control/ism-1623)
-[ism-1624](/ism/control/ism-1624)
-[ism-1664](/ism/control/ism-1664)
-[ism-1665](/ism/control/ism-1665)
-[ism-1341](/ism/control/ism-1341)
-[ism-1034](/ism/control/ism-1034)
-[ism-1416](/ism/control/ism-1416)
-[ism-1417](/ism/control/ism-1417)
-[ism-1418](/ism/control/ism-1418)
-[ism-0343](/ism/control/ism-0343)
-[ism-0345](/ism/control/ism-0345)
-[ism-0582](/ism/control/ism-0582)
-[ism-1747](/ism/control/ism-1747)
-[ism-0938](/ism/control/ism-0938)
-[ism-1467](/ism/control/ism-1467)
-[ism-1806](/ism/control/ism-1806)
-[ism-1470](/ism/control/ism-1470)
-[ism-1235](/ism/control/ism-1235)
-[ism-1667](/ism/control/ism-1667)
-[ism-1668](/ism/control/ism-1668)
-[ism-1669](/ism/control/ism-1669)
-[ism-1542](/ism/control/ism-1542)
-[ism-1859](/ism/control/ism-1859)
-[ism-1823](/ism/control/ism-1823)
-[ism-1486](/ism/control/ism-1486)
-[ism-1485](/ism/control/ism-1485)
-[ism-1666](/ism/control/ism-1666)
-[ism-1412](/ism/control/ism-1412)
-[ism-1585](/ism/control/ism-1585)
-[ism-1670](/ism/control/ism-1670)
-[ism-1860](/ism/control/ism-1860)
-[ism-1824](/ism/control/ism-1824)
-[ism-1601](/ism/control/ism-1601)
-[ism-1748](/ism/control/ism-1748)
-[ism-1825](/ism/control/ism-1825)
-[ism-1671](/ism/control/ism-1671)
-[ism-1488](/ism/control/ism-1488)
-[ism-1672](/ism/control/ism-1672)
-[ism-1673](/ism/control/ism-1673)
-[ism-1674](/ism/control/ism-1674)
-[ism-1487](/ism/control/ism-1487)
-[ism-1675](/ism/control/ism-1675)
-[ism-1676](/ism/control/ism-1676)
-[ism-1489](/ism/control/ism-1489)
-[ism-1677](/ism/control/ism-1677)
-[ism-1678](/ism/control/ism-1678)
-[ism-1826](/ism/control/ism-1826)
-[ism-1483](/ism/control/ism-1483)
-[ism-1246](/ism/control/ism-1246)
-[ism-1260](/ism/control/ism-1260)
-[ism-1247](/ism/control/ism-1247)
-[ism-1245](/ism/control/ism-1245)
-[ism-1249](/ism/control/ism-1249)
-[ism-1250](/ism/control/ism-1250)
-[ism-1827](/ism/control/ism-1827)
-[ism-1828](/ism/control/ism-1828)
-[ism-1829](/ism/control/ism-1829)
-[ism-1830](/ism/control/ism-1830)
-[ism-1831](/ism/control/ism-1831)
-[ism-1832](/ism/control/ism-1832)
-[ism-1833](/ism/control/ism-1833)
-[ism-1834](/ism/control/ism-1834)
-[ism-1835](/ism/control/ism-1835)
-[ism-1836](/ism/control/ism-1836)
-[ism-1837](/ism/control/ism-1837)
-[ism-1838](/ism/control/ism-1838)
-[ism-1839](/ism/control/ism-1839)
-[ism-1840](/ism/control/ism-1840)
-[ism-1841](/ism/control/ism-1841)
-[ism-1842](/ism/control/ism-1842)
-[ism-1843](/ism/control/ism-1843)
-[ism-1844](/ism/control/ism-1844)
-[ism-1620](/ism/control/ism-1620)
-[ism-1845](/ism/control/ism-1845)
-[ism-1846](/ism/control/ism-1846)
-[ism-1546](/ism/control/ism-1546)
-[ism-1603](/ism/control/ism-1603)
-[ism-1055](/ism/control/ism-1055)
-[ism-0974](/ism/control/ism-0974)
-[ism-1173](/ism/control/ism-1173)
-[ism-1504](/ism/control/ism-1504)
-[ism-1679](/ism/control/ism-1679)
-[ism-1680](/ism/control/ism-1680)
-[ism-1681](/ism/control/ism-1681)
-[ism-1505](/ism/control/ism-1505)
-[ism-1401](/ism/control/ism-1401)
-[ism-1682](/ism/control/ism-1682)
-[ism-1559](/ism/control/ism-1559)
-[ism-1560](/ism/control/ism-1560)
-[ism-1561](/ism/control/ism-1561)
-[ism-1683](/ism/control/ism-1683)
-[ism-1684](/ism/control/ism-1684)
-[ism-0417](/ism/control/ism-0417)
-[ism-0421](/ism/control/ism-0421)
-[ism-1557](/ism/control/ism-1557)
-[ism-0422](/ism/control/ism-0422)
-[ism-1558](/ism/control/ism-1558)
-[ism-1593](/ism/control/ism-1593)
-[ism-1227](/ism/control/ism-1227)
-[ism-1594](/ism/control/ism-1594)
-[ism-1595](/ism/control/ism-1595)
-[ism-1596](/ism/control/ism-1596)
-[ism-1685](/ism/control/ism-1685)
-[ism-1795](/ism/control/ism-1795)
-[ism-1619](/ism/control/ism-1619)
-[ism-1590](/ism/control/ism-1590)
-[ism-1847](/ism/control/ism-1847)
-[ism-0418](/ism/control/ism-0418)
-[ism-1597](/ism/control/ism-1597)
-[ism-1402](/ism/control/ism-1402)
-[ism-1686](/ism/control/ism-1686)
-[ism-1861](/ism/control/ism-1861)
-[ism-1749](/ism/control/ism-1749)
-[ism-1403](/ism/control/ism-1403)
-[ism-0853](/ism/control/ism-0853)
-[ism-0428](/ism/control/ism-0428)
-[ism-0408](/ism/control/ism-0408)
-[ism-0979](/ism/control/ism-0979)
-[ism-1460](/ism/control/ism-1460)
-[ism-1604](/ism/control/ism-1604)
-[ism-1605](/ism/control/ism-1605)
-[ism-1606](/ism/control/ism-1606)
-[ism-1848](/ism/control/ism-1848)
-[ism-1607](/ism/control/ism-1607)
-[ism-1461](/ism/control/ism-1461)
-[ism-1743](/ism/control/ism-1743)
-[ism-1407](/ism/control/ism-1407)
-[ism-1408](/ism/control/ism-1408)
-[ism-1406](/ism/control/ism-1406)
-[ism-1608](/ism/control/ism-1608)
-[ism-1588](/ism/control/ism-1588)
-[ism-1409](/ism/control/ism-1409)
-[ism-0380](/ism/control/ism-0380)
-[ism-0383](/ism/control/ism-0383)
-[ism-0341](/ism/control/ism-0341)
-[ism-1654](/ism/control/ism-1654)
-[ism-1655](/ism/control/ism-1655)
-[ism-1492](/ism/control/ism-1492)
-[ism-1745](/ism/control/ism-1745)
-[ism-1584](/ism/control/ism-1584)
-[ism-1491](/ism/control/ism-1491)
-[ism-1592](/ism/control/ism-1592)
-[ism-0382](/ism/control/ism-0382)
-[ism-0843](/ism/control/ism-0843)
-[ism-1490](/ism/control/ism-1490)
-[ism-1656](/ism/control/ism-1656)
-[ism-1657](/ism/control/ism-1657)
-[ism-1658](/ism/control/ism-1658)
-[ism-0955](/ism/control/ism-0955)
-[ism-1582](/ism/control/ism-1582)
-[ism-1471](/ism/control/ism-1471)
-[ism-1392](/ism/control/ism-1392)
-[ism-1746](/ism/control/ism-1746)
-[ism-1544](/ism/control/ism-1544)
-[ism-1659](/ism/control/ism-1659)
-[ism-0846](/ism/control/ism-0846)
-[ism-1660](/ism/control/ism-1660)
-[ism-1661](/ism/control/ism-1661)
-[ism-1662](/ism/control/ism-1662)
-[ism-1663](/ism/control/ism-1663)
-[ism-1621](/ism/control/ism-1621)
-[ism-1622](/ism/control/ism-1622)
-[ism-1623](/ism/control/ism-1623)
-[ism-1624](/ism/control/ism-1624)
-[ism-1664](/ism/control/ism-1664)
-[ism-1665](/ism/control/ism-1665)
-[ism-1341](/ism/control/ism-1341)
-[ism-1034](/ism/control/ism-1034)
-[ism-1416](/ism/control/ism-1416)
-[ism-1417](/ism/control/ism-1417)
-[ism-1418](/ism/control/ism-1418)
-[ism-0343](/ism/control/ism-0343)
-[ism-0345](/ism/control/ism-0345)
-[ism-0582](/ism/control/ism-0582)
-[ism-1747](/ism/control/ism-1747)
-[ism-1743](/ism/control/ism-1743)
-[ism-1407](/ism/control/ism-1407)
-[ism-1408](/ism/control/ism-1408)
-[ism-1406](/ism/control/ism-1406)
-[ism-1608](/ism/control/ism-1608)
-[ism-1588](/ism/control/ism-1588)
-[ism-1409](/ism/control/ism-1409)
-[ism-0380](/ism/control/ism-0380)
-[ism-0383](/ism/control/ism-0383)
-[ism-0341](/ism/control/ism-0341)
-[ism-1654](/ism/control/ism-1654)
-[ism-1655](/ism/control/ism-1655)
-[ism-1492](/ism/control/ism-1492)
-[ism-1745](/ism/control/ism-1745)
-[ism-1584](/ism/control/ism-1584)
-[ism-1491](/ism/control/ism-1491)
-[ism-1592](/ism/control/ism-1592)
-[ism-0382](/ism/control/ism-0382)
-[ism-0843](/ism/control/ism-0843)
-[ism-1490](/ism/control/ism-1490)
-[ism-1656](/ism/control/ism-1656)
-[ism-1657](/ism/control/ism-1657)
-[ism-1658](/ism/control/ism-1658)
-[ism-0955](/ism/control/ism-0955)
-[ism-1582](/ism/control/ism-1582)
-[ism-1471](/ism/control/ism-1471)
-[ism-1392](/ism/control/ism-1392)
-[ism-1746](/ism/control/ism-1746)
-[ism-1544](/ism/control/ism-1544)
-[ism-1659](/ism/control/ism-1659)
-[ism-0846](/ism/control/ism-0846)
-[ism-1660](/ism/control/ism-1660)
-[ism-1661](/ism/control/ism-1661)
-[ism-1662](/ism/control/ism-1662)
-[ism-1663](/ism/control/ism-1663)
-[ism-1621](/ism/control/ism-1621)
-[ism-1622](/ism/control/ism-1622)
-[ism-1623](/ism/control/ism-1623)
-[ism-1624](/ism/control/ism-1624)
-[ism-1664](/ism/control/ism-1664)
-[ism-1665](/ism/control/ism-1665)
-[ism-1341](/ism/control/ism-1341)
-[ism-1034](/ism/control/ism-1034)
-[ism-1416](/ism/control/ism-1416)
-[ism-1417](/ism/control/ism-1417)
-[ism-1418](/ism/control/ism-1418)
-[ism-0343](/ism/control/ism-0343)
-[ism-0345](/ism/control/ism-0345)
-[ism-0582](/ism/control/ism-0582)
-[ism-1747](/ism/control/ism-1747)
-[ism-0938](/ism/control/ism-0938)
-[ism-1467](/ism/control/ism-1467)
-[ism-1806](/ism/control/ism-1806)
-[ism-1470](/ism/control/ism-1470)
-[ism-1235](/ism/control/ism-1235)
-[ism-1667](/ism/control/ism-1667)
-[ism-1668](/ism/control/ism-1668)
-[ism-1669](/ism/control/ism-1669)
-[ism-1542](/ism/control/ism-1542)
-[ism-1859](/ism/control/ism-1859)
-[ism-1823](/ism/control/ism-1823)
-[ism-1486](/ism/control/ism-1486)
-[ism-1485](/ism/control/ism-1485)
-[ism-1666](/ism/control/ism-1666)
-[ism-1412](/ism/control/ism-1412)
-[ism-1585](/ism/control/ism-1585)
-[ism-1670](/ism/control/ism-1670)
-[ism-1860](/ism/control/ism-1860)
-[ism-1824](/ism/control/ism-1824)
-[ism-1601](/ism/control/ism-1601)
-[ism-1748](/ism/control/ism-1748)
-[ism-1825](/ism/control/ism-1825)
-[ism-1671](/ism/control/ism-1671)
-[ism-1488](/ism/control/ism-1488)
-[ism-1672](/ism/control/ism-1672)
-[ism-1673](/ism/control/ism-1673)
-[ism-1674](/ism/control/ism-1674)
-[ism-1487](/ism/control/ism-1487)
-[ism-1675](/ism/control/ism-1675)
-[ism-1676](/ism/control/ism-1676)
-[ism-1489](/ism/control/ism-1489)
-[ism-1677](/ism/control/ism-1677)
-[ism-1678](/ism/control/ism-1678)
-[ism-0938](/ism/control/ism-0938)
-[ism-1467](/ism/control/ism-1467)
-[ism-1806](/ism/control/ism-1806)
-[ism-1470](/ism/control/ism-1470)
-[ism-1235](/ism/control/ism-1235)
-[ism-1667](/ism/control/ism-1667)
-[ism-1668](/ism/control/ism-1668)
-[ism-1669](/ism/control/ism-1669)
-[ism-1542](/ism/control/ism-1542)
-[ism-1859](/ism/control/ism-1859)
-[ism-1823](/ism/control/ism-1823)
-[ism-1486](/ism/control/ism-1486)
-[ism-1485](/ism/control/ism-1485)
-[ism-1666](/ism/control/ism-1666)
-[ism-1412](/ism/control/ism-1412)
-[ism-1585](/ism/control/ism-1585)
-[ism-1670](/ism/control/ism-1670)
-[ism-1860](/ism/control/ism-1860)
-[ism-1824](/ism/control/ism-1824)
-[ism-1601](/ism/control/ism-1601)
-[ism-1748](/ism/control/ism-1748)
-[ism-1825](/ism/control/ism-1825)
-[ism-1671](/ism/control/ism-1671)
-[ism-1488](/ism/control/ism-1488)
-[ism-1672](/ism/control/ism-1672)
-[ism-1673](/ism/control/ism-1673)
-[ism-1674](/ism/control/ism-1674)
-[ism-1487](/ism/control/ism-1487)
-[ism-1675](/ism/control/ism-1675)
-[ism-1676](/ism/control/ism-1676)
-[ism-1489](/ism/control/ism-1489)
-[ism-1677](/ism/control/ism-1677)
-[ism-1678](/ism/control/ism-1678)
-[ism-1826](/ism/control/ism-1826)
-[ism-1483](/ism/control/ism-1483)
-[ism-1246](/ism/control/ism-1246)
-[ism-1260](/ism/control/ism-1260)
-[ism-1247](/ism/control/ism-1247)
-[ism-1245](/ism/control/ism-1245)
-[ism-1249](/ism/control/ism-1249)
-[ism-1250](/ism/control/ism-1250)
-[ism-1827](/ism/control/ism-1827)
-[ism-1828](/ism/control/ism-1828)
-[ism-1829](/ism/control/ism-1829)
-[ism-1830](/ism/control/ism-1830)
-[ism-1831](/ism/control/ism-1831)
-[ism-1832](/ism/control/ism-1832)
-[ism-1833](/ism/control/ism-1833)
-[ism-1834](/ism/control/ism-1834)
-[ism-1835](/ism/control/ism-1835)
-[ism-1836](/ism/control/ism-1836)
-[ism-1837](/ism/control/ism-1837)
-[ism-1838](/ism/control/ism-1838)
-[ism-1839](/ism/control/ism-1839)
-[ism-1840](/ism/control/ism-1840)
-[ism-1841](/ism/control/ism-1841)
-[ism-1842](/ism/control/ism-1842)
-[ism-1843](/ism/control/ism-1843)
-[ism-1844](/ism/control/ism-1844)
-[ism-1620](/ism/control/ism-1620)
-[ism-1845](/ism/control/ism-1845)
-[ism-1846](/ism/control/ism-1846)
-[ism-1826](/ism/control/ism-1826)
-[ism-1483](/ism/control/ism-1483)
-[ism-1246](/ism/control/ism-1246)
-[ism-1260](/ism/control/ism-1260)
-[ism-1247](/ism/control/ism-1247)
-[ism-1245](/ism/control/ism-1245)
-[ism-1249](/ism/control/ism-1249)
-[ism-1250](/ism/control/ism-1250)
-[ism-1827](/ism/control/ism-1827)
-[ism-1828](/ism/control/ism-1828)
-[ism-1829](/ism/control/ism-1829)
-[ism-1830](/ism/control/ism-1830)
-[ism-1831](/ism/control/ism-1831)
-[ism-1832](/ism/control/ism-1832)
-[ism-1833](/ism/control/ism-1833)
-[ism-1834](/ism/control/ism-1834)
-[ism-1835](/ism/control/ism-1835)
-[ism-1836](/ism/control/ism-1836)
-[ism-1837](/ism/control/ism-1837)
-[ism-1838](/ism/control/ism-1838)
-[ism-1839](/ism/control/ism-1839)
-[ism-1840](/ism/control/ism-1840)
-[ism-1841](/ism/control/ism-1841)
-[ism-1842](/ism/control/ism-1842)
-[ism-1843](/ism/control/ism-1843)
-[ism-1844](/ism/control/ism-1844)
-[ism-1620](/ism/control/ism-1620)
-[ism-1845](/ism/control/ism-1845)
-[ism-1846](/ism/control/ism-1846)
-[ism-1546](/ism/control/ism-1546)
-[ism-1603](/ism/control/ism-1603)
-[ism-1055](/ism/control/ism-1055)
-[ism-0974](/ism/control/ism-0974)
-[ism-1173](/ism/control/ism-1173)
-[ism-1504](/ism/control/ism-1504)
-[ism-1679](/ism/control/ism-1679)
-[ism-1680](/ism/control/ism-1680)
-[ism-1681](/ism/control/ism-1681)
-[ism-1505](/ism/control/ism-1505)
-[ism-1401](/ism/control/ism-1401)
-[ism-1682](/ism/control/ism-1682)
-[ism-1559](/ism/control/ism-1559)
-[ism-1560](/ism/control/ism-1560)
-[ism-1561](/ism/control/ism-1561)
-[ism-1683](/ism/control/ism-1683)
-[ism-1684](/ism/control/ism-1684)
-[ism-0417](/ism/control/ism-0417)
-[ism-0421](/ism/control/ism-0421)
-[ism-1557](/ism/control/ism-1557)
-[ism-0422](/ism/control/ism-0422)
-[ism-1558](/ism/control/ism-1558)
-[ism-1593](/ism/control/ism-1593)
-[ism-1227](/ism/control/ism-1227)
-[ism-1594](/ism/control/ism-1594)
-[ism-1595](/ism/control/ism-1595)
-[ism-1596](/ism/control/ism-1596)
-[ism-1685](/ism/control/ism-1685)
-[ism-1795](/ism/control/ism-1795)
-[ism-1619](/ism/control/ism-1619)
-[ism-1590](/ism/control/ism-1590)
-[ism-1847](/ism/control/ism-1847)
-[ism-0418](/ism/control/ism-0418)
-[ism-1597](/ism/control/ism-1597)
-[ism-1402](/ism/control/ism-1402)
-[ism-1686](/ism/control/ism-1686)
-[ism-1861](/ism/control/ism-1861)
-[ism-1749](/ism/control/ism-1749)
-[ism-1403](/ism/control/ism-1403)
-[ism-0853](/ism/control/ism-0853)
-[ism-0428](/ism/control/ism-0428)
-[ism-0408](/ism/control/ism-0408)
-[ism-0979](/ism/control/ism-0979)
-[ism-1546](/ism/control/ism-1546)
-[ism-1603](/ism/control/ism-1603)
-[ism-1055](/ism/control/ism-1055)
-[ism-0974](/ism/control/ism-0974)
-[ism-1173](/ism/control/ism-1173)
-[ism-1504](/ism/control/ism-1504)
-[ism-1679](/ism/control/ism-1679)
-[ism-1680](/ism/control/ism-1680)
-[ism-1681](/ism/control/ism-1681)
-[ism-1505](/ism/control/ism-1505)
-[ism-1401](/ism/control/ism-1401)
-[ism-1682](/ism/control/ism-1682)
-[ism-1559](/ism/control/ism-1559)
-[ism-1560](/ism/control/ism-1560)
-[ism-1561](/ism/control/ism-1561)
-[ism-1683](/ism/control/ism-1683)
-[ism-1684](/ism/control/ism-1684)
-[ism-0417](/ism/control/ism-0417)
-[ism-0421](/ism/control/ism-0421)
-[ism-1557](/ism/control/ism-1557)
-[ism-0422](/ism/control/ism-0422)
-[ism-1558](/ism/control/ism-1558)
-[ism-1593](/ism/control/ism-1593)
-[ism-1227](/ism/control/ism-1227)
-[ism-1594](/ism/control/ism-1594)
-[ism-1595](/ism/control/ism-1595)
-[ism-1596](/ism/control/ism-1596)
-[ism-1685](/ism/control/ism-1685)
-[ism-1795](/ism/control/ism-1795)
-[ism-1619](/ism/control/ism-1619)
-[ism-1590](/ism/control/ism-1590)
-[ism-1847](/ism/control/ism-1847)
-[ism-0418](/ism/control/ism-0418)
-[ism-1597](/ism/control/ism-1597)
-[ism-1402](/ism/control/ism-1402)
-[ism-1686](/ism/control/ism-1686)
-[ism-1861](/ism/control/ism-1861)
-[ism-1749](/ism/control/ism-1749)
-[ism-1403](/ism/control/ism-1403)
-[ism-0853](/ism/control/ism-0853)
-[ism-0428](/ism/control/ism-0428)
-[ism-0408](/ism/control/ism-0408)
-[ism-0979](/ism/control/ism-0979)
-[ism-1460](/ism/control/ism-1460)
-[ism-1604](/ism/control/ism-1604)
-[ism-1605](/ism/control/ism-1605)
-[ism-1606](/ism/control/ism-1606)
-[ism-1848](/ism/control/ism-1848)
-[ism-1607](/ism/control/ism-1607)
-[ism-1461](/ism/control/ism-1461)
-[ism-1460](/ism/control/ism-1460)
-[ism-1604](/ism/control/ism-1604)
-[ism-1605](/ism/control/ism-1605)
-[ism-1606](/ism/control/ism-1606)
-[ism-1848](/ism/control/ism-1848)
-[ism-1607](/ism/control/ism-1607)
-[ism-1461](/ism/control/ism-1461)
-[ism-0042](/ism/control/ism-0042)
-[ism-1211](/ism/control/ism-1211)
-[ism-1380](/ism/control/ism-1380)
-[ism-1687](/ism/control/ism-1687)
-[ism-1688](/ism/control/ism-1688)
-[ism-1689](/ism/control/ism-1689)
-[ism-1385](/ism/control/ism-1385)
-[ism-1750](/ism/control/ism-1750)
-[ism-1386](/ism/control/ism-1386)
-[ism-1387](/ism/control/ism-1387)
-[ism-1381](/ism/control/ism-1381)
-[ism-1388](/ism/control/ism-1388)
-[ism-1143](/ism/control/ism-1143)
-[ism-0298](/ism/control/ism-0298)
-[ism-1493](/ism/control/ism-1493)
-[ism-1643](/ism/control/ism-1643)
-[ism-1807](/ism/control/ism-1807)
-[ism-1808](/ism/control/ism-1808)
-[ism-1698](/ism/control/ism-1698)
-[ism-1699](/ism/control/ism-1699)
-[ism-1700](/ism/control/ism-1700)
-[ism-1701](/ism/control/ism-1701)
-[ism-1702](/ism/control/ism-1702)
-[ism-1752](/ism/control/ism-1752)
-[ism-1703](/ism/control/ism-1703)
-[ism-1690](/ism/control/ism-1690)
-[ism-1691](/ism/control/ism-1691)
-[ism-1692](/ism/control/ism-1692)
-[ism-1693](/ism/control/ism-1693)
-[ism-1694](/ism/control/ism-1694)
-[ism-1695](/ism/control/ism-1695)
-[ism-1696](/ism/control/ism-1696)
-[ism-1751](/ism/control/ism-1751)
-[ism-1697](/ism/control/ism-1697)
-[ism-0300](/ism/control/ism-0300)
-[ism-1704](/ism/control/ism-1704)
-[ism-0304](/ism/control/ism-0304)
-[ism-1501](/ism/control/ism-1501)
-[ism-1753](/ism/control/ism-1753)
-[ism-1809](/ism/control/ism-1809)
-[ism-1510](/ism/control/ism-1510)
-[ism-1547](/ism/control/ism-1547)
-[ism-1548](/ism/control/ism-1548)
-[ism-1511](/ism/control/ism-1511)
-[ism-1810](/ism/control/ism-1810)
-[ism-1811](/ism/control/ism-1811)
-[ism-1812](/ism/control/ism-1812)
-[ism-1813](/ism/control/ism-1813)
-[ism-1705](/ism/control/ism-1705)
-[ism-1706](/ism/control/ism-1706)
-[ism-1814](/ism/control/ism-1814)
-[ism-1707](/ism/control/ism-1707)
-[ism-1708](/ism/control/ism-1708)
-[ism-1515](/ism/control/ism-1515)
-[ism-0042](/ism/control/ism-0042)
-[ism-1211](/ism/control/ism-1211)
-[ism-1380](/ism/control/ism-1380)
-[ism-1687](/ism/control/ism-1687)
-[ism-1688](/ism/control/ism-1688)
-[ism-1689](/ism/control/ism-1689)
-[ism-1385](/ism/control/ism-1385)
-[ism-1750](/ism/control/ism-1750)
-[ism-1386](/ism/control/ism-1386)
-[ism-1387](/ism/control/ism-1387)
-[ism-1381](/ism/control/ism-1381)
-[ism-1388](/ism/control/ism-1388)
-[ism-0042](/ism/control/ism-0042)
-[ism-1211](/ism/control/ism-1211)
-[ism-1380](/ism/control/ism-1380)
-[ism-1687](/ism/control/ism-1687)
-[ism-1688](/ism/control/ism-1688)
-[ism-1689](/ism/control/ism-1689)
-[ism-1385](/ism/control/ism-1385)
-[ism-1750](/ism/control/ism-1750)
-[ism-1386](/ism/control/ism-1386)
-[ism-1387](/ism/control/ism-1387)
-[ism-1381](/ism/control/ism-1381)
-[ism-1388](/ism/control/ism-1388)
-[ism-1143](/ism/control/ism-1143)
-[ism-0298](/ism/control/ism-0298)
-[ism-1493](/ism/control/ism-1493)
-[ism-1643](/ism/control/ism-1643)
-[ism-1807](/ism/control/ism-1807)
-[ism-1808](/ism/control/ism-1808)
-[ism-1698](/ism/control/ism-1698)
-[ism-1699](/ism/control/ism-1699)
-[ism-1700](/ism/control/ism-1700)
-[ism-1701](/ism/control/ism-1701)
-[ism-1702](/ism/control/ism-1702)
-[ism-1752](/ism/control/ism-1752)
-[ism-1703](/ism/control/ism-1703)
-[ism-1690](/ism/control/ism-1690)
-[ism-1691](/ism/control/ism-1691)
-[ism-1692](/ism/control/ism-1692)
-[ism-1693](/ism/control/ism-1693)
-[ism-1694](/ism/control/ism-1694)
-[ism-1695](/ism/control/ism-1695)
-[ism-1696](/ism/control/ism-1696)
-[ism-1751](/ism/control/ism-1751)
-[ism-1697](/ism/control/ism-1697)
-[ism-0300](/ism/control/ism-0300)
-[ism-1704](/ism/control/ism-1704)
-[ism-0304](/ism/control/ism-0304)
-[ism-1501](/ism/control/ism-1501)
-[ism-1753](/ism/control/ism-1753)
-[ism-1809](/ism/control/ism-1809)
-[ism-1143](/ism/control/ism-1143)
-[ism-0298](/ism/control/ism-0298)
-[ism-1493](/ism/control/ism-1493)
-[ism-1643](/ism/control/ism-1643)
-[ism-1807](/ism/control/ism-1807)
-[ism-1808](/ism/control/ism-1808)
-[ism-1698](/ism/control/ism-1698)
-[ism-1699](/ism/control/ism-1699)
-[ism-1700](/ism/control/ism-1700)
-[ism-1701](/ism/control/ism-1701)
-[ism-1702](/ism/control/ism-1702)
-[ism-1752](/ism/control/ism-1752)
-[ism-1703](/ism/control/ism-1703)
-[ism-1690](/ism/control/ism-1690)
-[ism-1691](/ism/control/ism-1691)
-[ism-1692](/ism/control/ism-1692)
-[ism-1693](/ism/control/ism-1693)
-[ism-1694](/ism/control/ism-1694)
-[ism-1695](/ism/control/ism-1695)
-[ism-1696](/ism/control/ism-1696)
-[ism-1751](/ism/control/ism-1751)
-[ism-1697](/ism/control/ism-1697)
-[ism-0300](/ism/control/ism-0300)
-[ism-1704](/ism/control/ism-1704)
-[ism-0304](/ism/control/ism-0304)
-[ism-1501](/ism/control/ism-1501)
-[ism-1753](/ism/control/ism-1753)
-[ism-1809](/ism/control/ism-1809)
-[ism-1510](/ism/control/ism-1510)
-[ism-1547](/ism/control/ism-1547)
-[ism-1548](/ism/control/ism-1548)
-[ism-1511](/ism/control/ism-1511)
-[ism-1810](/ism/control/ism-1810)
-[ism-1811](/ism/control/ism-1811)
-[ism-1812](/ism/control/ism-1812)
-[ism-1813](/ism/control/ism-1813)
-[ism-1705](/ism/control/ism-1705)
-[ism-1706](/ism/control/ism-1706)
-[ism-1814](/ism/control/ism-1814)
-[ism-1707](/ism/control/ism-1707)
-[ism-1708](/ism/control/ism-1708)
-[ism-1515](/ism/control/ism-1515)
-[ism-1510](/ism/control/ism-1510)
-[ism-1547](/ism/control/ism-1547)
-[ism-1548](/ism/control/ism-1548)
-[ism-1511](/ism/control/ism-1511)
-[ism-1810](/ism/control/ism-1810)
-[ism-1811](/ism/control/ism-1811)
-[ism-1812](/ism/control/ism-1812)
-[ism-1813](/ism/control/ism-1813)
-[ism-1705](/ism/control/ism-1705)
-[ism-1706](/ism/control/ism-1706)
-[ism-1814](/ism/control/ism-1814)
-[ism-1707](/ism/control/ism-1707)
-[ism-1708](/ism/control/ism-1708)
-[ism-1515](/ism/control/ism-1515)
-[ism-0580](/ism/control/ism-0580)
-[ism-0585](/ism/control/ism-0585)
-[ism-1405](/ism/control/ism-1405)
-[ism-1815](/ism/control/ism-1815)
-[ism-0988](/ism/control/ism-0988)
-[ism-0109](/ism/control/ism-0109)
-[ism-1228](/ism/control/ism-1228)
-[ism-0859](/ism/control/ism-0859)
-[ism-0991](/ism/control/ism-0991)
-[ism-0580](/ism/control/ism-0580)
-[ism-0585](/ism/control/ism-0585)
-[ism-1405](/ism/control/ism-1405)
-[ism-1815](/ism/control/ism-1815)
-[ism-0988](/ism/control/ism-0988)
-[ism-0109](/ism/control/ism-0109)
-[ism-1228](/ism/control/ism-1228)
-[ism-0859](/ism/control/ism-0859)
-[ism-0991](/ism/control/ism-0991)
-[ism-0580](/ism/control/ism-0580)
-[ism-0585](/ism/control/ism-0585)
-[ism-1405](/ism/control/ism-1405)
-[ism-1815](/ism/control/ism-1815)
-[ism-0988](/ism/control/ism-0988)
-[ism-0109](/ism/control/ism-0109)
-[ism-1228](/ism/control/ism-1228)
-[ism-0859](/ism/control/ism-0859)
-[ism-0991](/ism/control/ism-0991)
-[ism-0400](/ism/control/ism-0400)
-[ism-1419](/ism/control/ism-1419)
-[ism-1420](/ism/control/ism-1420)
-[ism-1422](/ism/control/ism-1422)
-[ism-1816](/ism/control/ism-1816)
-[ism-0401](/ism/control/ism-0401)
-[ism-1780](/ism/control/ism-1780)
-[ism-1238](/ism/control/ism-1238)
-[ism-1796](/ism/control/ism-1796)
-[ism-1797](/ism/control/ism-1797)
-[ism-1798](/ism/control/ism-1798)
-[ism-1730](/ism/control/ism-1730)
-[ism-0402](/ism/control/ism-0402)
-[ism-1754](/ism/control/ism-1754)
-[ism-1616](/ism/control/ism-1616)
-[ism-1755](/ism/control/ism-1755)
-[ism-1756](/ism/control/ism-1756)
-[ism-1717](/ism/control/ism-1717)
-[ism-0971](/ism/control/ism-0971)
-[ism-1849](/ism/control/ism-1849)
-[ism-1850](/ism/control/ism-1850)
-[ism-1239](/ism/control/ism-1239)
-[ism-1552](/ism/control/ism-1552)
-[ism-1817](/ism/control/ism-1817)
-[ism-1818](/ism/control/ism-1818)
-[ism-1851](/ism/control/ism-1851)
-[ism-1240](/ism/control/ism-1240)
-[ism-1241](/ism/control/ism-1241)
-[ism-1424](/ism/control/ism-1424)
-[ism-1862](/ism/control/ism-1862)
-[ism-1536](/ism/control/ism-1536)
-[ism-1757](/ism/control/ism-1757)
-[ism-0400](/ism/control/ism-0400)
-[ism-1419](/ism/control/ism-1419)
-[ism-1420](/ism/control/ism-1420)
-[ism-1422](/ism/control/ism-1422)
-[ism-1816](/ism/control/ism-1816)
-[ism-0401](/ism/control/ism-0401)
-[ism-1780](/ism/control/ism-1780)
-[ism-1238](/ism/control/ism-1238)
-[ism-1796](/ism/control/ism-1796)
-[ism-1797](/ism/control/ism-1797)
-[ism-1798](/ism/control/ism-1798)
-[ism-1730](/ism/control/ism-1730)
-[ism-0402](/ism/control/ism-0402)
-[ism-1754](/ism/control/ism-1754)
-[ism-1616](/ism/control/ism-1616)
-[ism-1755](/ism/control/ism-1755)
-[ism-1756](/ism/control/ism-1756)
-[ism-1717](/ism/control/ism-1717)
-[ism-0400](/ism/control/ism-0400)
-[ism-1419](/ism/control/ism-1419)
-[ism-1420](/ism/control/ism-1420)
-[ism-1422](/ism/control/ism-1422)
-[ism-1816](/ism/control/ism-1816)
-[ism-0401](/ism/control/ism-0401)
-[ism-1780](/ism/control/ism-1780)
-[ism-1238](/ism/control/ism-1238)
-[ism-1796](/ism/control/ism-1796)
-[ism-1797](/ism/control/ism-1797)
-[ism-1798](/ism/control/ism-1798)
-[ism-1730](/ism/control/ism-1730)
-[ism-0402](/ism/control/ism-0402)
-[ism-1754](/ism/control/ism-1754)
-[ism-1616](/ism/control/ism-1616)
-[ism-1755](/ism/control/ism-1755)
-[ism-1756](/ism/control/ism-1756)
-[ism-1717](/ism/control/ism-1717)
-[ism-0971](/ism/control/ism-0971)
-[ism-1849](/ism/control/ism-1849)
-[ism-1850](/ism/control/ism-1850)
-[ism-1239](/ism/control/ism-1239)
-[ism-1552](/ism/control/ism-1552)
-[ism-1817](/ism/control/ism-1817)
-[ism-1818](/ism/control/ism-1818)
-[ism-1851](/ism/control/ism-1851)
-[ism-1240](/ism/control/ism-1240)
-[ism-1241](/ism/control/ism-1241)
-[ism-1424](/ism/control/ism-1424)
-[ism-1862](/ism/control/ism-1862)
-[ism-1536](/ism/control/ism-1536)
-[ism-1757](/ism/control/ism-1757)
-[ism-0971](/ism/control/ism-0971)
-[ism-1849](/ism/control/ism-1849)
-[ism-1850](/ism/control/ism-1850)
-[ism-1239](/ism/control/ism-1239)
-[ism-1552](/ism/control/ism-1552)
-[ism-1817](/ism/control/ism-1817)
-[ism-1818](/ism/control/ism-1818)
-[ism-1851](/ism/control/ism-1851)
-[ism-1240](/ism/control/ism-1240)
-[ism-1241](/ism/control/ism-1241)
-[ism-1424](/ism/control/ism-1424)
-[ism-1862](/ism/control/ism-1862)
-[ism-1536](/ism/control/ism-1536)
-[ism-1757](/ism/control/ism-1757)
-[ism-1269](/ism/control/ism-1269)
-[ism-1277](/ism/control/ism-1277)
-[ism-1270](/ism/control/ism-1270)
-[ism-1271](/ism/control/ism-1271)
-[ism-1272](/ism/control/ism-1272)
-[ism-1273](/ism/control/ism-1273)
-[ism-1243](/ism/control/ism-1243)
-[ism-1256](/ism/control/ism-1256)
-[ism-0393](/ism/control/ism-0393)
-[ism-1255](/ism/control/ism-1255)
-[ism-1268](/ism/control/ism-1268)
-[ism-1274](/ism/control/ism-1274)
-[ism-1275](/ism/control/ism-1275)
-[ism-1276](/ism/control/ism-1276)
-[ism-1278](/ism/control/ism-1278)
-[ism-1537](/ism/control/ism-1537)
-[ism-1758](/ism/control/ism-1758)
-[ism-1269](/ism/control/ism-1269)
-[ism-1277](/ism/control/ism-1277)
-[ism-1270](/ism/control/ism-1270)
-[ism-1271](/ism/control/ism-1271)
-[ism-1272](/ism/control/ism-1272)
-[ism-1273](/ism/control/ism-1273)
-[ism-1269](/ism/control/ism-1269)
-[ism-1277](/ism/control/ism-1277)
-[ism-1270](/ism/control/ism-1270)
-[ism-1271](/ism/control/ism-1271)
-[ism-1272](/ism/control/ism-1272)
-[ism-1273](/ism/control/ism-1273)
-[ism-1243](/ism/control/ism-1243)
-[ism-1256](/ism/control/ism-1256)
-[ism-0393](/ism/control/ism-0393)
-[ism-1255](/ism/control/ism-1255)
-[ism-1268](/ism/control/ism-1268)
-[ism-1274](/ism/control/ism-1274)
-[ism-1275](/ism/control/ism-1275)
-[ism-1276](/ism/control/ism-1276)
-[ism-1278](/ism/control/ism-1278)
-[ism-1537](/ism/control/ism-1537)
-[ism-1758](/ism/control/ism-1758)
-[ism-1243](/ism/control/ism-1243)
-[ism-1256](/ism/control/ism-1256)
-[ism-0393](/ism/control/ism-0393)
-[ism-1255](/ism/control/ism-1255)
-[ism-1268](/ism/control/ism-1268)
-[ism-1274](/ism/control/ism-1274)
-[ism-1275](/ism/control/ism-1275)
-[ism-1276](/ism/control/ism-1276)
-[ism-1278](/ism/control/ism-1278)
-[ism-1537](/ism/control/ism-1537)
-[ism-1758](/ism/control/ism-1758)
-[ism-0264](/ism/control/ism-0264)
-[ism-0267](/ism/control/ism-0267)
-[ism-0270](/ism/control/ism-0270)
-[ism-0271](/ism/control/ism-0271)
-[ism-0272](/ism/control/ism-0272)
-[ism-1089](/ism/control/ism-1089)
-[ism-0565](/ism/control/ism-0565)
-[ism-1023](/ism/control/ism-1023)
-[ism-0269](/ism/control/ism-0269)
-[ism-0569](/ism/control/ism-0569)
-[ism-0571](/ism/control/ism-0571)
-[ism-0570](/ism/control/ism-0570)
-[ism-0567](/ism/control/ism-0567)
-[ism-0572](/ism/control/ism-0572)
-[ism-1589](/ism/control/ism-1589)
-[ism-0574](/ism/control/ism-0574)
-[ism-1183](/ism/control/ism-1183)
-[ism-1151](/ism/control/ism-1151)
-[ism-0861](/ism/control/ism-0861)
-[ism-1026](/ism/control/ism-1026)
-[ism-1027](/ism/control/ism-1027)
-[ism-1540](/ism/control/ism-1540)
-[ism-1799](/ism/control/ism-1799)
-[ism-1234](/ism/control/ism-1234)
-[ism-1502](/ism/control/ism-1502)
-[ism-1024](/ism/control/ism-1024)
-[ism-0264](/ism/control/ism-0264)
-[ism-0267](/ism/control/ism-0267)
-[ism-0270](/ism/control/ism-0270)
-[ism-0271](/ism/control/ism-0271)
-[ism-0272](/ism/control/ism-0272)
-[ism-1089](/ism/control/ism-1089)
-[ism-0565](/ism/control/ism-0565)
-[ism-1023](/ism/control/ism-1023)
-[ism-0269](/ism/control/ism-0269)
-[ism-0264](/ism/control/ism-0264)
-[ism-0267](/ism/control/ism-0267)
-[ism-0270](/ism/control/ism-0270)
-[ism-0271](/ism/control/ism-0271)
-[ism-0272](/ism/control/ism-0272)
-[ism-1089](/ism/control/ism-1089)
-[ism-0565](/ism/control/ism-0565)
-[ism-1023](/ism/control/ism-1023)
-[ism-0269](/ism/control/ism-0269)
-[ism-0569](/ism/control/ism-0569)
-[ism-0571](/ism/control/ism-0571)
-[ism-0570](/ism/control/ism-0570)
-[ism-0567](/ism/control/ism-0567)
-[ism-0572](/ism/control/ism-0572)
-[ism-1589](/ism/control/ism-1589)
-[ism-0574](/ism/control/ism-0574)
-[ism-1183](/ism/control/ism-1183)
-[ism-1151](/ism/control/ism-1151)
-[ism-0861](/ism/control/ism-0861)
-[ism-1026](/ism/control/ism-1026)
-[ism-1027](/ism/control/ism-1027)
-[ism-1540](/ism/control/ism-1540)
-[ism-1799](/ism/control/ism-1799)
-[ism-1234](/ism/control/ism-1234)
-[ism-1502](/ism/control/ism-1502)
-[ism-1024](/ism/control/ism-1024)
-[ism-0569](/ism/control/ism-0569)
-[ism-0571](/ism/control/ism-0571)
-[ism-0570](/ism/control/ism-0570)
-[ism-0567](/ism/control/ism-0567)
-[ism-0572](/ism/control/ism-0572)
-[ism-1589](/ism/control/ism-1589)
-[ism-0574](/ism/control/ism-0574)
-[ism-1183](/ism/control/ism-1183)
-[ism-1151](/ism/control/ism-1151)
-[ism-0861](/ism/control/ism-0861)
-[ism-1026](/ism/control/ism-1026)
-[ism-1027](/ism/control/ism-1027)
-[ism-1540](/ism/control/ism-1540)
-[ism-1799](/ism/control/ism-1799)
-[ism-1234](/ism/control/ism-1234)
-[ism-1502](/ism/control/ism-1502)
-[ism-1024](/ism/control/ism-1024)
-[ism-0518](/ism/control/ism-0518)
-[ism-0516](/ism/control/ism-0516)
-[ism-1178](/ism/control/ism-1178)
-[ism-1781](/ism/control/ism-1781)
-[ism-1181](/ism/control/ism-1181)
-[ism-1577](/ism/control/ism-1577)
-[ism-1532](/ism/control/ism-1532)
-[ism-0529](/ism/control/ism-0529)
-[ism-0530](/ism/control/ism-0530)
-[ism-0535](/ism/control/ism-0535)
-[ism-1364](/ism/control/ism-1364)
-[ism-0521](/ism/control/ism-0521)
-[ism-1186](/ism/control/ism-1186)
-[ism-1428](/ism/control/ism-1428)
-[ism-1429](/ism/control/ism-1429)
-[ism-1430](/ism/control/ism-1430)
-[ism-0520](/ism/control/ism-0520)
-[ism-1182](/ism/control/ism-1182)
-[ism-0385](/ism/control/ism-0385)
-[ism-1479](/ism/control/ism-1479)
-[ism-1863](/ism/control/ism-1863)
-[ism-1006](/ism/control/ism-1006)
-[ism-1311](/ism/control/ism-1311)
-[ism-1312](/ism/control/ism-1312)
-[ism-1028](/ism/control/ism-1028)
-[ism-1030](/ism/control/ism-1030)
-[ism-1627](/ism/control/ism-1627)
-[ism-1628](/ism/control/ism-1628)
-[ism-1782](/ism/control/ism-1782)
-[ism-1800](/ism/control/ism-1800)
-[ism-1304](/ism/control/ism-1304)
-[ism-0534](/ism/control/ism-0534)
-[ism-1801](/ism/control/ism-1801)
-[ism-1314](/ism/control/ism-1314)
-[ism-0536](/ism/control/ism-0536)
-[ism-1315](/ism/control/ism-1315)
-[ism-1710](/ism/control/ism-1710)
-[ism-1316](/ism/control/ism-1316)
-[ism-1317](/ism/control/ism-1317)
-[ism-1318](/ism/control/ism-1318)
-[ism-1320](/ism/control/ism-1320)
-[ism-1319](/ism/control/ism-1319)
-[ism-1332](/ism/control/ism-1332)
-[ism-1321](/ism/control/ism-1321)
-[ism-1711](/ism/control/ism-1711)
-[ism-1322](/ism/control/ism-1322)
-[ism-1324](/ism/control/ism-1324)
-[ism-1323](/ism/control/ism-1323)
-[ism-1327](/ism/control/ism-1327)
-[ism-1330](/ism/control/ism-1330)
-[ism-1712](/ism/control/ism-1712)
-[ism-1454](/ism/control/ism-1454)
-[ism-1334](/ism/control/ism-1334)
-[ism-1335](/ism/control/ism-1335)
-[ism-1338](/ism/control/ism-1338)
-[ism-1013](/ism/control/ism-1013)
-[ism-1437](/ism/control/ism-1437)
-[ism-1579](/ism/control/ism-1579)
-[ism-1580](/ism/control/ism-1580)
-[ism-1581](/ism/control/ism-1581)
-[ism-1438](/ism/control/ism-1438)
-[ism-1439](/ism/control/ism-1439)
-[ism-1431](/ism/control/ism-1431)
-[ism-1436](/ism/control/ism-1436)
-[ism-1432](/ism/control/ism-1432)
-[ism-0518](/ism/control/ism-0518)
-[ism-0516](/ism/control/ism-0516)
-[ism-1178](/ism/control/ism-1178)
-[ism-1781](/ism/control/ism-1781)
-[ism-1181](/ism/control/ism-1181)
-[ism-1577](/ism/control/ism-1577)
-[ism-1532](/ism/control/ism-1532)
-[ism-0529](/ism/control/ism-0529)
-[ism-0530](/ism/control/ism-0530)
-[ism-0535](/ism/control/ism-0535)
-[ism-1364](/ism/control/ism-1364)
-[ism-0521](/ism/control/ism-0521)
-[ism-1186](/ism/control/ism-1186)
-[ism-1428](/ism/control/ism-1428)
-[ism-1429](/ism/control/ism-1429)
-[ism-1430](/ism/control/ism-1430)
-[ism-0520](/ism/control/ism-0520)
-[ism-1182](/ism/control/ism-1182)
-[ism-0385](/ism/control/ism-0385)
-[ism-1479](/ism/control/ism-1479)
-[ism-1863](/ism/control/ism-1863)
-[ism-1006](/ism/control/ism-1006)
-[ism-1311](/ism/control/ism-1311)
-[ism-1312](/ism/control/ism-1312)
-[ism-1028](/ism/control/ism-1028)
-[ism-1030](/ism/control/ism-1030)
-[ism-1627](/ism/control/ism-1627)
-[ism-1628](/ism/control/ism-1628)
-[ism-1782](/ism/control/ism-1782)
-[ism-1800](/ism/control/ism-1800)
-[ism-1304](/ism/control/ism-1304)
-[ism-0534](/ism/control/ism-0534)
-[ism-1801](/ism/control/ism-1801)
-[ism-0518](/ism/control/ism-0518)
-[ism-0516](/ism/control/ism-0516)
-[ism-1178](/ism/control/ism-1178)
-[ism-1781](/ism/control/ism-1781)
-[ism-1181](/ism/control/ism-1181)
-[ism-1577](/ism/control/ism-1577)
-[ism-1532](/ism/control/ism-1532)
-[ism-0529](/ism/control/ism-0529)
-[ism-0530](/ism/control/ism-0530)
-[ism-0535](/ism/control/ism-0535)
-[ism-1364](/ism/control/ism-1364)
-[ism-0521](/ism/control/ism-0521)
-[ism-1186](/ism/control/ism-1186)
-[ism-1428](/ism/control/ism-1428)
-[ism-1429](/ism/control/ism-1429)
-[ism-1430](/ism/control/ism-1430)
-[ism-0520](/ism/control/ism-0520)
-[ism-1182](/ism/control/ism-1182)
-[ism-0385](/ism/control/ism-0385)
-[ism-1479](/ism/control/ism-1479)
-[ism-1863](/ism/control/ism-1863)
-[ism-1006](/ism/control/ism-1006)
-[ism-1311](/ism/control/ism-1311)
-[ism-1312](/ism/control/ism-1312)
-[ism-1028](/ism/control/ism-1028)
-[ism-1030](/ism/control/ism-1030)
-[ism-1627](/ism/control/ism-1627)
-[ism-1628](/ism/control/ism-1628)
-[ism-1782](/ism/control/ism-1782)
-[ism-1800](/ism/control/ism-1800)
-[ism-1304](/ism/control/ism-1304)
-[ism-0534](/ism/control/ism-0534)
-[ism-1801](/ism/control/ism-1801)
-[ism-1314](/ism/control/ism-1314)
-[ism-0536](/ism/control/ism-0536)
-[ism-1315](/ism/control/ism-1315)
-[ism-1710](/ism/control/ism-1710)
-[ism-1316](/ism/control/ism-1316)
-[ism-1317](/ism/control/ism-1317)
-[ism-1318](/ism/control/ism-1318)
-[ism-1320](/ism/control/ism-1320)
-[ism-1319](/ism/control/ism-1319)
-[ism-1332](/ism/control/ism-1332)
-[ism-1321](/ism/control/ism-1321)
-[ism-1711](/ism/control/ism-1711)
-[ism-1322](/ism/control/ism-1322)
-[ism-1324](/ism/control/ism-1324)
-[ism-1323](/ism/control/ism-1323)
-[ism-1327](/ism/control/ism-1327)
-[ism-1330](/ism/control/ism-1330)
-[ism-1712](/ism/control/ism-1712)
-[ism-1454](/ism/control/ism-1454)
-[ism-1334](/ism/control/ism-1334)
-[ism-1335](/ism/control/ism-1335)
-[ism-1338](/ism/control/ism-1338)
-[ism-1013](/ism/control/ism-1013)
-[ism-1314](/ism/control/ism-1314)
-[ism-0536](/ism/control/ism-0536)
-[ism-1315](/ism/control/ism-1315)
-[ism-1710](/ism/control/ism-1710)
-[ism-1316](/ism/control/ism-1316)
-[ism-1317](/ism/control/ism-1317)
-[ism-1318](/ism/control/ism-1318)
-[ism-1320](/ism/control/ism-1320)
-[ism-1319](/ism/control/ism-1319)
-[ism-1332](/ism/control/ism-1332)
-[ism-1321](/ism/control/ism-1321)
-[ism-1711](/ism/control/ism-1711)
-[ism-1322](/ism/control/ism-1322)
-[ism-1324](/ism/control/ism-1324)
-[ism-1323](/ism/control/ism-1323)
-[ism-1327](/ism/control/ism-1327)
-[ism-1330](/ism/control/ism-1330)
-[ism-1712](/ism/control/ism-1712)
-[ism-1454](/ism/control/ism-1454)
-[ism-1334](/ism/control/ism-1334)
-[ism-1335](/ism/control/ism-1335)
-[ism-1338](/ism/control/ism-1338)
-[ism-1013](/ism/control/ism-1013)
-[ism-1437](/ism/control/ism-1437)
-[ism-1579](/ism/control/ism-1579)
-[ism-1580](/ism/control/ism-1580)
-[ism-1581](/ism/control/ism-1581)
-[ism-1438](/ism/control/ism-1438)
-[ism-1439](/ism/control/ism-1439)
-[ism-1431](/ism/control/ism-1431)
-[ism-1436](/ism/control/ism-1436)
-[ism-1432](/ism/control/ism-1432)
-[ism-1437](/ism/control/ism-1437)
-[ism-1579](/ism/control/ism-1579)
-[ism-1580](/ism/control/ism-1580)
-[ism-1581](/ism/control/ism-1581)
-[ism-1438](/ism/control/ism-1438)
-[ism-1439](/ism/control/ism-1439)
-[ism-1431](/ism/control/ism-1431)
-[ism-1436](/ism/control/ism-1436)
-[ism-1432](/ism/control/ism-1432)
-[ism-1802](/ism/control/ism-1802)
-[ism-0499](/ism/control/ism-0499)
-[ism-0507](/ism/control/ism-0507)
-[ism-1080](/ism/control/ism-1080)
-[ism-0457](/ism/control/ism-0457)
-[ism-0460](/ism/control/ism-0460)
-[ism-0459](/ism/control/ism-0459)
-[ism-0469](/ism/control/ism-0469)
-[ism-0465](/ism/control/ism-0465)
-[ism-0467](/ism/control/ism-0467)
-[ism-0455](/ism/control/ism-0455)
-[ism-0462](/ism/control/ism-0462)
-[ism-0501](/ism/control/ism-0501)
-[ism-0142](/ism/control/ism-0142)
-[ism-1091](/ism/control/ism-1091)
-[ism-0471](/ism/control/ism-0471)
-[ism-0994](/ism/control/ism-0994)
-[ism-0472](/ism/control/ism-0472)
-[ism-1759](/ism/control/ism-1759)
-[ism-1629](/ism/control/ism-1629)
-[ism-0473](/ism/control/ism-0473)
-[ism-1630](/ism/control/ism-1630)
-[ism-1760](/ism/control/ism-1760)
-[ism-1446](/ism/control/ism-1446)
-[ism-0474](/ism/control/ism-0474)
-[ism-1761](/ism/control/ism-1761)
-[ism-1762](/ism/control/ism-1762)
-[ism-0475](/ism/control/ism-0475)
-[ism-1763](/ism/control/ism-1763)
-[ism-1764](/ism/control/ism-1764)
-[ism-0476](/ism/control/ism-0476)
-[ism-1765](/ism/control/ism-1765)
-[ism-0477](/ism/control/ism-0477)
-[ism-1766](/ism/control/ism-1766)
-[ism-1767](/ism/control/ism-1767)
-[ism-1768](/ism/control/ism-1768)
-[ism-1769](/ism/control/ism-1769)
-[ism-1770](/ism/control/ism-1770)
-[ism-0479](/ism/control/ism-0479)
-[ism-0481](/ism/control/ism-0481)
-[ism-1139](/ism/control/ism-1139)
-[ism-1369](/ism/control/ism-1369)
-[ism-1370](/ism/control/ism-1370)
-[ism-1372](/ism/control/ism-1372)
-[ism-1448](/ism/control/ism-1448)
-[ism-1373](/ism/control/ism-1373)
-[ism-1374](/ism/control/ism-1374)
-[ism-1375](/ism/control/ism-1375)
-[ism-1553](/ism/control/ism-1553)
-[ism-1453](/ism/control/ism-1453)
-[ism-1506](/ism/control/ism-1506)
-[ism-0484](/ism/control/ism-0484)
-[ism-0485](/ism/control/ism-0485)
-[ism-1449](/ism/control/ism-1449)
-[ism-0487](/ism/control/ism-0487)
-[ism-0488](/ism/control/ism-0488)
-[ism-0489](/ism/control/ism-0489)
-[ism-0490](/ism/control/ism-0490)
-[ism-0494](/ism/control/ism-0494)
-[ism-0496](/ism/control/ism-0496)
-[ism-1233](/ism/control/ism-1233)
-[ism-1771](/ism/control/ism-1771)
-[ism-1772](/ism/control/ism-1772)
-[ism-0998](/ism/control/ism-0998)
-[ism-0999](/ism/control/ism-0999)
-[ism-0498](/ism/control/ism-0498)
-[ism-1000](/ism/control/ism-1000)
-[ism-1802](/ism/control/ism-1802)
-[ism-0499](/ism/control/ism-0499)
-[ism-0507](/ism/control/ism-0507)
-[ism-1080](/ism/control/ism-1080)
-[ism-0457](/ism/control/ism-0457)
-[ism-0460](/ism/control/ism-0460)
-[ism-0459](/ism/control/ism-0459)
-[ism-0469](/ism/control/ism-0469)
-[ism-0465](/ism/control/ism-0465)
-[ism-0467](/ism/control/ism-0467)
-[ism-0455](/ism/control/ism-0455)
-[ism-0462](/ism/control/ism-0462)
-[ism-0501](/ism/control/ism-0501)
-[ism-0142](/ism/control/ism-0142)
-[ism-1091](/ism/control/ism-1091)
-[ism-1802](/ism/control/ism-1802)
-[ism-0499](/ism/control/ism-0499)
-[ism-0507](/ism/control/ism-0507)
-[ism-1080](/ism/control/ism-1080)
-[ism-0457](/ism/control/ism-0457)
-[ism-0460](/ism/control/ism-0460)
-[ism-0459](/ism/control/ism-0459)
-[ism-0469](/ism/control/ism-0469)
-[ism-0465](/ism/control/ism-0465)
-[ism-0467](/ism/control/ism-0467)
-[ism-0455](/ism/control/ism-0455)
-[ism-0462](/ism/control/ism-0462)
-[ism-0501](/ism/control/ism-0501)
-[ism-0142](/ism/control/ism-0142)
-[ism-1091](/ism/control/ism-1091)
-[ism-0471](/ism/control/ism-0471)
-[ism-0994](/ism/control/ism-0994)
-[ism-0472](/ism/control/ism-0472)
-[ism-1759](/ism/control/ism-1759)
-[ism-1629](/ism/control/ism-1629)
-[ism-0473](/ism/control/ism-0473)
-[ism-1630](/ism/control/ism-1630)
-[ism-1760](/ism/control/ism-1760)
-[ism-1446](/ism/control/ism-1446)
-[ism-0474](/ism/control/ism-0474)
-[ism-1761](/ism/control/ism-1761)
-[ism-1762](/ism/control/ism-1762)
-[ism-0475](/ism/control/ism-0475)
-[ism-1763](/ism/control/ism-1763)
-[ism-1764](/ism/control/ism-1764)
-[ism-0476](/ism/control/ism-0476)
-[ism-1765](/ism/control/ism-1765)
-[ism-0477](/ism/control/ism-0477)
-[ism-1766](/ism/control/ism-1766)
-[ism-1767](/ism/control/ism-1767)
-[ism-1768](/ism/control/ism-1768)
-[ism-1769](/ism/control/ism-1769)
-[ism-1770](/ism/control/ism-1770)
-[ism-0479](/ism/control/ism-0479)
-[ism-0471](/ism/control/ism-0471)
-[ism-0994](/ism/control/ism-0994)
-[ism-0472](/ism/control/ism-0472)
-[ism-1759](/ism/control/ism-1759)
-[ism-1629](/ism/control/ism-1629)
-[ism-0473](/ism/control/ism-0473)
-[ism-1630](/ism/control/ism-1630)
-[ism-1760](/ism/control/ism-1760)
-[ism-1446](/ism/control/ism-1446)
-[ism-0474](/ism/control/ism-0474)
-[ism-1761](/ism/control/ism-1761)
-[ism-1762](/ism/control/ism-1762)
-[ism-0475](/ism/control/ism-0475)
-[ism-1763](/ism/control/ism-1763)
-[ism-1764](/ism/control/ism-1764)
-[ism-0476](/ism/control/ism-0476)
-[ism-1765](/ism/control/ism-1765)
-[ism-0477](/ism/control/ism-0477)
-[ism-1766](/ism/control/ism-1766)
-[ism-1767](/ism/control/ism-1767)
-[ism-1768](/ism/control/ism-1768)
-[ism-1769](/ism/control/ism-1769)
-[ism-1770](/ism/control/ism-1770)
-[ism-0479](/ism/control/ism-0479)
-[ism-0481](/ism/control/ism-0481)
-[ism-0481](/ism/control/ism-0481)
-[ism-1139](/ism/control/ism-1139)
-[ism-1369](/ism/control/ism-1369)
-[ism-1370](/ism/control/ism-1370)
-[ism-1372](/ism/control/ism-1372)
-[ism-1448](/ism/control/ism-1448)
-[ism-1373](/ism/control/ism-1373)
-[ism-1374](/ism/control/ism-1374)
-[ism-1375](/ism/control/ism-1375)
-[ism-1553](/ism/control/ism-1553)
-[ism-1453](/ism/control/ism-1453)
-[ism-1139](/ism/control/ism-1139)
-[ism-1369](/ism/control/ism-1369)
-[ism-1370](/ism/control/ism-1370)
-[ism-1372](/ism/control/ism-1372)
-[ism-1448](/ism/control/ism-1448)
-[ism-1373](/ism/control/ism-1373)
-[ism-1374](/ism/control/ism-1374)
-[ism-1375](/ism/control/ism-1375)
-[ism-1553](/ism/control/ism-1553)
-[ism-1453](/ism/control/ism-1453)
-[ism-1506](/ism/control/ism-1506)
-[ism-0484](/ism/control/ism-0484)
-[ism-0485](/ism/control/ism-0485)
-[ism-1449](/ism/control/ism-1449)
-[ism-0487](/ism/control/ism-0487)
-[ism-0488](/ism/control/ism-0488)
-[ism-0489](/ism/control/ism-0489)
-[ism-1506](/ism/control/ism-1506)
-[ism-0484](/ism/control/ism-0484)
-[ism-0485](/ism/control/ism-0485)
-[ism-1449](/ism/control/ism-1449)
-[ism-0487](/ism/control/ism-0487)
-[ism-0488](/ism/control/ism-0488)
-[ism-0489](/ism/control/ism-0489)
-[ism-0490](/ism/control/ism-0490)
-[ism-0490](/ism/control/ism-0490)
-[ism-0494](/ism/control/ism-0494)
-[ism-0496](/ism/control/ism-0496)
-[ism-1233](/ism/control/ism-1233)
-[ism-1771](/ism/control/ism-1771)
-[ism-1772](/ism/control/ism-1772)
-[ism-0998](/ism/control/ism-0998)
-[ism-0999](/ism/control/ism-0999)
-[ism-0498](/ism/control/ism-0498)
-[ism-1000](/ism/control/ism-1000)
-[ism-0494](/ism/control/ism-0494)
-[ism-0496](/ism/control/ism-0496)
-[ism-1233](/ism/control/ism-1233)
-[ism-1771](/ism/control/ism-1771)
-[ism-1772](/ism/control/ism-1772)
-[ism-0998](/ism/control/ism-0998)
-[ism-0999](/ism/control/ism-0999)
-[ism-0498](/ism/control/ism-0498)
-[ism-1000](/ism/control/ism-1000)
-[ism-0628](/ism/control/ism-0628)
-[ism-0637](/ism/control/ism-0637)
-[ism-0631](/ism/control/ism-0631)
-[ism-1192](/ism/control/ism-1192)
-[ism-1427](/ism/control/ism-1427)
-[ism-1520](/ism/control/ism-1520)
-[ism-0613](/ism/control/ism-0613)
-[ism-1773](/ism/control/ism-1773)
-[ism-0611](/ism/control/ism-0611)
-[ism-0616](/ism/control/ism-0616)
-[ism-0612](/ism/control/ism-0612)
-[ism-1774](/ism/control/ism-1774)
-[ism-0629](/ism/control/ism-0629)
-[ism-0619](/ism/control/ism-0619)
-[ism-0622](/ism/control/ism-0622)
-[ism-1783](/ism/control/ism-1783)
-[ism-0634](/ism/control/ism-0634)
-[ism-1775](/ism/control/ism-1775)
-[ism-1037](/ism/control/ism-1037)
-[ism-0100](/ism/control/ism-0100)
-[ism-0626](/ism/control/ism-0626)
-[ism-0597](/ism/control/ism-0597)
-[ism-0635](/ism/control/ism-0635)
-[ism-1522](/ism/control/ism-1522)
-[ism-1521](/ism/control/ism-1521)
-[ism-0670](/ism/control/ism-0670)
-[ism-1776](/ism/control/ism-1776)
-[ism-1523](/ism/control/ism-1523)
-[ism-0610](/ism/control/ism-0610)
-[ism-1528](/ism/control/ism-1528)
-[ism-0639](/ism/control/ism-0639)
-[ism-0643](/ism/control/ism-0643)
-[ism-0645](/ism/control/ism-0645)
-[ism-1157](/ism/control/ism-1157)
-[ism-1158](/ism/control/ism-1158)
-[ism-0258](/ism/control/ism-0258)
-[ism-0260](/ism/control/ism-0260)
-[ism-0261](/ism/control/ism-0261)
-[ism-1777](/ism/control/ism-1777)
-[ism-0963](/ism/control/ism-0963)
-[ism-0961](/ism/control/ism-0961)
-[ism-1237](/ism/control/ism-1237)
-[ism-0263](/ism/control/ism-0263)
-[ism-0958](/ism/control/ism-0958)
-[ism-1236](/ism/control/ism-1236)
-[ism-1171](/ism/control/ism-1171)
-[ism-0659](/ism/control/ism-0659)
-[ism-0651](/ism/control/ism-0651)
-[ism-0652](/ism/control/ism-0652)
-[ism-1524](/ism/control/ism-1524)
-[ism-1293](/ism/control/ism-1293)
-[ism-1289](/ism/control/ism-1289)
-[ism-1290](/ism/control/ism-1290)
-[ism-1288](/ism/control/ism-1288)
-[ism-1389](/ism/control/ism-1389)
-[ism-0649](/ism/control/ism-0649)
-[ism-1284](/ism/control/ism-1284)
-[ism-1286](/ism/control/ism-1286)
-[ism-1287](/ism/control/ism-1287)
-[ism-0677](/ism/control/ism-0677)
-[ism-0591](/ism/control/ism-0591)
-[ism-1457](/ism/control/ism-1457)
-[ism-1480](/ism/control/ism-1480)
-[ism-0628](/ism/control/ism-0628)
-[ism-0637](/ism/control/ism-0637)
-[ism-0631](/ism/control/ism-0631)
-[ism-1192](/ism/control/ism-1192)
-[ism-1427](/ism/control/ism-1427)
-[ism-1520](/ism/control/ism-1520)
-[ism-0613](/ism/control/ism-0613)
-[ism-1773](/ism/control/ism-1773)
-[ism-0611](/ism/control/ism-0611)
-[ism-0616](/ism/control/ism-0616)
-[ism-0612](/ism/control/ism-0612)
-[ism-1774](/ism/control/ism-1774)
-[ism-0629](/ism/control/ism-0629)
-[ism-0619](/ism/control/ism-0619)
-[ism-0622](/ism/control/ism-0622)
-[ism-1783](/ism/control/ism-1783)
-[ism-0634](/ism/control/ism-0634)
-[ism-1775](/ism/control/ism-1775)
-[ism-1037](/ism/control/ism-1037)
-[ism-0100](/ism/control/ism-0100)
-[ism-0628](/ism/control/ism-0628)
-[ism-0637](/ism/control/ism-0637)
-[ism-0631](/ism/control/ism-0631)
-[ism-1192](/ism/control/ism-1192)
-[ism-1427](/ism/control/ism-1427)
-[ism-1520](/ism/control/ism-1520)
-[ism-0613](/ism/control/ism-0613)
-[ism-1773](/ism/control/ism-1773)
-[ism-0611](/ism/control/ism-0611)
-[ism-0616](/ism/control/ism-0616)
-[ism-0612](/ism/control/ism-0612)
-[ism-1774](/ism/control/ism-1774)
-[ism-0629](/ism/control/ism-0629)
-[ism-0619](/ism/control/ism-0619)
-[ism-0622](/ism/control/ism-0622)
-[ism-1783](/ism/control/ism-1783)
-[ism-0634](/ism/control/ism-0634)
-[ism-1775](/ism/control/ism-1775)
-[ism-1037](/ism/control/ism-1037)
-[ism-0100](/ism/control/ism-0100)
-[ism-0626](/ism/control/ism-0626)
-[ism-0597](/ism/control/ism-0597)
-[ism-0635](/ism/control/ism-0635)
-[ism-1522](/ism/control/ism-1522)
-[ism-1521](/ism/control/ism-1521)
-[ism-0670](/ism/control/ism-0670)
-[ism-1776](/ism/control/ism-1776)
-[ism-1523](/ism/control/ism-1523)
-[ism-0610](/ism/control/ism-0610)
-[ism-0626](/ism/control/ism-0626)
-[ism-0597](/ism/control/ism-0597)
-[ism-0635](/ism/control/ism-0635)
-[ism-1522](/ism/control/ism-1522)
-[ism-1521](/ism/control/ism-1521)
-[ism-0670](/ism/control/ism-0670)
-[ism-1776](/ism/control/ism-1776)
-[ism-1523](/ism/control/ism-1523)
-[ism-0610](/ism/control/ism-0610)
-[ism-1528](/ism/control/ism-1528)
-[ism-0639](/ism/control/ism-0639)
-[ism-1528](/ism/control/ism-1528)
-[ism-0639](/ism/control/ism-0639)
-[ism-0643](/ism/control/ism-0643)
-[ism-0645](/ism/control/ism-0645)
-[ism-1157](/ism/control/ism-1157)
-[ism-1158](/ism/control/ism-1158)
-[ism-0643](/ism/control/ism-0643)
-[ism-0645](/ism/control/ism-0645)
-[ism-1157](/ism/control/ism-1157)
-[ism-1158](/ism/control/ism-1158)
-[ism-0258](/ism/control/ism-0258)
-[ism-0260](/ism/control/ism-0260)
-[ism-0261](/ism/control/ism-0261)
-[ism-1777](/ism/control/ism-1777)
-[ism-0258](/ism/control/ism-0258)
-[ism-0260](/ism/control/ism-0260)
-[ism-0261](/ism/control/ism-0261)
-[ism-1777](/ism/control/ism-1777)
-[ism-0963](/ism/control/ism-0963)
-[ism-0961](/ism/control/ism-0961)
-[ism-1237](/ism/control/ism-1237)
-[ism-0263](/ism/control/ism-0263)
-[ism-0958](/ism/control/ism-0958)
-[ism-1236](/ism/control/ism-1236)
-[ism-1171](/ism/control/ism-1171)
-[ism-0963](/ism/control/ism-0963)
-[ism-0961](/ism/control/ism-0961)
-[ism-1237](/ism/control/ism-1237)
-[ism-0263](/ism/control/ism-0263)
-[ism-0958](/ism/control/ism-0958)
-[ism-1236](/ism/control/ism-1236)
-[ism-1171](/ism/control/ism-1171)
-[ism-0659](/ism/control/ism-0659)
-[ism-0651](/ism/control/ism-0651)
-[ism-0652](/ism/control/ism-0652)
-[ism-1524](/ism/control/ism-1524)
-[ism-1293](/ism/control/ism-1293)
-[ism-1289](/ism/control/ism-1289)
-[ism-1290](/ism/control/ism-1290)
-[ism-1288](/ism/control/ism-1288)
-[ism-1389](/ism/control/ism-1389)
-[ism-0649](/ism/control/ism-0649)
-[ism-1284](/ism/control/ism-1284)
-[ism-1286](/ism/control/ism-1286)
-[ism-1287](/ism/control/ism-1287)
-[ism-0677](/ism/control/ism-0677)
-[ism-0659](/ism/control/ism-0659)
-[ism-0651](/ism/control/ism-0651)
-[ism-0652](/ism/control/ism-0652)
-[ism-1524](/ism/control/ism-1524)
-[ism-1293](/ism/control/ism-1293)
-[ism-1289](/ism/control/ism-1289)
-[ism-1290](/ism/control/ism-1290)
-[ism-1288](/ism/control/ism-1288)
-[ism-1389](/ism/control/ism-1389)
-[ism-0649](/ism/control/ism-0649)
-[ism-1284](/ism/control/ism-1284)
-[ism-1286](/ism/control/ism-1286)
-[ism-1287](/ism/control/ism-1287)
-[ism-0677](/ism/control/ism-0677)
-[ism-0591](/ism/control/ism-0591)
-[ism-1457](/ism/control/ism-1457)
-[ism-1480](/ism/control/ism-1480)
-[ism-0591](/ism/control/ism-0591)
-[ism-1457](/ism/control/ism-1457)
-[ism-1480](/ism/control/ism-1480)
-[ism-0663](/ism/control/ism-0663)
-[ism-1535](/ism/control/ism-1535)
-[ism-0661](/ism/control/ism-0661)
-[ism-0657](/ism/control/ism-0657)
-[ism-1778](/ism/control/ism-1778)
-[ism-0664](/ism/control/ism-0664)
-[ism-0675](/ism/control/ism-0675)
-[ism-0665](/ism/control/ism-0665)
-[ism-1187](/ism/control/ism-1187)
-[ism-0669](/ism/control/ism-0669)
-[ism-1779](/ism/control/ism-1779)
-[ism-1586](/ism/control/ism-1586)
-[ism-1294](/ism/control/ism-1294)
-[ism-0660](/ism/control/ism-0660)
-[ism-0663](/ism/control/ism-0663)
-[ism-1535](/ism/control/ism-1535)
-[ism-0661](/ism/control/ism-0661)
-[ism-0657](/ism/control/ism-0657)
-[ism-1778](/ism/control/ism-1778)
-[ism-0664](/ism/control/ism-0664)
-[ism-0675](/ism/control/ism-0675)
-[ism-0665](/ism/control/ism-0665)
-[ism-1187](/ism/control/ism-1187)
-[ism-0669](/ism/control/ism-0669)
-[ism-1779](/ism/control/ism-1779)
-[ism-1586](/ism/control/ism-1586)
-[ism-1294](/ism/control/ism-1294)
-[ism-0660](/ism/control/ism-0660)
-[ism-0663](/ism/control/ism-0663)
-[ism-1535](/ism/control/ism-1535)
-[ism-0661](/ism/control/ism-0661)
-[ism-0657](/ism/control/ism-0657)
-[ism-1778](/ism/control/ism-1778)
-[ism-0664](/ism/control/ism-0664)
-[ism-0675](/ism/control/ism-0675)
-[ism-0665](/ism/control/ism-0665)
-[ism-1187](/ism/control/ism-1187)
-[ism-0669](/ism/control/ism-0669)
-[ism-1779](/ism/control/ism-1779)
-[ism-1586](/ism/control/ism-1586)
-[ism-1294](/ism/control/ism-1294)
-[ism-0660](/ism/control/ism-0660)
+# ISM CONTROL INDEX
+|    ISM Control   | Statement |
+| :-------------: | ----------- |
+| [ism-0027](/ism/control/ism-0027) | <p>System owners obtain authorisation to operate each system from its authorising officer based on the acceptance of the security risks associated with its operation.</p> | 
+| [ism-0039](/ism/control/ism-0039) | <p>A cyber security strategy is developed, implemented and maintained.</p> | 
+| [ism-0041](/ism/control/ism-0041) | <p>Systems have a system security plan that includes a description of the system and an annex that covers both applicable controls from this document and any additional controls that have been identified.</p> | 
+| [ism-0042](/ism/control/ism-0042) | <p>System administration processes, and supporting system administration procedures, are developed, implemented and maintained.</p> | 
+| [ism-0043](/ism/control/ism-0043) | <p>Systems have an incident response plan that covers the following:</p>                  <ul>                     <li>guidelines on what constitutes a cyber security incident</li>                     <li>the types of cyber security incidents likely to be encountered and the expected response to each type</li>                     <li>how to report cyber security incidents, internally to an organisation and externally to relevant authorities</li>                     <li>other parties which need to be informed in the event of a cyber security incident</li>                     <li>the authority, or authorities, responsible for investigating and responding to cyber security incidents</li>                     <li>the criteria by which an investigation of a cyber security incident would be requested from a law enforcement agency, the Australian Cyber Security Centre or other relevant authority</li>                     <li>the steps necessary to ensure the integrity of evidence relating to a cyber security incident</li>                     <li>system contingency measures or a reference to such details if they are located in a separate document.</li>                  </ul> | 
+| [ism-0047](/ism/control/ism-0047) | <p>Organisational-level security documentation is approved by the Chief Information Security Officer while system-specific security documentation is approved by the system’s authorising officer.</p> | 
+| [ism-0072](/ism/control/ism-0072) | <p>Security requirements associated with the confidentiality, integrity and availability of data are documented in contractual arrangements with service providers and reviewed on a regular and ongoing basis to ensure they remain fit for purpose.</p> | 
+| [ism-0078](/ism/control/ism-0078) | <p>Systems processing, storing or communicating AUSTEO or AGAO data remain at all times under the control of an Australian national working for or on behalf of the Australian Government.</p> | 
+| [ism-0100](/ism/control/ism-0100) | <p>Gateways undergo a security assessment by an IRAP assessor at least every 24 months.</p> | 
+| [ism-0109](/ism/control/ism-0109) | <p>Event logs are analysed in a timely manner to detect cyber security events.</p> | 
+| [ism-0120](/ism/control/ism-0120) | <p>Cyber security personnel have access to sufficient data sources and tools to ensure that systems can be monitored for key indicators of compromise.</p> | 
+| [ism-0123](/ism/control/ism-0123) | <p>Cyber security incidents are reported to the Chief Information Security Officer, or one of their delegates, as soon as possible after they occur or are discovered.</p> | 
+| [ism-0125](/ism/control/ism-0125) | <p>A cyber security incident register is developed, implemented and maintained.</p> | 
+| [ism-0133](/ism/control/ism-0133) | <p>When a data spill occurs, data owners are advised and access to the data is restricted.</p> | 
+| [ism-0137](/ism/control/ism-0137) | <p>Legal advice is sought before allowing intrusion activity to continue on a system for the purpose of collecting further data or evidence.</p> | 
+| [ism-0138](/ism/control/ism-0138) | <p>The integrity of evidence gathered during an investigation is maintained by investigators:</p>                  <ul>                     <li>recording all of their actions</li>                     <li>maintaining a proper chain of custody</li>                     <li>following all instructions provided by relevant law enforcement agencies.</li>                  </ul> | 
+| [ism-0140](/ism/control/ism-0140) | <p>Cyber security incidents are reported to the ACSC as soon as possible after they occur or are discovered.</p> | 
+| [ism-0141](/ism/control/ism-0141) | <p>The requirement for service providers to report cyber security incidents to a designated point of contact as soon as possible after they occur or are discovered is documented in contractual arrangements with service providers.</p> | 
+| [ism-0142](/ism/control/ism-0142) | <p>The compromise or suspected compromise of cryptographic equipment or associated keying material is reported to the Chief Information Security Officer, or one of their delegates, as soon as possible after it occurs.</p> | 
+| [ism-0161](/ism/control/ism-0161) | <p>ICT equipment and media are secured when not in use.</p> | 
+| [ism-0164](/ism/control/ism-0164) | <p>Unauthorised people are prevented from observing systems, in particular workstation displays and keyboards, within facilities.</p> | 
+| [ism-0181](/ism/control/ism-0181) | <p>Cabling infrastructure is installed in accordance with relevant Australian Standards, as directed by the Australian Communications and Media Authority.</p> | 
+| [ism-0187](/ism/control/ism-0187) | <p>SECRET cables, when bundled together or run in conduit, are run exclusively in their own individual cable bundle or conduit.</p> | 
+| [ism-0194](/ism/control/ism-0194) | <p>In shared facilities, a visible smear of conduit glue is used to seal all plastic conduit joints and TOP SECRET conduits connected by threaded lock nuts.</p> | 
+| [ism-0195](/ism/control/ism-0195) | <p>In shared facilities, uniquely identifiable SCEC-approved tamper-evident seals are used to seal all removable covers on TOP SECRET cable reticulation systems.</p> | 
+| [ism-0198](/ism/control/ism-0198) | <p>When penetrating a TOP SECRET audio secure room, the Australian Security Intelligence Organisation is consulted and all directions provided are complied with.</p> | 
+| [ism-0201](/ism/control/ism-0201) | <p>Labels for TOP SECRET conduits are a minimum size of 2.5 cm x 1 cm, attached at five-metre intervals and marked as ‘TS RUN’.</p> | 
+| [ism-0206](/ism/control/ism-0206) | <p>Cable labelling processes, and supporting cable labelling procedures, are developed, implemented and maintained.</p> | 
+| [ism-0208](/ism/control/ism-0208) | <p>A cable register contains the following for each cable:</p>                  <ul>                     <li>cable identifier</li>                     <li>cable colour</li>                     <li>sensitivity/classification</li>                     <li>source</li>                     <li>destination</li>                     <li>location</li>                     <li>seal numbers (if applicable).</li>                  </ul> | 
+| [ism-0211](/ism/control/ism-0211) | <p>A cable register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-0213](/ism/control/ism-0213) | <p>SECRET and TOP SECRET cables are terminated on their own individual patch panels.</p> | 
+| [ism-0216](/ism/control/ism-0216) | <p>TOP SECRET patch panels are installed in individual TOP SECRET cabinets.</p> | 
+| [ism-0217](/ism/control/ism-0217) | <p>Where spatial constraints demand non-TOP SECRET patch panels be installed in the same cabinet as a TOP SECRET patch panel:</p>                  <ul>                     <li>a physical barrier in the cabinet is provided to separate patch panels</li>                     <li>only personnel holding a Positive Vetting security clearance have access to the cabinet</li>                     <li>approval from the TOP SECRET system’s authorising officer is obtained prior to installation.</li>                  </ul> | 
+| [ism-0218](/ism/control/ism-0218) | <p>If TOP SECRET fibre-optic fly leads exceeding five metres in length are used to connect wall outlet boxes to ICT equipment, they are run in a protective and easily inspected pathway that is clearly labelled at the ICT equipment end with the wall outlet box’s identifier.</p> | 
+| [ism-0225](/ism/control/ism-0225) | <p>Unauthorised RF and IR devices are not brought into SECRET and TOP SECRET areas.</p> | 
+| [ism-0229](/ism/control/ism-0229) | <p>Personnel are advised of the permitted sensitivity or classification of information that can be discussed over both internal and external telephone systems.</p> | 
+| [ism-0230](/ism/control/ism-0230) | <p>Personnel are advised of security risks posed by non-secure telephone systems in areas where sensitive or classified conversations can occur.</p> | 
+| [ism-0231](/ism/control/ism-0231) | <p>When using cryptographic equipment to permit different levels of conversation for different kinds of connections, telephone systems give a visual indication of what kind of connection has been made.</p> | 
+| [ism-0232](/ism/control/ism-0232) | <p>Telephone systems used for sensitive or classified conversations encrypt all traffic that passes over external systems.</p> | 
+| [ism-0233](/ism/control/ism-0233) | <p>Cordless telephone handsets and headsets are not used for sensitive or classified conversations unless all communications are encrypted.</p> | 
+| [ism-0235](/ism/control/ism-0235) | <p>Speakerphones are not used on telephone systems in TOP SECRET areas unless the telephone system is located in an audio secure room, the room is audio secure during conversations and only personnel involved in conversations are present in the room.</p> | 
+| [ism-0236](/ism/control/ism-0236) | <p>Off-hook audio protection features are used on telephone systems in areas where background conversations may exceed the sensitivity or classification that the telephone system is authorised for communicating.</p> | 
+| [ism-0240](/ism/control/ism-0240) | <p>Paging, Multimedia Message Service, Short Message Service and messaging apps are not used to communicate sensitive or classified data.</p> | 
+| [ism-0241](/ism/control/ism-0241) | <p>When sending fax messages, the fax message is encrypted to an appropriate level to be communicated over unsecured telecommunications infrastructure.</p> | 
+| [ism-0245](/ism/control/ism-0245) | <p>A direct connection from an MFD to a digital telephone system is not enabled unless the digital telephone system is authorised to operate at the same sensitivity or classification as the network to which the MFD is connected.</p> | 
+| [ism-0246](/ism/control/ism-0246) | <p>An emanation security threat assessment is sought as early as possible in a system’s life cycle as implementing emanation security can have significant cost implications.</p> | 
+| [ism-0247](/ism/control/ism-0247) | <p>System owners deploying SECRET or TOP SECRET systems with Radio Frequency transmitters inside or co-located with their facility contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.</p> | 
+| [ism-0248](/ism/control/ism-0248) | <p>System owners deploying OFFICIAL or PROTECTED systems with Radio Frequency transmitters that will be co-located with SECRET or TOP SECRET systems contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.</p> | 
+| [ism-0249](/ism/control/ism-0249) | <p>System owners deploying systems or military platforms overseas contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.</p> | 
+| [ism-0250](/ism/control/ism-0250) | <p>ICT equipment meets industry and government standards relating to electromagnetic interference/electromagnetic compatibility.</p> | 
+| [ism-0252](/ism/control/ism-0252) | <p>Cyber security awareness training is undertaken annually by all personnel and covers:</p>                  <ul>                     <li>the purpose of the cyber security awareness training</li>                     <li>security appointments and contacts</li>                     <li>authorised use of systems and their resources</li>                     <li>protection of systems and their resources</li>                     <li>reporting of cyber security incidents and suspected compromises of systems and their resources.</li>                  </ul> | 
+| [ism-0258](/ism/control/ism-0258) | <p>A web usage policy is developed, implemented and maintained.</p> | 
+| [ism-0260](/ism/control/ism-0260) | <p>All web access, including that by internal servers, is conducted through web proxies.</p> | 
+| [ism-0261](/ism/control/ism-0261) | <p>The following details are logged for websites accessed via web proxies:</p>                  <ul>                     <li>address</li>                     <li>date and time</li>                     <li>user</li>                     <li>amount of data uploaded and downloaded</li>                     <li>internal and external IP addresses.</li>                  </ul> | 
+| [ism-0263](/ism/control/ism-0263) | <p>TLS traffic communicated through gateways is decrypted and inspected.</p> | 
+| [ism-0264](/ism/control/ism-0264) | <p>An email usage policy is developed, implemented and maintained.</p> | 
+| [ism-0267](/ism/control/ism-0267) | <p>Access to non-approved webmail services is blocked.</p> | 
+| [ism-0269](/ism/control/ism-0269) | <p>Emails containing Australian Eyes Only, Australian Government Access Only or Releasable To data are not sent to email distribution lists unless the nationality of all members of email distribution lists can be confirmed.</p> | 
+| [ism-0270](/ism/control/ism-0270) | <p>Protective markings are applied to emails and reflect the highest sensitivity or classification of the subject, body and attachments.</p> | 
+| [ism-0271](/ism/control/ism-0271) | <p>Protective marking tools do not automatically insert protective markings into emails.</p> | 
+| [ism-0272](/ism/control/ism-0272) | <p>Protective marking tools do not allow users to select protective markings that a system has not been authorised to process, store or communicate.</p> | 
+| [ism-0280](/ism/control/ism-0280) | <p>If procuring an evaluated product, a product that has completed a PP-based evaluation, including against all applicable PP modules, is selected in preference to one that has completed an EAL-based evaluation.</p> | 
+| [ism-0285](/ism/control/ism-0285) | <p>Evaluated products are delivered in a manner consistent with any delivery procedures defined in associated evaluation documentation.</p> | 
+| [ism-0286](/ism/control/ism-0286) | <p>When procuring high assurance ICT equipment, the ACSC is contacted for any equipment-specific delivery procedures.</p> | 
+| [ism-0289](/ism/control/ism-0289) | <p>Evaluated products are installed, configured, administered and operated in an evaluated configuration and in accordance with vendor guidance.</p> | 
+| [ism-0290](/ism/control/ism-0290) | <p>High assurance ICT equipment is installed, configured, administered and operated in an evaluated configuration and in accordance with ACSC guidance.</p> | 
+| [ism-0293](/ism/control/ism-0293) | <p>ICT equipment is classified based on the highest sensitivity or classification of data that it is approved for processing, storing or communicating.</p> | 
+| [ism-0294](/ism/control/ism-0294) | <p>ICT equipment, with the exception of high assurance ICT equipment, is labelled with protective markings reflecting its sensitivity or classification.</p> | 
+| [ism-0296](/ism/control/ism-0296) | <p>The ACSC’s approval is sought before applying labels to external surfaces of high assurance ICT equipment.</p> | 
+| [ism-0298](/ism/control/ism-0298) | <p>A centralised and managed approach that maintains the integrity of patches or updates, and confirms that they have been applied successfully, is used to patch or update applications, operating systems, drivers and firmware.</p> | 
+| [ism-0300](/ism/control/ism-0300) | <p>Patches, updates or vendor mitigations for security vulnerabilities in high assurance ICT equipment are applied only when approved by the ACSC, and in doing so, using methods and timeframes prescribed by the ACSC.</p> | 
+| [ism-0304](/ism/control/ism-0304) | <p>Applications that are no longer supported by vendors are removed.</p> | 
+| [ism-0305](/ism/control/ism-0305) | <p>Maintenance and repairs of ICT equipment is carried out on site by an appropriately cleared technician.</p> | 
+| [ism-0306](/ism/control/ism-0306) | <p>If an uncleared technician is used to undertake maintenance or repairs of ICT equipment, the technician is escorted by someone who:</p>                  <ul>                     <li>is appropriately cleared and briefed</li>                     <li>takes due care to ensure that data is not disclosed</li>                     <li>takes all responsible measures to ensure the integrity of the ICT equipment</li>                     <li>has the authority to direct the technician</li>                     <li>is sufficiently familiar with the ICT equipment to understand the work being performed.</li>                  </ul> | 
+| [ism-0307](/ism/control/ism-0307) | <p>If an uncleared technician is used to undertake maintenance or repairs of ICT equipment, the ICT equipment and associated media is sanitised before maintenance or repair work is undertaken.</p> | 
+| [ism-0310](/ism/control/ism-0310) | <p>ICT equipment maintained or repaired off site is done so at facilities approved for handling the sensitivity or classification of the ICT equipment.</p> | 
+| [ism-0311](/ism/control/ism-0311) | <p>ICT equipment containing media is sanitised by removing the media from the ICT equipment or by sanitising the media in situ.</p> | 
+| [ism-0312](/ism/control/ism-0312) | <p>ICT equipment, including associated media, that is located overseas and has processed, stored or communicated AUSTEO or AGAO data that cannot be sanitised in situ, is returned to Australia for destruction.</p> | 
+| [ism-0313](/ism/control/ism-0313) | <p>ICT equipment sanitisation processes, and supporting ICT equipment sanitisation procedures, are developed, implemented and maintained.</p> | 
+| [ism-0315](/ism/control/ism-0315) | <p>High assurance ICT equipment is destroyed prior to its disposal.</p> | 
+| [ism-0316](/ism/control/ism-0316) | <p>Following sanitisation, destruction or declassification, a formal administrative decision is made to release ICT equipment, or its waste, into the public domain.</p> | 
+| [ism-0317](/ism/control/ism-0317) | <p>At least three pages of random text with no blank areas are printed on each colour printer cartridge or MFD print drum.</p> | 
+| [ism-0318](/ism/control/ism-0318) | <p>When unable to sanitise printer cartridges or MFD print drums, they are destroyed as per electrostatic memory devices.</p> | 
+| [ism-0321](/ism/control/ism-0321) | <p>When disposing of ICT equipment that has been designed or modified to meet emanation security standards, the ACSC is contacted for requirements relating to its disposal.</p> | 
+| [ism-0323](/ism/control/ism-0323) | <p>Media is classified to the highest sensitivity or classification of data it stores, unless the media has been classified to a higher sensitivity or classification.</p> | 
+| [ism-0325](/ism/control/ism-0325) | <p>Any media connected to a system with a higher sensitivity or classification than the media is reclassified to the higher sensitivity or classification, unless the media is read-only or the system has a mechanism through which read-only access can be ensured.</p> | 
+| [ism-0330](/ism/control/ism-0330) | <p>Before reclassifying media to a lower sensitivity or classification, the media is sanitised or destroyed, and a formal administrative decision is made to reclassify it.</p> | 
+| [ism-0332](/ism/control/ism-0332) | <p>Media, with the exception of internally mounted fixed media within ICT equipment, is labelled with protective markings reflecting its sensitivity or classification.</p> | 
+| [ism-0336](/ism/control/ism-0336) | <p>An ICT equipment register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-0337](/ism/control/ism-0337) | <p>Media is only used with systems that are authorised to process, store or communicate its sensitivity or classification.</p> | 
+| [ism-0341](/ism/control/ism-0341) | <p>Automatic execution features for removable media are disabled.</p> | 
+| [ism-0343](/ism/control/ism-0343) | <p>If there is no business requirement for writing to removable media and devices, such functionality is disabled via the use of device access control software or by disabling external communication interfaces.</p> | 
+| [ism-0345](/ism/control/ism-0345) | <p>External communication interfaces that allow DMA are disabled.</p> | 
+| [ism-0347](/ism/control/ism-0347) | <p>When transferring data manually between two systems belonging to different security domains, write-once media is used unless the destination system has a mechanism through which read-only access can be ensured.</p> | 
+| [ism-0348](/ism/control/ism-0348) | <p>Media sanitisation processes, and supporting media sanitisation procedures, are developed, implemented and maintained.</p> | 
+| [ism-0350](/ism/control/ism-0350) | <p>The following media types are destroyed prior to their disposal:</p>                  <ul>                     <li>microfiche and microfilm</li>                     <li>optical discs</li>                     <li>programmable read-only memory</li>                     <li>read-only memory</li>                     <li>other types of media that cannot be sanitised.</li>                  </ul> | 
+| [ism-0351](/ism/control/ism-0351) | <p>Volatile media is sanitised by removing its power for at least 10 minutes.</p> | 
+| [ism-0352](/ism/control/ism-0352) | <p>SECRET and TOP SECRET volatile media is sanitised by overwriting it at least once in its entirety with a random pattern followed by a read back for verification.</p> | 
+| [ism-0354](/ism/control/ism-0354) | <p>Non-volatile magnetic media is sanitised by overwriting it at least once (or three times if pre-2001 or under 15 GB) in its entirety with a random pattern followed by a read back for verification.</p> | 
+| [ism-0356](/ism/control/ism-0356) | <p>Following sanitisation, SECRET and TOP SECRET non-volatile magnetic media retains its classification.</p> | 
+| [ism-0357](/ism/control/ism-0357) | <p>Non-volatile EPROM media is sanitised by applying three times the manufacturer’s specified ultraviolet erasure time and then overwriting it at least once in its entirety with a random pattern followed by a read back for verification.</p> | 
+| [ism-0358](/ism/control/ism-0358) | <p>Following sanitisation, SECRET and TOP SECRET non-volatile EPROM and EEPROM media retains its classification.</p> | 
+| [ism-0359](/ism/control/ism-0359) | <p>Non-volatile flash memory media is sanitised by overwriting it at least twice in its entirety with a random pattern followed by a read back for verification.</p> | 
+| [ism-0360](/ism/control/ism-0360) | <p>Following sanitisation, SECRET and TOP SECRET non-volatile flash memory media retains its classification.</p> | 
+| [ism-0361](/ism/control/ism-0361) | <p>Magnetic media is destroyed using a degausser with a suitable magnetic field strength and magnetic orientation.</p> | 
+| [ism-0362](/ism/control/ism-0362) | <p>Product-specific directions provided by degausser manufacturers are followed.</p> | 
+| [ism-0363](/ism/control/ism-0363) | <p>Media destruction processes, and supporting media destruction procedures, are developed, implemented and maintained.</p> | 
+| [ism-0368](/ism/control/ism-0368) | <p>Media destroyed using a hammer mill, disintegrator, grinder/sander or by cutting results in media waste particles no larger than 9 mm.</p> | 
+| [ism-0370](/ism/control/ism-0370) | <p>The destruction of media is performed under the supervision of at least one person cleared to its sensitivity or classification.</p> | 
+| [ism-0371](/ism/control/ism-0371) | <p>Personnel supervising the destruction of media supervise its handling to the point of destruction and ensure that the destruction is completed successfully.</p> | 
+| [ism-0372](/ism/control/ism-0372) | <p>The destruction of media storing accountable material is performed under the supervision of at least two personnel cleared to its sensitivity or classification.</p> | 
+| [ism-0373](/ism/control/ism-0373) | <p>Personnel supervising the destruction of media storing accountable material supervise its handling to the point of destruction, ensure that the destruction is completed successfully and sign a destruction certificate afterwards.</p> | 
+| [ism-0374](/ism/control/ism-0374) | <p>Media disposal processes, and supporting media disposal procedures, are developed, implemented and maintained.</p> | 
+| [ism-0375](/ism/control/ism-0375) | <p>Following sanitisation, destruction or declassification, a formal administrative decision is made to release media, or its waste, into the public domain.</p> | 
+| [ism-0378](/ism/control/ism-0378) | <p>Labels and markings indicating the owner, sensitivity, classification or any other marking that can associate media with its prior use are removed prior to its disposal.</p> | 
+| [ism-0380](/ism/control/ism-0380) | <p>Unneeded accounts, components, services and functionality of operating systems are disabled or removed.</p> | 
+| [ism-0382](/ism/control/ism-0382) | <p>Unprivileged users do not have the ability to uninstall or disable approved software.</p> | 
+| [ism-0383](/ism/control/ism-0383) | <p>Default accounts or credentials for operating systems, including for any pre-configured accounts, are changed.</p> | 
+| [ism-0385](/ism/control/ism-0385) | <p>Servers maintain effective functional separation with other servers allowing them to operate independently.</p> | 
+| [ism-0393](/ism/control/ism-0393) | <p>Databases and their contents are classified based on the sensitivity or classification of data that they contain.</p> | 
+| [ism-0400](/ism/control/ism-0400) | <p>Development, testing and production environments are segregated.</p> | 
+| [ism-0401](/ism/control/ism-0401) | <p>Secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, and secure programming practices are used as part of application development.</p> | 
+| [ism-0402](/ism/control/ism-0402) | <p>Applications are comprehensively tested for security vulnerabilities, using both static application security testing and dynamic application security testing, prior to their initial release and any subsequent releases.</p> | 
+| [ism-0405](/ism/control/ism-0405) | <p>Requests for unprivileged access to systems, applications and data repositories are validated when first requested.</p> | 
+| [ism-0407](/ism/control/ism-0407) | <p>A secure record is maintained for the life of each system covering:</p>                  <ul>                     <li>all personnel authorised to access the system, and their user identification</li>                     <li>who provided authorisation for access</li>                     <li>when access was granted</li>                     <li>the level of access that was granted</li>                     <li>when access, and the level of access, was last reviewed</li>                     <li>when the level of access was changed, and to what extent (if applicable)</li>                     <li>when access was withdrawn (if applicable).</li>                  </ul> | 
+| [ism-0408](/ism/control/ism-0408) | <p>Systems have a logon banner that requires users to acknowledge and accept their security responsibilities before access is granted.</p> | 
+| [ism-0409](/ism/control/ism-0409) | <p>Foreign nationals, including seconded foreign nationals, do not have access to systems that process, store or communicate AUSTEO or REL data unless effective controls are in place to ensure such data is not accessible to them.</p> | 
+| [ism-0411](/ism/control/ism-0411) | <p>Foreign nationals, excluding seconded foreign nationals, do not have access to systems that process, store or communicate AGAO data unless effective controls are in place to ensure such data is not accessible to them.</p> | 
+| [ism-0414](/ism/control/ism-0414) | <p>Personnel granted access to a system and its resources are uniquely identifiable.</p> | 
+| [ism-0415](/ism/control/ism-0415) | <p>The use of shared user accounts is strictly controlled, and personnel using such accounts are uniquely identifiable.</p> | 
+| [ism-0417](/ism/control/ism-0417) | <p>When systems cannot support multi-factor authentication, single-factor authentication using passphrases is implemented instead.</p> | 
+| [ism-0418](/ism/control/ism-0418) | <p>Credentials are kept separate from systems they are used to authenticate to, except for when performing authentication activities.</p> | 
+| [ism-0420](/ism/control/ism-0420) | <p>Where a system processes, stores or communicates AUSTEO, AGAO or REL data, personnel who are foreign nationals are identified as such, including by their specific nationality.</p> | 
+| [ism-0421](/ism/control/ism-0421) | <p>Passphrases used for single-factor authentication are at least 4 random words with a total minimum length of 14 characters, unless more stringent requirements apply.</p> | 
+| [ism-0422](/ism/control/ism-0422) | <p>Passphrases used for single-factor authentication on TOP SECRET systems are at least 6 random words with a total minimum length of 20 characters.</p> | 
+| [ism-0428](/ism/control/ism-0428) | <p>Systems are configured with a session or screen lock that:</p>                  <ul>                     <li>activates after a maximum of 15 minutes of user inactivity, or if manually activated by users</li>                     <li>conceals all session content on the screen</li>                     <li>ensures that the screen does not enter a power saving state before the session or screen lock is activated</li>                     <li>requires users to authenticate to unlock the session</li>                     <li>denies users the ability to disable the session or screen locking mechanism.</li>                  </ul> | 
+| [ism-0430](/ism/control/ism-0430) | <p>Access to systems, applications and data repositories is removed or suspended on the same day personnel no longer have a legitimate requirement for access.</p> | 
+| [ism-0432](/ism/control/ism-0432) | <p>Access requirements for a system and its resources are documented in its system security plan.</p> | 
+| [ism-0434](/ism/control/ism-0434) | <p>Personnel undergo appropriate employment screening and, where necessary, hold an appropriate security clearance before being granted access to a system and its resources.</p> | 
+| [ism-0435](/ism/control/ism-0435) | <p>Personnel receive any necessary briefings before being granted access to a system and its resources.</p> | 
+| [ism-0441](/ism/control/ism-0441) | <p>When personnel are granted temporary access to a system, effective controls are put in place to restrict their access to only data required for them to undertake their duties.</p> | 
+| [ism-0443](/ism/control/ism-0443) | <p>Temporary access is not granted to systems that process, store or communicate caveated or sensitive compartmented information.</p> | 
+| [ism-0445](/ism/control/ism-0445) | <p>Privileged users are assigned a dedicated privileged account to be used solely for tasks requiring privileged access.</p> | 
+| [ism-0446](/ism/control/ism-0446) | <p>Foreign nationals, including seconded foreign nationals, do not have privileged access to systems that process, store or communicate AUSTEO or REL data.</p> | 
+| [ism-0447](/ism/control/ism-0447) | <p>Foreign nationals, excluding seconded foreign nationals, do not have privileged access to systems that process, store or communicate AGAO data.</p> | 
+| [ism-0455](/ism/control/ism-0455) | <p>Where practical, cryptographic equipment and software provides a means of data recovery to allow for circumstances where the encryption key is unavailable due to loss, damage or failure.</p> | 
+| [ism-0457](/ism/control/ism-0457) | <p>Cryptographic equipment or software that has completed a Common Criteria evaluation against a Protection Profile is used when encrypting media that contains OFFICIAL: Sensitive or PROTECTED data.</p> | 
+| [ism-0459](/ism/control/ism-0459) | <p>Full disk encryption, or partial encryption where access controls will only allow writing to the encrypted partition, is implemented when encrypting data at rest.</p> | 
+| [ism-0460](/ism/control/ism-0460) | <p>ASD-approved HACE is used when encrypting media that contains SECRET or TOP SECRET data.</p> | 
+| [ism-0462](/ism/control/ism-0462) | <p>When a user authenticates to the encryption functionality of ICT equipment or media, it is treated in accordance with its original sensitivity or classification until the user deauthenticates from the encryption functionality.</p> | 
+| [ism-0465](/ism/control/ism-0465) | <p>Cryptographic equipment or software that has completed a Common Criteria evaluation against a Protection Profile is used to protect OFFICIAL: Sensitive or PROTECTED data when communicated over insufficiently secure networks, outside of appropriately secure areas or via public network infrastructure.</p> | 
+| [ism-0467](/ism/control/ism-0467) | <p>ASD-approved HACE is used to protect SECRET and TOP SECRET data when communicated over insufficiently secure networks, outside of appropriately secure areas or via public network infrastructure.</p> | 
+| [ism-0469](/ism/control/ism-0469) | <p>An ASD-Approved Cryptographic Protocol (AACP) or high assurance cryptographic protocol is used to protect data when communicated over network infrastructure.</p> | 
+| [ism-0471](/ism/control/ism-0471) | <p>Only AACAs or high assurance cryptographic algorithms are used by cryptographic equipment and software.</p> | 
+| [ism-0472](/ism/control/ism-0472) | <p>When using DH for agreeing on encryption session keys, a modulus of at least 2048 bits is used, preferably 3072 bits.</p> | 
+| [ism-0473](/ism/control/ism-0473) | <p>When using DSA for digital signatures, a modulus of at least 2048 bits is used.</p> | 
+| [ism-0474](/ism/control/ism-0474) | <p>When using ECDH for agreeing on encryption session keys, a base point order and key size of at least 224 bits is used, preferably the NIST P-384 curve.</p> | 
+| [ism-0475](/ism/control/ism-0475) | <p>When using ECDSA for digital signatures, a base point order and key size of at least 224 bits is used, preferably the P-384 curve.</p> | 
+| [ism-0476](/ism/control/ism-0476) | <p>When using RSA for digital signatures, and passing encryption session keys or similar keys, a modulus of at least 2048 bits is used, preferably 3072 bits.</p> | 
+| [ism-0477](/ism/control/ism-0477) | <p>When using RSA for digital signatures, and for passing encryption session keys or similar keys, a different key pair is used for digital signatures and passing encrypted session keys.</p> | 
+| [ism-0479](/ism/control/ism-0479) | <p>Symmetric cryptographic algorithms are not used in Electronic Codebook Mode.</p> | 
+| [ism-0481](/ism/control/ism-0481) | <p>Only AACPs or high assurance cryptographic protocols are used by cryptographic equipment and software.</p> | 
+| [ism-0484](/ism/control/ism-0484) | <p>The SSH daemon is configured to:</p>                  <ul>                     <li>only listen on the required interfaces (ListenAddress xxx.xxx.xxx.xxx)</li>                     <li>have a suitable login banner (Banner x)</li>                     <li>have a login authentication timeout of no more than 60 seconds (LoginGraceTime 60)</li>                     <li>disable host-based authentication (HostbasedAuthentication no)</li>                     <li>disable rhosts-based authentication (IgnoreRhosts yes)</li>                     <li>disable the ability to login directly as root (PermitRootLogin no)</li>                     <li>disable empty passwords (PermitEmptyPasswords no)</li>                     <li>disable connection forwarding (AllowTCPForwarding no)</li>                     <li>disable gateway ports (GatewayPorts no)</li>                     <li>disable X11 forwarding (X11Forwarding no).</li>                  </ul> | 
+| [ism-0485](/ism/control/ism-0485) | <p>Public key-based authentication is used for SSH connections.</p> | 
+| [ism-0487](/ism/control/ism-0487) | <p>When using logins without a passphrase for SSH connections, the following are disabled:</p>                  <ul>                     <li>access from IP addresses that do not require access</li>                     <li>port forwarding</li>                     <li>agent credential forwarding</li>                     <li>X11 display remoting</li>                     <li>console access.</li>                  </ul> | 
+| [ism-0488](/ism/control/ism-0488) | <p>If using remote access without the use of a passphrase for SSH connections, the ‘forced command’ option is used to specify what command is executed and parameter checking is enabled.</p> | 
+| [ism-0489](/ism/control/ism-0489) | <p>When SSH-agent or similar key caching programs are used, it is limited to workstations and servers with screen locks and key caches that are set to expire within four hours of inactivity.</p> | 
+| [ism-0490](/ism/control/ism-0490) | <p>Versions of S/MIME earlier than S/MIME version 3.0 are not used for S/MIME connections.</p> | 
+| [ism-0494](/ism/control/ism-0494) | <p>Tunnel mode is used for IPsec connections; however, if using transport mode, an IP tunnel is used.</p> | 
+| [ism-0496](/ism/control/ism-0496) | <p>The ESP protocol is used for authentication and encryption of IPsec connections.</p> | 
+| [ism-0498](/ism/control/ism-0498) | <p>A security association lifetime of less than four hours (14400 seconds) is used for IPsec connections.</p> | 
+| [ism-0499](/ism/control/ism-0499) | <p>All communications security and equipment-specific doctrine produced by the ACSC for the management and use of ASD-approved HACE is complied with.</p> | 
+| [ism-0501](/ism/control/ism-0501) | <p>Keyed cryptographic equipment is transported based on the sensitivity or classification of its keying material.</p> | 
+| [ism-0507](/ism/control/ism-0507) | <p>Cryptographic key management processes, and supporting cryptographic key management procedures, are developed, implemented and maintained.</p> | 
+| [ism-0516](/ism/control/ism-0516) | <p>Network documentation includes high-level network diagrams showing all connections into networks and logical network diagrams showing all critical servers, high-value servers, network devices and network security appliances.</p> | 
+| [ism-0518](/ism/control/ism-0518) | <p>Network documentation is developed, implemented, maintained.</p> | 
+| [ism-0520](/ism/control/ism-0520) | <p>Network access controls are implemented on networks to prevent the connection of unauthorised network devices.</p> | 
+| [ism-0521](/ism/control/ism-0521) | <p>IPv6 functionality is disabled in dual-stack network devices unless it is being used.</p> | 
+| [ism-0529](/ism/control/ism-0529) | <p>VLANs are not used to separate network traffic between networks belonging to different security domains.</p> | 
+| [ism-0530](/ism/control/ism-0530) | <p>Network devices managing VLANs are administered from the most trusted security domain.</p> | 
+| [ism-0534](/ism/control/ism-0534) | <p>Unused physical ports on network devices are disabled.</p> | 
+| [ism-0535](/ism/control/ism-0535) | <p>Network devices managing VLANs belonging to different security domains do not share VLAN trunks.</p> | 
+| [ism-0536](/ism/control/ism-0536) | <p>Public wireless networks provided for general public use are segregated from all other organisation networks.</p> | 
+| [ism-0546](/ism/control/ism-0546) | <p>When video conferencing or IP telephony traffic passes through a gateway containing a firewall or proxy, a video-aware or voice-aware firewall or proxy is used.</p> | 
+| [ism-0547](/ism/control/ism-0547) | <p>Video conferencing and IP telephony calls are conducted using a secure real-time transport protocol.</p> | 
+| [ism-0548](/ism/control/ism-0548) | <p>Video conferencing and IP telephony calls are established using a secure session initiation protocol.</p> | 
+| [ism-0549](/ism/control/ism-0549) | <p>Video conferencing and IP telephony traffic is separated physically or logically from other data traffic.</p> | 
+| [ism-0551](/ism/control/ism-0551) | <p>IP telephony is configured such that:</p>                  <ul>                     <li>IP phones authenticate themselves to the call controller upon registration</li>                     <li>auto-registration is disabled and only authorised devices are allowed to access the network</li>                     <li>unauthorised devices are blocked by default</li>                     <li>all unused and prohibited functionality is disabled.</li>                  </ul> | 
+| [ism-0553](/ism/control/ism-0553) | <p>Authentication and authorisation is used for all actions on a video conferencing network, including call setup and changing settings.</p> | 
+| [ism-0554](/ism/control/ism-0554) | <p>An encrypted and non-replayable two-way authentication scheme is used for call authentication and authorisation.</p> | 
+| [ism-0555](/ism/control/ism-0555) | <p>Authentication and authorisation is used for all actions on an IP telephony network, including registering a new IP phone, changing phone users, changing settings and accessing voicemail.</p> | 
+| [ism-0556](/ism/control/ism-0556) | <p>Workstations are not connected to video conferencing units or IP phones unless the workstation or the device uses Virtual Local Area Networks or similar mechanisms to maintain separation between video conferencing, IP telephony and other data traffic.</p> | 
+| [ism-0558](/ism/control/ism-0558) | <p>IP phones used in public areas do not have the ability to access data networks, voicemail and directory services.</p> | 
+| [ism-0559](/ism/control/ism-0559) | <p>Microphones (including headsets and USB handsets) and webcams are not used with non-SECRET workstations in SECRET areas.</p> | 
+| [ism-0565](/ism/control/ism-0565) | <p>Email servers are configured to block, log and report emails with inappropriate protective markings.</p> | 
+| [ism-0567](/ism/control/ism-0567) | <p>Email servers only relay emails destined for or originating from their domains (including subdomains).</p> | 
+| [ism-0569](/ism/control/ism-0569) | <p>Emails are routed via centralised email gateways.</p> | 
+| [ism-0570](/ism/control/ism-0570) | <p>Where backup or alternative email gateways are in place, they are maintained at the same standard as the primary email gateway.</p> | 
+| [ism-0571](/ism/control/ism-0571) | <p>When users send or receive emails, an authenticated and encrypted channel is used to route emails via their organisation’s centralised email gateways.</p> | 
+| [ism-0572](/ism/control/ism-0572) | <p>Opportunistic TLS encryption is enabled on email servers that make incoming or outgoing email connections over public network infrastructure.</p> | 
+| [ism-0574](/ism/control/ism-0574) | <p>SPF is used to specify authorised email servers (or lack thereof) for an organisation’s domains (including subdomains).</p> | 
+| [ism-0576](/ism/control/ism-0576) | <p>An incident management policy, and associated incident response plan, is developed, implemented and maintained.</p> | 
+| [ism-0580](/ism/control/ism-0580) | <p>An event logging policy is developed, implemented and maintained.</p> | 
+| [ism-0582](/ism/control/ism-0582) | <p>The following events are logged for operating systems:</p>                  <ul>                     <li>application and operating system crashes and error messages</li>                     <li>changes to security policies and system configurations</li>                     <li>successful user logons and logoffs, failed user logons and account lockouts</li>                     <li>failures, restarts and changes to important processes and services</li>                     <li>requests to access internet resources</li>                     <li>security product-related events</li>                     <li>system startups and shutdowns.</li>                  </ul> | 
+| [ism-0585](/ism/control/ism-0585) | <p>For each event logged, the date and time of the event, the relevant user or process, the relevant filename, the event description, and the ICT equipment involved are recorded.</p> | 
+| [ism-0588](/ism/control/ism-0588) | <p>A fax machine and MFD usage policy is developed, implemented and maintained.</p> | 
+| [ism-0589](/ism/control/ism-0589) | <p>MFDs are not used to scan or copy documents above the sensitivity or classification of networks they are connected to.</p> | 
+| [ism-0590](/ism/control/ism-0590) | <p>Authentication measures for MFDs are the same strength as those used for workstations on networks they are connected to.</p> | 
+| [ism-0591](/ism/control/ism-0591) | <p>Evaluated peripheral switches are used when sharing peripherals between systems.</p> | 
+| [ism-0597](/ism/control/ism-0597) | <p>When planning, designing, implementing or introducing additional connectivity to CDSs, the ACSC is consulted and any directions provided by the ACSC are complied with.</p> | 
+| [ism-0610](/ism/control/ism-0610) | <p>Users are trained on the secure use of CDSs before access is granted.</p> | 
+| [ism-0611](/ism/control/ism-0611) | <p>System administrators for gateways are assigned the minimum privileges required to perform their duties.</p> | 
+| [ism-0612](/ism/control/ism-0612) | <p>System administrators for gateways are formally trained on the operation and management of gateways.</p> | 
+| [ism-0613](/ism/control/ism-0613) | <p>System administrators for gateways that connect to Australian Eyes Only or Releasable To networks are Australian nationals.</p> | 
+| [ism-0616](/ism/control/ism-0616) | <p>Separation of duties is implemented in performing administrative activities for gateways.</p> | 
+| [ism-0619](/ism/control/ism-0619) | <p>Users authenticate to other networks accessed via gateways.</p> | 
+| [ism-0622](/ism/control/ism-0622) | <p>ICT equipment authenticates to other networks accessed via gateways.</p> | 
+| [ism-0626](/ism/control/ism-0626) | <p>CDSs are implemented between SECRET or TOP SECRET networks and any other networks belonging to different security domains.</p> | 
+| [ism-0628](/ism/control/ism-0628) | <p>Gateways are implemented between networks belonging to different security domains.</p> | 
+| [ism-0629](/ism/control/ism-0629) | <p>For gateways between networks belonging to different security domains, any shared components are managed by system administrators for the higher security domain or by system administrators from a mutually-agreed third party.</p> | 
+| [ism-0631](/ism/control/ism-0631) | <p>Gateways only allow explicitly authorised data flows.</p> | 
+| [ism-0634](/ism/control/ism-0634) | <p>The following events are logged for gateways:</p>                  <ul>                     <li>data packets and data flows permitted through gateways</li>                     <li>data packets and data flows attempting to leave gateways</li>                     <li>real-time alerts for attempted intrusions.</li>                  </ul> | 
+| [ism-0635](/ism/control/ism-0635) | <p>CDSs implement isolated upward and downward network paths.</p> | 
+| [ism-0637](/ism/control/ism-0637) | <p>Gateways implement a demilitarised zone if external parties require access to an organisation’s services.</p> | 
+| [ism-0639](/ism/control/ism-0639) | <p>Evaluated firewalls are used between networks belonging to different security domains.</p> | 
+| [ism-0643](/ism/control/ism-0643) | <p>Evaluated diodes are used for controlling the data flow of unidirectional gateways between an organisation’s networks and public network infrastructure.</p> | 
+| [ism-0645](/ism/control/ism-0645) | <p>Evaluated diodes used for controlling the data flow of unidirectional gateways between SECRET or TOP SECRET networks and public network infrastructure complete a high assurance evaluation.</p> | 
+| [ism-0649](/ism/control/ism-0649) | <p>Files imported or exported via gateways or CDSs are filtered for allowed file types.</p> | 
+| [ism-0651](/ism/control/ism-0651) | <p>Files identified by content filtering checks as malicious, or that cannot be inspected, are blocked.</p> | 
+| [ism-0652](/ism/control/ism-0652) | <p>Files identified by content filtering checks as suspicious are quarantined until reviewed and subsequently approved or not approved for release.</p> | 
+| [ism-0657](/ism/control/ism-0657) | <p>When manually importing data to systems, the data is scanned for malicious and active content.</p> | 
+| [ism-0659](/ism/control/ism-0659) | <p>Files imported or exported via gateways or CDSs undergo content filtering checks.</p> | 
+| [ism-0660](/ism/control/ism-0660) | <p>Data transfer logs for SECRET and TOP SECRET systems are fully verified at least monthly.</p> | 
+| [ism-0661](/ism/control/ism-0661) | <p>Users transferring data to and from systems are held accountable for data transfers they perform.</p> | 
+| [ism-0663](/ism/control/ism-0663) | <p>Data transfer processes, and supporting data transfer procedures, are developed, implemented and maintained.</p> | 
+| [ism-0664](/ism/control/ism-0664) | <p>Data exported from SECRET and TOP SECRET systems is reviewed and authorised by a trusted source beforehand.</p> | 
+| [ism-0665](/ism/control/ism-0665) | <p>Trusted sources for SECRET and TOP SECRET systems are limited to people and services that have been authorised as such by the Chief Information Security Officer.</p> | 
+| [ism-0669](/ism/control/ism-0669) | <p>When manually exporting data from SECRET and TOP SECRET systems, digital signatures are validated and keyword checks are performed within all textual data.</p> | 
+| [ism-0670](/ism/control/ism-0670) | <p>All security-relevant events generated by CDSs are logged.</p> | 
+| [ism-0675](/ism/control/ism-0675) | <p>Data authorised for export from SECRET and TOP SECRET systems is digitally signed by a trusted source.</p> | 
+| [ism-0677](/ism/control/ism-0677) | <p>Files imported or exported via gateways or CDSs that have a digital signature or cryptographic checksum are validated.</p> | 
+| [ism-0682](/ism/control/ism-0682) | <p>Bluetooth functionality is not enabled on SECRET and TOP SECRET mobile devices.</p> | 
+| [ism-0687](/ism/control/ism-0687) | <p>Mobile devices do not process, store or communicate SECRET or TOP SECRET data until approved for use by ASD.</p> | 
+| [ism-0694](/ism/control/ism-0694) | <p>Privately-owned mobile devices do not access SECRET and TOP SECRET systems or data.</p> | 
+| [ism-0701](/ism/control/ism-0701) | <p>Mobile device emergency sanitisation processes, and supporting mobile device emergency sanitisation procedures, are developed, implemented and maintained.</p> | 
+| [ism-0702](/ism/control/ism-0702) | <p>If a cryptographic zeroise or sanitise function is provided for cryptographic keys on a SECRET or TOP SECRET mobile device, the function is used as part of mobile device emergency sanitisation processes and procedures.</p> | 
+| [ism-0705](/ism/control/ism-0705) | <p>When accessing an organisation’s network via a VPN connection, split tunnelling is disabled.</p> | 
+| [ism-0714](/ism/control/ism-0714) | <p>A CISO is appointed to provide cyber security leadership and guidance for their organisation.</p> | 
+| [ism-0717](/ism/control/ism-0717) | <p>The CISO oversees the management of cyber security personnel within their organisation.</p> | 
+| [ism-0718](/ism/control/ism-0718) | <p>The CISO reports directly to their organisation’s senior executive or Board on cyber security matters.</p> | 
+| [ism-0720](/ism/control/ism-0720) | <p>The CISO develops, implements and maintains a cyber security communications strategy for their organisation.</p> | 
+| [ism-0724](/ism/control/ism-0724) | <p>The CISO implements cyber security measurement metrics and key performance indicators for their organisation.</p> | 
+| [ism-0725](/ism/control/ism-0725) | <p>The CISO coordinates cyber security and business alignment through a cyber security steering committee or advisory board, comprising of key cyber security and business executives, which meets formally and on a regular basis.</p> | 
+| [ism-0726](/ism/control/ism-0726) | <p>The CISO coordinates security risk management activities between cyber security and business teams.</p> | 
+| [ism-0731](/ism/control/ism-0731) | <p>The CISO oversees cyber supply chain risk management activities for their organisation.</p> | 
+| [ism-0732](/ism/control/ism-0732) | <p>The CISO receives and manages a dedicated cyber security budget for their organisation.</p> | 
+| [ism-0733](/ism/control/ism-0733) | <p>The CISO is fully aware of all cyber security incidents within their organisation.</p> | 
+| [ism-0734](/ism/control/ism-0734) | <p>The CISO contributes to the development and maintenance of business continuity and disaster recovery plans for their organisation to ensure that business-critical services are supported appropriately in the event of a disaster.</p> | 
+| [ism-0735](/ism/control/ism-0735) | <p>The CISO oversees the development, implementation and maintenance of their organisation’s cyber security awareness training program.</p> | 
+| [ism-0810](/ism/control/ism-0810) | <p>Systems are secured in facilities that meet the requirements for a security zone suitable for their sensitivity or classification.</p> | 
+| [ism-0813](/ism/control/ism-0813) | <p>Server rooms, communications rooms, security containers and secure rooms are not left in unsecured states.</p> | 
+| [ism-0817](/ism/control/ism-0817) | <p>Personnel are advised of what suspicious contact via online services is and how to report it.</p> | 
+| [ism-0820](/ism/control/ism-0820) | <p>Personnel are advised to not post work information to unauthorised online services and to report cases where such information is posted.</p> | 
+| [ism-0821](/ism/control/ism-0821) | <p>Personnel are advised of security risks associated with posting personal information to online services and are encouraged to use any available privacy settings to restrict who can view such information.</p> | 
+| [ism-0824](/ism/control/ism-0824) | <p>Personnel are advised not to send or receive files via unauthorised online services.</p> | 
+| [ism-0829](/ism/control/ism-0829) | <p>Security measures are used to detect and respond to unauthorised RF devices in SECRET and TOP SECRET areas.</p> | 
+| [ism-0831](/ism/control/ism-0831) | <p>Media is handled in a manner suitable for its sensitivity or classification.</p> | 
+| [ism-0835](/ism/control/ism-0835) | <p>Following sanitisation, TOP SECRET volatile media retains its classification if it stored static data for an extended period of time, or had data repeatedly stored on or written to the same memory location for an extended period of time.</p> | 
+| [ism-0836](/ism/control/ism-0836) | <p>Non-volatile EEPROM media is sanitised by overwriting it at least once in its entirety with a random pattern followed by a read back for verification.</p> | 
+| [ism-0839](/ism/control/ism-0839) | <p>The destruction of media storing accountable material is not outsourced.</p> | 
+| [ism-0840](/ism/control/ism-0840) | <p>When outsourcing the destruction of media storing non-accountable material, a National Association for Information Destruction AAA certified destruction service with endorsements, as specified in ASIO’s Protective Security Circular-167, is used.</p> | 
+| [ism-0843](/ism/control/ism-0843) | <p>Application control is implemented on workstations.</p> | 
+| [ism-0846](/ism/control/ism-0846) | <p>All users (with the exception of local administrator accounts and break glass accounts) cannot disable, bypass or be exempted from application control.</p> | 
+| [ism-0853](/ism/control/ism-0853) | <p>On a daily basis, outside of business hours and after an appropriate period of inactivity, user sessions are terminated and workstations are restarted.</p> | 
+| [ism-0854](/ism/control/ism-0854) | <p>AUSTEO and AGAO data can only be accessed from systems under the sole control of the Australian Government that are located within facilities authorised by the Australian Government.</p> | 
+| [ism-0859](/ism/control/ism-0859) | <p>Event logs, excluding those for Domain Name System services and web proxies, are retained for at least seven years.</p> | 
+| [ism-0861](/ism/control/ism-0861) | <p>DKIM signing is enabled on emails originating from an organisation’s domains (including subdomains).</p> | 
+| [ism-0863](/ism/control/ism-0863) | <p>Mobile devices prevent personnel from installing or uninstalling non-approved applications once provisioned.</p> | 
+| [ism-0864](/ism/control/ism-0864) | <p>Mobile devices prevent personnel from disabling or modifying security functionality once provisioned.</p> | 
+| [ism-0866](/ism/control/ism-0866) | <p>Sensitive or classified data is not viewed or communicated in public locations unless care is taken to reduce the chance of the screen of a mobile device being observed.</p> | 
+| [ism-0869](/ism/control/ism-0869) | <p>Mobile devices encrypt their internal storage and any removable media.</p> | 
+| [ism-0870](/ism/control/ism-0870) | <p>Mobile devices are carried or stored in a secured state when not being actively used.</p> | 
+| [ism-0871](/ism/control/ism-0871) | <p>Mobile devices are kept under continual direct supervision when being actively used.</p> | 
+| [ism-0874](/ism/control/ism-0874) | <p>Mobile devices access the internet via a VPN connection to an organisation’s internet gateway rather than via a direct connection to the internet.</p> | 
+| [ism-0888](/ism/control/ism-0888) | <p>Security documentation is reviewed at least annually and includes a ‘current as at [date]’ or equivalent statement.</p> | 
+| [ism-0917](/ism/control/ism-0917) | <p>When malicious code is detected, the following steps are taken to handle the infection:</p>                  <ul>                     <li>the infected systems are isolated</li>                     <li>all previously connected media used in the period leading up to the infection are scanned for signs of infection and isolated if necessary</li>                     <li>antivirus software is used to remove the infection from infected systems and media</li>                     <li>if the infection cannot be reliably removed, systems are restored from a known good backup or rebuilt.</li>                  </ul> | 
+| [ism-0926](/ism/control/ism-0926) | <p>OFFICIAL and PROTECTED cables are coloured neither salmon pink nor red.</p> | 
+| [ism-0931](/ism/control/ism-0931) | <p>In SECRET and TOP SECRET areas, push-to-talk handsets or push-to-talk headsets are used to meet any off-hook audio protection requirements.</p> | 
+| [ism-0938](/ism/control/ism-0938) | <p>User applications are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.</p> | 
+| [ism-0947](/ism/control/ism-0947) | <p>When transferring data manually between two systems belonging to different security domains, rewritable media is sanitised after each data transfer.</p> | 
+| [ism-0955](/ism/control/ism-0955) | <p>Application control is implemented using cryptographic hash rules, publisher certificate rules or path rules.</p> | 
+| [ism-0958](/ism/control/ism-0958) | <p>An organisation-approved list of domain names, or list of website categories, is implemented for all Hypertext Transfer Protocol and Hypertext Transfer Protocol Secure traffic communicated through gateways.</p> | 
+| [ism-0961](/ism/control/ism-0961) | <p>Client-side active content is restricted by web content filters to an organisation-approved list of domain names.</p> | 
+| [ism-0963](/ism/control/ism-0963) | <p>Web content filtering is implemented to filter potentially harmful web-based content.</p> | 
+| [ism-0971](/ism/control/ism-0971) | <p>The OWASP Application Security Verification Standard is used in the development of web applications.</p> | 
+| [ism-0974](/ism/control/ism-0974) | <p>Multi-factor authentication is used to authenticate unprivileged users of systems.</p> | 
+| [ism-0979](/ism/control/ism-0979) | <p>Legal advice is sought on the exact wording of logon banners.</p> | 
+| [ism-0988](/ism/control/ism-0988) | <p>An accurate time source is established and used consistently across systems to assist with identifying connections between events.</p> | 
+| [ism-0991](/ism/control/ism-0991) | <p>Event logs for Domain Name System services and web proxies are retained for at least 18 months.</p> | 
+| [ism-0994](/ism/control/ism-0994) | <p>ECDH and ECDSA are used in preference to DH and DSA.</p> | 
+| [ism-0998](/ism/control/ism-0998) | <p>AUTH_HMAC_SHA2_256_128, AUTH_HMAC_SHA2_384_192, AUTH_HMAC_SHA2_512_256 or NONE (only with AES-GCM) is used for authenticating IPsec connections, preferably NONE.</p> | 
+| [ism-0999](/ism/control/ism-0999) | <p>DH or ECDH is used for key establishment of IPsec connections, preferably 384-bit random ECP group, 3072-bit MODP Group or 4096-bit MODP Group.</p> | 
+| [ism-1000](/ism/control/ism-1000) | <p>PFS is used for IPsec connections.</p> | 
+| [ism-1006](/ism/control/ism-1006) | <p>Security measures are implemented to prevent unauthorised access to network management traffic.</p> | 
+| [ism-1013](/ism/control/ism-1013) | <p>The effective range of wireless communications outside an organisation’s area of control is limited by implementing RF shielding on facilities in which SECRET or TOP SECRET wireless networks are used.</p> | 
+| [ism-1014](/ism/control/ism-1014) | <p>Individual logins are implemented for IP phones used for SECRET or TOP SECRET conversations.</p> | 
+| [ism-1019](/ism/control/ism-1019) | <p>A denial of service response plan for video conferencing and IP telephony services is developed, implemented and maintained.</p> | 
+| [ism-1023](/ism/control/ism-1023) | <p>The intended recipients of blocked inbound emails, and the senders of blocked outbound emails, are notified.</p> | 
+| [ism-1024](/ism/control/ism-1024) | <p>Notifications of undeliverable emails are only sent to senders that can be verified via SPF or other trusted means.</p> | 
+| [ism-1026](/ism/control/ism-1026) | <p>DKIM signatures on incoming emails are verified.</p> | 
+| [ism-1027](/ism/control/ism-1027) | <p>Email distribution list software used by external senders is configured such that it does not break the validity of the sender’s DKIM signature.</p> | 
+| [ism-1028](/ism/control/ism-1028) | <p>A NIDS or NIPS is deployed in gateways between an organisation’s networks and other networks they do not manage.</p> | 
+| [ism-1030](/ism/control/ism-1030) | <p>A NIDS or NIPS is located immediately inside the outermost firewall for gateways and configured to generate event logs and alerts for network traffic that contravenes any rule in a firewall ruleset.</p> | 
+| [ism-1034](/ism/control/ism-1034) | <p>A HIPS is implemented on critical servers and high-value servers.</p> | 
+| [ism-1036](/ism/control/ism-1036) | <p>Fax machines and MFDs are located in areas where their use can be observed.</p> | 
+| [ism-1037](/ism/control/ism-1037) | <p>Gateways undergo testing following configuration changes, and at regular intervals no more than six months apart, to validate they conform to expected security configurations.</p> | 
+| [ism-1053](/ism/control/ism-1053) | <p>Servers, network devices and cryptographic equipment are secured in server rooms or communications rooms that meet the requirements for a security zone suitable for their sensitivity or classification.</p> | 
+| [ism-1055](/ism/control/ism-1055) | <p>LAN Manager and NT LAN Manager authentication methods are disabled.</p> | 
+| [ism-1059](/ism/control/ism-1059) | <p>All data stored on media is encrypted.</p> | 
+| [ism-1065](/ism/control/ism-1065) | <p>The host-protected area and device configuration overlay table are reset prior to the sanitisation of non-volatile magnetic hard drives.</p> | 
+| [ism-1067](/ism/control/ism-1067) | <p>The ATA secure erase command is used, in addition to block overwriting software, to ensure the growth defects table of non-volatile magnetic hard drives is overwritten.</p> | 
+| [ism-1071](/ism/control/ism-1071) | <p>Each system has a designated system owner.</p> | 
+| [ism-1073](/ism/control/ism-1073) | <p>An organisation’s systems and data are not accessed or administered by a service provider unless a contractual arrangement exists between the organisation and the service provider to do so.</p> | 
+| [ism-1074](/ism/control/ism-1074) | <p>Keys or equivalent access mechanisms to server rooms, communications rooms, security containers and secure rooms are appropriately controlled.</p> | 
+| [ism-1075](/ism/control/ism-1075) | <p>The sender of a fax message makes arrangements for the receiver to collect the fax message as soon as possible after it is sent and for the receiver to notify the sender if the fax message does not arrive in an agreed amount of time.</p> | 
+| [ism-1076](/ism/control/ism-1076) | <p>Televisions and computer monitors with minor burn-in or image persistence are sanitised by displaying a solid white image on the screen for an extended period of time.</p> | 
+| [ism-1078](/ism/control/ism-1078) | <p>A telephone system usage policy is developed, implemented and maintained.</p> | 
+| [ism-1079](/ism/control/ism-1079) | <p>The ACSC’s approval is sought before undertaking any maintenance or repairs to high assurance ICT equipment.</p> | 
+| [ism-1080](/ism/control/ism-1080) | <p>An ASD-Approved Cryptographic Algorithm (AACA) or high assurance cryptographic algorithm is used when encrypting media.</p> | 
+| [ism-1082](/ism/control/ism-1082) | <p>A mobile device usage policy is developed, implemented and maintained.</p> | 
+| [ism-1083](/ism/control/ism-1083) | <p>Personnel are advised of the sensitivity or classification permitted for voice and data communications when using mobile devices.</p> | 
+| [ism-1084](/ism/control/ism-1084) | <p>If unable to carry or store mobile devices in a secured state, they are physically transferred in a security briefcase or an approved multi-use satchel, pouch or transit bag.</p> | 
+| [ism-1085](/ism/control/ism-1085) | <p>Mobile devices encrypt all sensitive or classified data communicated over public network infrastructure.</p> | 
+| [ism-1088](/ism/control/ism-1088) | <p>Personnel report the potential compromise of mobile devices, removable media or credentials to their organisation as soon as possible, especially if they:</p>                  <ul>                     <li>provide credentials to foreign government officials</li>                     <li>decrypt mobile devices for foreign government officials</li>                     <li>have mobile devices taken out of sight by foreign government officials</li>                     <li>have mobile devices or removable media stolen that are later returned</li>                     <li>lose mobile devices or removable media that are later found</li>                     <li>observe unusual behaviour of mobile devices.</li>                  </ul> | 
+| [ism-1089](/ism/control/ism-1089) | <p>Protective marking tools do not allow users replying to or forwarding emails to select protective markings lower than previously used.</p> | 
+| [ism-1091](/ism/control/ism-1091) | <p>Keying material is changed when compromised or suspected of being compromised.</p> | 
+| [ism-1092](/ism/control/ism-1092) | <p>Separate fax machines or MFDs are used for sending sensitive or classified fax messages and all other fax messages.</p> | 
+| [ism-1095](/ism/control/ism-1095) | <p>Wall outlet boxes denote the systems, cable identifiers and wall outlet box identifier.</p> | 
+| [ism-1096](/ism/control/ism-1096) | <p>Cables are labelled at each end with sufficient source and destination details to enable the physical identification and inspection of the cable.</p> | 
+| [ism-1098](/ism/control/ism-1098) | <p>SECRET cables are terminated in an individual cabinet; or for small systems, a cabinet with a division plate between any SECRET cables and non-SECRET cables.</p> | 
+| [ism-1100](/ism/control/ism-1100) | <p>TOP SECRET cables are terminated in an individual TOP SECRET cabinet.</p> | 
+| [ism-1101](/ism/control/ism-1101) | <p>In TOP SECRET areas, cable reticulation systems leading into cabinets in server rooms or communications rooms are terminated as close as possible to the cabinet.</p> | 
+| [ism-1102](/ism/control/ism-1102) | <p>Cable reticulation systems leading into cabinets are terminated as close as possible to the cabinet.</p> | 
+| [ism-1103](/ism/control/ism-1103) | <p>In TOP SECRET areas, cable reticulation systems leading into cabinets not in server rooms or communications rooms are terminated at the boundary of the cabinet.</p> | 
+| [ism-1105](/ism/control/ism-1105) | <p>SECRET and TOP SECRET wall outlet boxes contain exclusively SECRET or TOP SECRET cables.</p> | 
+| [ism-1107](/ism/control/ism-1107) | <p>OFFICIAL and PROTECTED wall outlet boxes are coloured neither salmon pink nor red.</p> | 
+| [ism-1109](/ism/control/ism-1109) | <p>Wall outlet box covers are clear plastic.</p> | 
+| [ism-1111](/ism/control/ism-1111) | <p>Fibre-optic cables are used for cabling infrastructure instead of copper cables.</p> | 
+| [ism-1112](/ism/control/ism-1112) | <p>Cables are inspectable at a minimum of five-metre intervals.</p> | 
+| [ism-1114](/ism/control/ism-1114) | <p>Cable bundles or conduits sharing a common cable reticulation system have a dividing partition or visible gap between each cable bundle and conduit.</p> | 
+| [ism-1115](/ism/control/ism-1115) | <p>Cables from cable trays to wall outlet boxes are run in flexible or plastic conduit.</p> | 
+| [ism-1116](/ism/control/ism-1116) | <p>A visible gap exists between TOP SECRET cabinets and non-TOP SECRET cabinets.</p> | 
+| [ism-1119](/ism/control/ism-1119) | <p>Cables in TOP SECRET areas are fully inspectable for their entire length.</p> | 
+| [ism-1122](/ism/control/ism-1122) | <p>Where wall penetrations exit a TOP SECRET area into a lower classified area, TOP SECRET cables are encased in conduit with all gaps between the TOP SECRET conduit and the wall filled with an appropriate sealing compound.</p> | 
+| [ism-1123](/ism/control/ism-1123) | <p>A power distribution board with a feed from an Uninterruptible Power Supply is used to power all TOP SECRET ICT equipment.</p> | 
+| [ism-1130](/ism/control/ism-1130) | <p>In shared facilities, cables are run in an enclosed cable reticulation system.</p> | 
+| [ism-1133](/ism/control/ism-1133) | <p>In shared facilities, TOP SECRET cables are not run in party walls.</p> | 
+| [ism-1137](/ism/control/ism-1137) | <p>System owners deploying SECRET or TOP SECRET systems in shared facilities contact the ACSC for an emanation security threat assessment and implement any additional installation criteria derived from the threat assessment.</p> | 
+| [ism-1139](/ism/control/ism-1139) | <p>Only the latest version of TLS is used for TLS connections.</p> | 
+| [ism-1143](/ism/control/ism-1143) | <p>Patch management processes, and supporting patch management procedures, are developed, implemented and maintained.</p> | 
+| [ism-1145](/ism/control/ism-1145) | <p>Privacy filters are applied to the screens of SECRET and TOP SECRET mobile devices.</p> | 
+| [ism-1146](/ism/control/ism-1146) | <p>Personnel are advised to maintain separate work and personal accounts for online services.</p> | 
+| [ism-1151](/ism/control/ism-1151) | <p>SPF is used to verify the authenticity of incoming emails.</p> | 
+| [ism-1157](/ism/control/ism-1157) | <p>Evaluated diodes are used for controlling the data flow of unidirectional gateways between networks.</p> | 
+| [ism-1158](/ism/control/ism-1158) | <p>Evaluated diodes used for controlling the data flow of unidirectional gateways between SECRET or TOP SECRET networks and any other networks complete a high assurance evaluation.</p> | 
+| [ism-1160](/ism/control/ism-1160) | <p>If using degaussers to destroy media, degaussers evaluated by the United States’ National Security Agency are used.</p> | 
+| [ism-1163](/ism/control/ism-1163) | <p>Systems have a continuous monitoring plan that includes:</p>                  <ul>                     <li>conducting vulnerability scans for systems at least fortnightly</li>                     <li>conducting vulnerability assessments and penetration tests for systems prior to deployment, including prior to deployment of significant changes, and at least annually thereafter</li>                     <li>analysing identified security vulnerabilities to determine their potential impact</li>                     <li>implementing mitigations based on risk, effectiveness and cost.</li>                  </ul> | 
+| [ism-1164](/ism/control/ism-1164) | <p>In shared facilities, conduits or the front covers of ducts, cable trays in floors and ceilings, and associated fittings are clear plastic.</p> | 
+| [ism-1171](/ism/control/ism-1171) | <p>Attempts to access websites through their IP addresses instead of their domain names are blocked by web content filters.</p> | 
+| [ism-1173](/ism/control/ism-1173) | <p>Multi-factor authentication is used to authenticate privileged users of systems.</p> | 
+| [ism-1175](/ism/control/ism-1175) | <p>Privileged user accounts are prevented from accessing the internet, email and web services.</p> | 
+| [ism-1178](/ism/control/ism-1178) | <p>Network documentation provided to a third party, or published in public tender documentation, only contains details necessary for other parties to undertake contractual services.</p> | 
+| [ism-1181](/ism/control/ism-1181) | <p>Networks are segregated into multiple network zones according to the criticality of servers, services and data.</p> | 
+| [ism-1182](/ism/control/ism-1182) | <p>Network access controls are implemented to limit network traffic within and between network segments to only those required for business purposes.</p> | 
+| [ism-1183](/ism/control/ism-1183) | <p>A hard fail SPF record is used when specifying authorised email servers (or lack thereof) for an organisation’s domains (including subdomains).</p> | 
+| [ism-1186](/ism/control/ism-1186) | <p>IPv6 capable network security appliances are used on IPv6 and dual-stack networks.</p> | 
+| [ism-1187](/ism/control/ism-1187) | <p>When manually exporting data from systems, the data is checked for unsuitable protective markings.</p> | 
+| [ism-1192](/ism/control/ism-1192) | <p>Gateways inspect and filter data flows at the transport and above network layers.</p> | 
+| [ism-1195](/ism/control/ism-1195) | <p>A Mobile Device Management solution is used to ensure mobile device management policy is applied to all mobile devices.</p> | 
+| [ism-1196](/ism/control/ism-1196) | <p>OFFICIAL and PROTECTED mobile devices are configured to remain undiscoverable to other Bluetooth devices except during Bluetooth pairing.</p> | 
+| [ism-1198](/ism/control/ism-1198) | <p>Bluetooth pairing for OFFICIAL and PROTECTED mobile devices is performed in a manner such that connections are only made between intended Bluetooth devices.</p> | 
+| [ism-1199](/ism/control/ism-1199) | <p>Bluetooth pairings for OFFICIAL and PROTECTED mobile devices are removed when there is no longer a requirement for their use.</p> | 
+| [ism-1200](/ism/control/ism-1200) | <p>Bluetooth pairing for OFFICIAL and PROTECTED mobile devices is performed using Secure Connections, preferably with Numeric Comparison if supported.</p> | 
+| [ism-1211](/ism/control/ism-1211) | <p>System administrators document requirements for administrative activities, consider potential security impacts, obtain any necessary approvals, notify users of any disruptions or outages, and maintain system and security documentation.</p> | 
+| [ism-1213](/ism/control/ism-1213) | <p>Following intrusion remediation activities, full network traffic is captured for at least seven days and analysed to determine whether the adversary has been successfully removed from the system.</p> | 
+| [ism-1216](/ism/control/ism-1216) | <p>SECRET and TOP SECRET cables with non-conformant cable colouring are both banded with the appropriate colour and labelled at inspection points.</p> | 
+| [ism-1217](/ism/control/ism-1217) | <p>Labels and markings indicating the owner, sensitivity, classification or any other marking that can associate ICT equipment with its prior use are removed prior to its disposal.</p> | 
+| [ism-1218](/ism/control/ism-1218) | <p>ICT equipment, including associated media, that is located overseas and has processed, stored or communicated AUSTEO or AGAO data, is sanitised in situ.</p> | 
+| [ism-1219](/ism/control/ism-1219) | <p>MFD print drums and image transfer rollers are inspected and destroyed if there is remnant toner which cannot be removed or a print is visible on the image transfer roller.</p> | 
+| [ism-1220](/ism/control/ism-1220) | <p>Printer and MFD platens are inspected and destroyed if any text or images are retained on the platen.</p> | 
+| [ism-1221](/ism/control/ism-1221) | <p>Printers and MFDs are checked to ensure no pages are trapped in the paper path due to a paper jam.</p> | 
+| [ism-1222](/ism/control/ism-1222) | <p>Televisions and computer monitors that cannot be sanitised are destroyed.</p> | 
+| [ism-1223](/ism/control/ism-1223) | <p>Memory in network devices is sanitised using the following processes, in order of preference:</p>                  <ul>                     <li>following device-specific guidance provided in evaluation documentation</li>                     <li>following vendor sanitisation guidance</li>                     <li>loading a dummy configuration file, performing a factory reset and then reinstalling firmware.</li>                  </ul> | 
+| [ism-1225](/ism/control/ism-1225) | <p>The paper tray of the fax machine is removed, and a fax message with a minimum length of four pages is transmitted, before the paper tray is re-installed to allow a fax summary page to be printed.</p> | 
+| [ism-1226](/ism/control/ism-1226) | <p>Fax machines are checked to ensure no pages are trapped in the paper path due to a paper jam.</p> | 
+| [ism-1227](/ism/control/ism-1227) | <p>Credentials set for user accounts are randomly generated.</p> | 
+| [ism-1228](/ism/control/ism-1228) | <p>Cyber security events are analysed in a timely manner to identify cyber security incidents.</p> | 
+| [ism-1233](/ism/control/ism-1233) | <p>IKE version 2 is used for key exchange when establishing IPsec connections.</p> | 
+| [ism-1234](/ism/control/ism-1234) | <p>Email content filtering is implemented to filter potentially harmful content in email bodies and attachments.</p> | 
+| [ism-1235](/ism/control/ism-1235) | <p>Add-ons, extensions and plug-ins for office productivity suites, web browsers, email clients, PDF software and security products are restricted to an organisation-approved set.</p> | 
+| [ism-1236](/ism/control/ism-1236) | <p>Malicious domain names, dynamic domain names and domain names that can be registered anonymously for free are blocked by web content filters.</p> | 
+| [ism-1237](/ism/control/ism-1237) | <p>Web content filtering is applied to outbound web traffic where appropriate.</p> | 
+| [ism-1238](/ism/control/ism-1238) | <p>Threat modelling is used in support of application development.</p> | 
+| [ism-1239](/ism/control/ism-1239) | <p>Robust web application frameworks are used in the development of web applications.</p> | 
+| [ism-1240](/ism/control/ism-1240) | <p>Validation or sanitisation is performed on all input handled by web applications.</p> | 
+| [ism-1241](/ism/control/ism-1241) | <p>Output encoding is performed on all output produced by web applications.</p> | 
+| [ism-1243](/ism/control/ism-1243) | <p>A database register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1245](/ism/control/ism-1245) | <p>All temporary installation files and logs created during server application installation processes are removed after server applications have been installed.</p> | 
+| [ism-1246](/ism/control/ism-1246) | <p>ACSC and vendor hardening guidance for server applications is implemented.</p> | 
+| [ism-1247](/ism/control/ism-1247) | <p>Unneeded accounts, components, services and functionality of server applications are disabled or removed.</p> | 
+| [ism-1249](/ism/control/ism-1249) | <p>Server applications are configured to run as a separate account with the minimum privileges needed to perform their functions.</p> | 
+| [ism-1250](/ism/control/ism-1250) | <p>The accounts under which server applications run have limited access to their underlying server’s file system.</p> | 
+| [ism-1255](/ism/control/ism-1255) | <p>Database users’ ability to access, insert, modify and remove database contents is restricted based on their work duties.</p> | 
+| [ism-1256](/ism/control/ism-1256) | <p>File-based access controls are applied to database files.</p> | 
+| [ism-1260](/ism/control/ism-1260) | <p>Default accounts or credentials for server applications, including for any pre-configured accounts, are changed.</p> | 
+| [ism-1263](/ism/control/ism-1263) | <p>Unique privileged accounts are used for administering individual server applications.</p> | 
+| [ism-1268](/ism/control/ism-1268) | <p>The need-to-know principle is enforced for database contents through the application of minimum privileges, database views and database roles.</p> | 
+| [ism-1269](/ism/control/ism-1269) | <p>Database servers and web servers are functionally separated.</p> | 
+| [ism-1270](/ism/control/ism-1270) | <p>Database servers are placed on a different network segment to user workstations.</p> | 
+| [ism-1271](/ism/control/ism-1271) | <p>Network access controls are implemented to restrict database server communications to strictly defined network resources, such as web servers, application servers and storage area networks.</p> | 
+| [ism-1272](/ism/control/ism-1272) | <p>If only local access to a database is required, networking functionality of database management system software is disabled or directed to listen solely to the localhost interface.</p> | 
+| [ism-1273](/ism/control/ism-1273) | <p>Development and testing environments do not use the same database servers as production environments.</p> | 
+| [ism-1274](/ism/control/ism-1274) | <p>Database contents from production environments are not used in development or testing environments unless the environment is secured to the same level as the production environment.</p> | 
+| [ism-1275](/ism/control/ism-1275) | <p>All queries to databases from web applications are filtered for legitimate content and correct syntax.</p> | 
+| [ism-1276](/ism/control/ism-1276) | <p>Parameterised queries or stored procedures, instead of dynamically generated queries, are used for database interactions.</p> | 
+| [ism-1277](/ism/control/ism-1277) | <p>Data communicated between database servers and web servers is encrypted.</p> | 
+| [ism-1278](/ism/control/ism-1278) | <p>Web applications are designed or configured to provide as little error information as possible about the structure of databases.</p> | 
+| [ism-1284](/ism/control/ism-1284) | <p>Files imported or exported via gateways or CDSs undergo content validation.</p> | 
+| [ism-1286](/ism/control/ism-1286) | <p>Files imported or exported via gateways or CDSs undergo content conversion.</p> | 
+| [ism-1287](/ism/control/ism-1287) | <p>Files imported or exported via gateways or CDSs undergo content sanitisation.</p> | 
+| [ism-1288](/ism/control/ism-1288) | <p>Files imported or exported via gateways or CDSs undergo antivirus scanning using multiple different scanning engines.</p> | 
+| [ism-1289](/ism/control/ism-1289) | <p>Archive files imported or exported via gateways or CDSs are unpacked in order to undergo content filtering checks.</p> | 
+| [ism-1290](/ism/control/ism-1290) | <p>Archive files are unpacked in a controlled manner to ensure content filter performance or availability is not adversely affected.</p> | 
+| [ism-1293](/ism/control/ism-1293) | <p>Encrypted files imported or exported via gateways or CDSs are decrypted in order to undergo content filtering checks.</p> | 
+| [ism-1294](/ism/control/ism-1294) | <p>Data transfer logs for systems are partially verified at least monthly.</p> | 
+| [ism-1296](/ism/control/ism-1296) | <p>Physical security is implemented to protect network devices in public areas from physical damage or unauthorised access.</p> | 
+| [ism-1297](/ism/control/ism-1297) | <p>Legal advice is sought prior to allowing privately-owned mobile devices to access systems or data.</p> | 
+| [ism-1298](/ism/control/ism-1298) | <p>Personnel are advised of privacy and security risks when travelling overseas with mobile devices.</p> | 
+| [ism-1299](/ism/control/ism-1299) | <p>Personnel take the following precautions when travelling overseas with mobile devices:</p>                  <ul>                     <li>never leaving mobile devices or removable media unattended for any period of time, including by placing them in checked-in luggage or leaving them in hotel safes</li>                     <li>never storing credentials with mobile devices that they grant access to, such as in laptop bags</li>                     <li>never lending mobile devices or removable media to untrusted people, even if briefly</li>                     <li>never allowing untrusted people to connect their mobile devices or removable media, including for charging</li>                     <li>never using designated charging stations, wall outlet charging ports or chargers supplied by untrusted people</li>                     <li>avoiding connecting mobile devices to open or untrusted Wi-Fi networks</li>                     <li>using a VPN connection to encrypt all mobile device communications</li>                     <li>using encrypted messaging apps for communications instead of using foreign telecommunication networks</li>                     <li>disabling any communications capabilities of mobile devices when not in use, such as cellular data, wireless, Bluetooth and Near Field Communication</li>                     <li>avoiding reuse of removable media once used with other parties’ systems or mobile devices</li>                     <li>ensuring any removable media used for data transfers are thoroughly checked for malicious code beforehand</li>                     <li>never using any gifted mobile devices, especially removable media, when travelling or upon returning from travelling.</li>                  </ul> | 
+| [ism-1300](/ism/control/ism-1300) | <p>Upon returning from travelling overseas with mobile devices, personnel take the following actions:</p>                  <ul>                     <li>sanitise and reset mobile devices, including all removable media</li>                     <li>decommission any credentials that left their possession during their travel</li>                     <li>report if significant doubt exists as to the integrity of any mobile devices or removable media.</li>                  </ul> | 
+| [ism-1304](/ism/control/ism-1304) | <p>Default accounts or credentials for network devices including for any pre-configured accounts, are changed.</p> | 
+| [ism-1311](/ism/control/ism-1311) | <p>SNMP version 1 and SNMP version 2 are not used on networks.</p> | 
+| [ism-1312](/ism/control/ism-1312) | <p>All default SNMP community strings on network devices are changed and write access is disabled.</p> | 
+| [ism-1314](/ism/control/ism-1314) | <p>All wireless devices are Wi-Fi Alliance certified.</p> | 
+| [ism-1315](/ism/control/ism-1315) | <p>The administrative interface on wireless access points is disabled for wireless network connections.</p> | 
+| [ism-1316](/ism/control/ism-1316) | <p>Default SSIDs of wireless access points are changed.</p> | 
+| [ism-1317](/ism/control/ism-1317) | <p>SSIDs of non-public wireless networks are not readily associated with an organisation, the location of their premises or the functionality of wireless networks.</p> | 
+| [ism-1318](/ism/control/ism-1318) | <p>SSID broadcasting is not disabled on wireless access points.</p> | 
+| [ism-1319](/ism/control/ism-1319) | <p>Static addressing is not used for assigning IP addresses on wireless networks.</p> | 
+| [ism-1320](/ism/control/ism-1320) | <p>MAC address filtering is not used to restrict which devices can connect to wireless networks.</p> | 
+| [ism-1321](/ism/control/ism-1321) | <p>802.1X authentication with EAP-TLS, using X.509 certificates, is used for mutual authentication; with all other EAP methods disabled on supplications and authentication servers.</p> | 
+| [ism-1322](/ism/control/ism-1322) | <p>Evaluated supplicants, authenticators, wireless access points and authentication servers are used in wireless networks.</p> | 
+| [ism-1323](/ism/control/ism-1323) | <p>Certificates are required for both devices and users accessing wireless networks.</p> | 
+| [ism-1324](/ism/control/ism-1324) | <p>Certificates are generated using an evaluated certificate authority or hardware security module.</p> | 
+| [ism-1327](/ism/control/ism-1327) | <p>Certificates are protected by encryption, user authentication, and both logical and physical access controls.</p> | 
+| [ism-1330](/ism/control/ism-1330) | <p>The PMK caching period is not set to greater than 1440 minutes (24 hours).</p> | 
+| [ism-1332](/ism/control/ism-1332) | <p>WPA3-Enterprise 192-bit mode is used to protect the confidentiality and integrity of all wireless network traffic.</p> | 
+| [ism-1334](/ism/control/ism-1334) | <p>Wireless networks implement sufficient frequency separation from other wireless networks.</p> | 
+| [ism-1335](/ism/control/ism-1335) | <p>Wireless access points enable the use of the 802.11w amendment to protect management frames.</p> | 
+| [ism-1338](/ism/control/ism-1338) | <p>Instead of deploying a small number of wireless access points that broadcast on high power, a greater number of wireless access points that use less broadcast power are deployed to achieve the desired footprint for wireless networks.</p> | 
+| [ism-1341](/ism/control/ism-1341) | <p>A HIPS is implemented on workstations.</p> | 
+| [ism-1359](/ism/control/ism-1359) | <p>A removable media usage policy is developed, implemented and maintained.</p> | 
+| [ism-1361](/ism/control/ism-1361) | <p>Security Construction and Equipment Committee-approved equipment or ASIO-approved equipment is used when destroying media.</p> | 
+| [ism-1364](/ism/control/ism-1364) | <p>Network devices managing VLANs terminate VLANs belonging to different security domains on separate physical network interfaces.</p> | 
+| [ism-1366](/ism/control/ism-1366) | <p>Security updates are applied to mobile devices as soon as they become available.</p> | 
+| [ism-1369](/ism/control/ism-1369) | <p>AES-GCM is used for encryption of TLS connections.</p> | 
+| [ism-1370](/ism/control/ism-1370) | <p>Only server-initiated secure renegotiation is used for TLS connections.</p> | 
+| [ism-1372](/ism/control/ism-1372) | <p>DH or ECDH is used for key establishment of TLS connections.</p> | 
+| [ism-1373](/ism/control/ism-1373) | <p>Anonymous DH is not used for TLS connections.</p> | 
+| [ism-1374](/ism/control/ism-1374) | <p>SHA-2-based certificates are used for TLS connections.</p> | 
+| [ism-1375](/ism/control/ism-1375) | <p>SHA-2 is used for the Hash-based Message Authentication Code (HMAC) and pseudorandom function (PRF) for TLS connections.</p> | 
+| [ism-1380](/ism/control/ism-1380) | <p>Privileged users use separate privileged and unprivileged operating environments.</p> | 
+| [ism-1381](/ism/control/ism-1381) | <p>Only privileged operating environments can communicate with jump servers.</p> | 
+| [ism-1385](/ism/control/ism-1385) | <p>Administrative infrastructure is segregated from the wider network and the internet.</p> | 
+| [ism-1386](/ism/control/ism-1386) | <p>Network management traffic can only originate from administrative infrastructure.</p> | 
+| [ism-1387](/ism/control/ism-1387) | <p>Administrative activities are conducted through jump servers.</p> | 
+| [ism-1388](/ism/control/ism-1388) | <p>Only jump servers can communicate with assets requiring administrative activities to be performed.</p> | 
+| [ism-1389](/ism/control/ism-1389) | <p>Executable files imported via gateways or CDSs are automatically executed in a sandbox to detect any suspicious behaviour.</p> | 
+| [ism-1392](/ism/control/ism-1392) | <p>When implementing application control using path rules, only approved users can modify approved files and write to approved folders.</p> | 
+| [ism-1395](/ism/control/ism-1395) | <p>Service providers, including any subcontractors, provide an appropriate level of protection for any data entrusted to them or their services.</p> | 
+| [ism-1400](/ism/control/ism-1400) | <p>Personnel accessing OFFICIAL and PROTECTED systems or data using a privately-owned mobile device use an ASD-approved platform, a security configuration in accordance with ACSC guidance, and have enforced separation of work and personal data.</p> | 
+| [ism-1401](/ism/control/ism-1401) | <p>Multi-factor authentication uses either: something users have and something users know, or something users have that is unlocked by something users know or are.</p> | 
+| [ism-1402](/ism/control/ism-1402) | <p>Credentials stored on systems are protected by a password manager; a hardware security module; or by salting, hashing and stretching them before storage within a database.</p> | 
+| [ism-1403](/ism/control/ism-1403) | <p>Accounts, except for break glass accounts, are locked out after a maximum of five failed logon attempts.</p> | 
+| [ism-1404](/ism/control/ism-1404) | <p>Unprivileged access to systems and applications is automatically disabled after 45 days of inactivity.</p> | 
+| [ism-1405](/ism/control/ism-1405) | <p>A centralised event logging facility is implemented and event logs are sent to the facility as soon as possible after they occur.</p> | 
+| [ism-1406](/ism/control/ism-1406) | <p>SOEs are used for workstations and servers.</p> | 
+| [ism-1407](/ism/control/ism-1407) | <p>The latest release, or the previous release, of operating systems are used.</p> | 
+| [ism-1408](/ism/control/ism-1408) | <p>Where supported, 64-bit versions of operating systems are used.</p> | 
+| [ism-1409](/ism/control/ism-1409) | <p>ACSC and vendor hardening guidance for operating systems is implemented.</p> | 
+| [ism-1412](/ism/control/ism-1412) | <p>ACSC or vendor hardening guidance for web browsers is implemented.</p> | 
+| [ism-1416](/ism/control/ism-1416) | <p>A software firewall is implemented on workstations and servers to restrict inbound and outbound network connections to an organisation-approved set of applications and services.</p> | 
+| [ism-1417](/ism/control/ism-1417) | <p>Antivirus software is implemented on workstations and servers with:</p>                  <ul>                     <li>signature-based detection functionality enabled and set to a high level</li>                     <li>heuristic-based detection functionality enabled and set to a high level</li>                     <li>reputation rating functionality enabled</li>                     <li>ransomware protection functionality enabled</li>                     <li>detection signatures configured to update on at least a daily basis</li>                     <li>regular scanning configured for all fixed disks and removable media.</li>                  </ul> | 
+| [ism-1418](/ism/control/ism-1418) | <p>If there is no business requirement for reading from removable media and devices, such functionality is disabled via the use of device access control software or by disabling external communication interfaces.</p> | 
+| [ism-1419](/ism/control/ism-1419) | <p>Development and modification of software only takes place in development environments.</p> | 
+| [ism-1420](/ism/control/ism-1420) | <p>Data from production environments is not used in a development or testing environment unless the environment is secured to the same level as the production environment.</p> | 
+| [ism-1422](/ism/control/ism-1422) | <p>Unauthorised access to the authoritative source for software is prevented.</p> | 
+| [ism-1424](/ism/control/ism-1424) | <p>Web applications implement Content-Security-Policy, HSTS and X-Frame-Options via security policy in response headers.</p> | 
+| [ism-1427](/ism/control/ism-1427) | <p>Gateways perform ingress traffic filtering to detect and prevent IP source address spoofing.</p> | 
+| [ism-1428](/ism/control/ism-1428) | <p>Unless explicitly required, IPv6 tunnelling is disabled on all network devices.</p> | 
+| [ism-1429](/ism/control/ism-1429) | <p>IPv6 tunnelling is blocked by network security appliances at externally-connected network boundaries.</p> | 
+| [ism-1430](/ism/control/ism-1430) | <p>Dynamically assigned IPv6 addresses are configured with Dynamic Host Configuration Protocol version 6 in a stateful manner with lease data stored in a centralised event logging facility.</p> | 
+| [ism-1431](/ism/control/ism-1431) | <p>Denial-of-service attack mitigation strategies are discussed with cloud service providers, specifically:</p>                  <ul>                     <li>their capacity to withstand denial-of-service attacks</li>                     <li>costs likely to be incurred as a result of denial-of-service attacks</li>                     <li>availability monitoring and thresholds for notification of denial-of-service attacks</li>                     <li>thresholds for turning off any online services or functionality during denial-of-service attacks</li>                     <li>pre-approved actions that can be undertaken during denial-of-service attacks</li>                     <li>any arrangements with upstream service providers to block malicious network traffic as far upstream as possible.</li>                  </ul> | 
+| [ism-1432](/ism/control/ism-1432) | <p>Domain names for online services are protected via registrar locking and confirming that domain registration details are correct.</p> | 
+| [ism-1436](/ism/control/ism-1436) | <p>Critical online services are segregated from other online services that are more likely to be targeted as part of denial-of-service attacks.</p> | 
+| [ism-1437](/ism/control/ism-1437) | <p>Cloud service providers are used for hosting online services.</p> | 
+| [ism-1438](/ism/control/ism-1438) | <p>Where a high availability requirement exists for website hosting, CDNs that cache websites are used.</p> | 
+| [ism-1439](/ism/control/ism-1439) | <p>If using CDNs, disclosing the IP addresses of web servers under an organisation’s control (referred to as origin servers) is avoided and access to the origin servers is restricted to the CDNs and authorised management networks.</p> | 
+| [ism-1446](/ism/control/ism-1446) | <p>When using elliptic curve cryptography, a curve from FIPS 186-4 is used.</p> | 
+| [ism-1448](/ism/control/ism-1448) | <p>When using DH or ECDH for key establishment of TLS connections, the ephemeral variant is used.</p> | 
+| [ism-1449](/ism/control/ism-1449) | <p>SSH private keys are protected with a passphrase or a key encryption key.</p> | 
+| [ism-1450](/ism/control/ism-1450) | <p>Microphones (including headsets and USB handsets) and webcams are not used with non-TOP SECRET workstations in TOP SECRET areas.</p> | 
+| [ism-1451](/ism/control/ism-1451) | <p>Types of data and its ownership is documented in contractual arrangements with service providers.</p> | 
+| [ism-1452](/ism/control/ism-1452) | <p>A supply chain risk assessment is performed for suppliers of applications, ICT equipment and services in order to assess the impact to a system’s security risk profile.</p> | 
+| [ism-1453](/ism/control/ism-1453) | <p>Perfect Forward Secrecy (PFS) is used for TLS connections.</p> | 
+| [ism-1454](/ism/control/ism-1454) | <p>Communications between authenticators and a RADIUS server are encapsulated with an additional layer of encryption using RADIUS over Internet Protocol Security or RADIUS over Transport Layer Security.</p> | 
+| [ism-1457](/ism/control/ism-1457) | <p>Evaluated peripheral switches used for sharing peripherals between SECRET and TOP SECRET systems, or between SECRET or TOP SECRET systems belonging to different security domains, preferably complete a high assurance evaluation.</p> | 
+| [ism-1460](/ism/control/ism-1460) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, the isolation mechanism is from a vendor that has demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.</p> | 
+| [ism-1461](/ism/control/ism-1461) | <p>When using a software-based isolation mechanism to share a physical server’s hardware for SECRET or TOP SECRET computing environments, the physical server and all computing environments are of the same classification and belong to the same security domain.</p> | 
+| [ism-1467](/ism/control/ism-1467) | <p>The latest release of office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are used.</p> | 
+| [ism-1470](/ism/control/ism-1470) | <p>Unneeded components, services and functionality of office productivity suites, web browsers, email clients, PDF software and security products are disabled or removed.</p> | 
+| [ism-1471](/ism/control/ism-1471) | <p>When implementing application control using publisher certificate rules, both publisher names and product names are used.</p> | 
+| [ism-1478](/ism/control/ism-1478) | <p>The CISO oversees their organisation’s cyber security program and ensures their organisation’s compliance with cyber security policy, standards, regulations and legislation.</p> | 
+| [ism-1479](/ism/control/ism-1479) | <p>Servers minimise communications with other servers at both the network and file system level.</p> | 
+| [ism-1480](/ism/control/ism-1480) | <p>Evaluated peripheral switches used for sharing peripherals between SECRET or TOP SECRET systems and any non-SECRET or TOP SECRET systems complete a high assurance evaluation.</p> | 
+| [ism-1482](/ism/control/ism-1482) | <p>Personnel accessing systems or data using an organisation-owned mobile device use an ASD-approved platform, a security configuration in accordance with ACSC guidance, and have enforced separation of work and personal data.</p> | 
+| [ism-1483](/ism/control/ism-1483) | <p>The latest release of internet-facing server applications are used.</p> | 
+| [ism-1485](/ism/control/ism-1485) | <p>Web browsers do not process web advertisements from the internet.</p> | 
+| [ism-1486](/ism/control/ism-1486) | <p>Web browsers do not process Java from the internet.</p> | 
+| [ism-1487](/ism/control/ism-1487) | <p>Only privileged users responsible for validating that Microsoft Office macros are free of malicious code can write to and modify content within Trusted Locations.</p> | 
+| [ism-1488](/ism/control/ism-1488) | <p>Microsoft Office macros in files originating from the internet are blocked.</p> | 
+| [ism-1489](/ism/control/ism-1489) | <p>Microsoft Office macro security settings cannot be changed by users.</p> | 
+| [ism-1490](/ism/control/ism-1490) | <p>Application control is implemented on internet-facing servers.</p> | 
+| [ism-1491](/ism/control/ism-1491) | <p>Unprivileged users are prevented from running script execution engines, including:</p>                  <ul>                     <li>Windows Script Host (cscript.exe and wscript.exe)</li>                     <li>PowerShell (powershell.exe, powershell_ise.exe and pwsh.exe)</li>                     <li>Command Prompt (cmd.exe)</li>                     <li>Windows Management Instrumentation (wmic.exe)</li>                     <li>Microsoft Hypertext Markup Language (HTML) Application Host (mshta.exe).</li>                  </ul> | 
+| [ism-1492](/ism/control/ism-1492) | <p>Operating system exploit protection functionality is enabled.</p> | 
+| [ism-1493](/ism/control/ism-1493) | <p>Software registers for workstations, servers, network devices and other ICT equipment are developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1501](/ism/control/ism-1501) | <p>Operating systems that are no longer supported by vendors are replaced.</p> | 
+| [ism-1502](/ism/control/ism-1502) | <p>Emails arriving via an external connection where the email source address uses an internal domain, or internal subdomain, are blocked at the email gateway.</p> | 
+| [ism-1504](/ism/control/ism-1504) | <p>Multi-factor authentication is used by an organisation’s users if they authenticate to their organisation’s internet-facing services.</p> | 
+| [ism-1505](/ism/control/ism-1505) | <p>Multi-factor authentication is used to authenticate users accessing important data repositories.</p> | 
+| [ism-1506](/ism/control/ism-1506) | <p>The use of SSH version 1 is disabled for SSH connections.</p> | 
+| [ism-1507](/ism/control/ism-1507) | <p>Requests for privileged access to systems and applications are validated when first requested.</p> | 
+| [ism-1508](/ism/control/ism-1508) | <p>Privileged access to systems and applications is limited to only what is required for users and services to undertake their duties.</p> | 
+| [ism-1509](/ism/control/ism-1509) | <p>Privileged access events are logged.</p> | 
+| [ism-1510](/ism/control/ism-1510) | <p>A digital preservation policy is developed, implemented and maintained.</p> | 
+| [ism-1511](/ism/control/ism-1511) | <p>Backups of important data, software and configuration settings are performed and retained with a frequency and retention timeframe in accordance with business continuity requirements.</p> | 
+| [ism-1515](/ism/control/ism-1515) | <p>Restoration of important data, software and configuration settings from backups to a common point of time is tested as part of disaster recovery exercises.</p> | 
+| [ism-1517](/ism/control/ism-1517) | <p>Equipment that is capable of reducing microform to a fine powder, with resultant particles not showing more than five consecutive characters per particle upon microscopic inspection, is used to destroy microfiche and microfilm.</p> | 
+| [ism-1520](/ism/control/ism-1520) | <p>System administrators for gateways undergo appropriate employment screening and, where necessary, hold an appropriate security clearance based on the sensitivity or classification of gateways.</p> | 
+| [ism-1521](/ism/control/ism-1521) | <p>CDSs implement protocol breaks at each network layer.</p> | 
+| [ism-1522](/ism/control/ism-1522) | <p>CDSs implement independent security-enforcing functions for upward and downward network paths.</p> | 
+| [ism-1523](/ism/control/ism-1523) | <p>A sample of security-relevant events relating to data transfer policies are taken at least every three months and assessed against security policies for CDSs to identify any operational failures.</p> | 
+| [ism-1524](/ism/control/ism-1524) | <p>Content filters used by CDSs undergo rigorous security testing to ensure they perform as expected and cannot be bypassed.</p> | 
+| [ism-1525](/ism/control/ism-1525) | <p>System owners register each system with its authorising officer.</p> | 
+| [ism-1526](/ism/control/ism-1526) | <p>System owners monitor each system, and associated cyber threats, security risks and controls, on an ongoing basis.</p> | 
+| [ism-1528](/ism/control/ism-1528) | <p>Evaluated firewalls are used between an organisation’s networks and public network infrastructure.</p> | 
+| [ism-1529](/ism/control/ism-1529) | <p>Only community or private clouds are used for outsourced SECRET and TOP SECRET cloud services.</p> | 
+| [ism-1530](/ism/control/ism-1530) | <p>Servers, network devices and cryptographic equipment are secured in security containers or secure rooms suitable for their sensitivity or classification taking into account the combination of security zones they reside in.</p> | 
+| [ism-1532](/ism/control/ism-1532) | <p>VLANs are not used to separate network traffic between an organisation’s networks and public network infrastructure.</p> | 
+| [ism-1533](/ism/control/ism-1533) | <p>A mobile device management policy is developed, implemented and maintained.</p> | 
+| [ism-1534](/ism/control/ism-1534) | <p>Printer ribbons in printers and MFDs are removed and destroyed.</p> | 
+| [ism-1535](/ism/control/ism-1535) | <p>Processes, and supporting procedures, are developed, implemented and maintained to prevent AUSTEO, AGAO and REL data in both textual and non-textual formats from being exported to unsuitable foreign systems.</p> | 
+| [ism-1536](/ism/control/ism-1536) | <p>The following events are logged for web applications: attempted access that is denied, crashes and error messages, and search queries initiated by users.</p> | 
+| [ism-1537](/ism/control/ism-1537) | <p>The following events are logged for databases:</p>                  <ul>                     <li>access or modification of particularly important content</li>                     <li>addition of new users, especially privileged users</li>                     <li>changes to user roles or privileges</li>                     <li>attempts to elevate user privileges</li>                     <li>queries containing comments</li>                     <li>queries containing multiple embedded queries</li>                     <li>database and query alerts or failures</li>                     <li>database structure changes</li>                     <li>database administrator actions</li>                     <li>use of executable commands</li>                     <li>database logons and logoffs.</li>                  </ul> | 
+| [ism-1540](/ism/control/ism-1540) | <p>DMARC records are configured for an organisation’s domains (including subdomains) such that emails are rejected if they do not pass DMARC checks.</p> | 
+| [ism-1542](/ism/control/ism-1542) | <p>Microsoft Office is configured to prevent activation of Object Linking and Embedding packages.</p> | 
+| [ism-1543](/ism/control/ism-1543) | <p>An authorised RF and IR device register for SECRET and TOP SECRET areas is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1544](/ism/control/ism-1544) | <p>Microsoft’s ‘recommended block rules’ are implemented.</p> | 
+| [ism-1546](/ism/control/ism-1546) | <p>Users are authenticated before they are granted access to a system and its resources.</p> | 
+| [ism-1547](/ism/control/ism-1547) | <p>Data backup processes, and supporting data backup procedures, are developed, implemented and maintained.</p> | 
+| [ism-1548](/ism/control/ism-1548) | <p>Data restoration processes, and supporting data restoration procedures, are developed, implemented and maintained.</p> | 
+| [ism-1549](/ism/control/ism-1549) | <p>A media management policy is developed, implemented and maintained.</p> | 
+| [ism-1550](/ism/control/ism-1550) | <p>ICT equipment disposal processes, and supporting ICT equipment disposal procedures, are developed, implemented and maintained.</p> | 
+| [ism-1551](/ism/control/ism-1551) | <p>An ICT equipment management policy is developed, implemented and maintained.</p> | 
+| [ism-1552](/ism/control/ism-1552) | <p>All web application content is offered exclusively using HTTPS.</p> | 
+| [ism-1553](/ism/control/ism-1553) | <p>TLS compression is disabled for TLS connections.</p> | 
+| [ism-1554](/ism/control/ism-1554) | <p>If travelling overseas with mobile devices to high or extreme risk countries, personnel are:</p>                  <ul>                     <li>issued with newly provisioned accounts, mobile devices and removable media from a pool of dedicated travel devices which are used solely for work-related activities</li>                     <li>advised on how to apply and inspect tamper seals to key areas of mobile devices</li>                     <li>advised to avoid taking any personal mobile devices, especially if rooted or jailbroken.</li>                  </ul> | 
+| [ism-1555](/ism/control/ism-1555) | <p>Before travelling overseas with mobile devices, personnel take the following actions:</p>                  <ul>                     <li>record all details of the mobile devices being taken, such as product types, serial numbers and International Mobile Equipment Identity numbers</li>                     <li>update all operating systems and applications</li>                     <li>remove all non-essential accounts, applications and data</li>                     <li>apply security configuration settings, such as lock screens</li>                     <li>configure remote locate and wipe functionality</li>                     <li>enable encryption, including for any removable media</li>                     <li>backup all important data and configuration settings.</li>                  </ul> | 
+| [ism-1556](/ism/control/ism-1556) | <p>If returning from travelling overseas with mobile devices to high or extreme risk countries, personnel take the following additional actions:</p>                  <ul>                     <li>reset credentials used with mobile devices, including those used for remote access to their organisation’s systems</li>                     <li>monitor accounts for any indicators of compromise, such as failed logon attempts.</li>                  </ul> | 
+| [ism-1557](/ism/control/ism-1557) | <p>Passphrases used for single-factor authentication on SECRET systems are at least 5 random words with a total minimum length of 17 characters.</p> | 
+| [ism-1558](/ism/control/ism-1558) | <p>Passphrases used for single-factor authentication are not a list of categorised words; do not form a real sentence in a natural language; and are not constructed from song lyrics, movies, literature or any other publicly available material.</p> | 
+| [ism-1559](/ism/control/ism-1559) | <p>Memorised secrets used for multi-factor authentication are a minimum of 6 characters, unless more stringent requirements apply.</p> | 
+| [ism-1560](/ism/control/ism-1560) | <p>Memorised secrets used for multi-factor authentication on SECRET systems are a minimum of 8 characters.</p> | 
+| [ism-1561](/ism/control/ism-1561) | <p>Memorised secrets used for multi-factor authentication on TOP SECRET systems are a minimum of 10 characters.</p> | 
+| [ism-1562](/ism/control/ism-1562) | <p>Video conferencing and IP telephony infrastructure is hardened.</p> | 
+| [ism-1563](/ism/control/ism-1563) | <p>At the conclusion of a security assessment for a system, a security assessment report is produced by the assessor and covers:</p>                  <ul>                     <li>the scope of the security assessment</li>                     <li>the system’s strengths and weaknesses</li>                     <li>security risks associated with the operation of the system</li>                     <li>the effectiveness of the implementation of controls</li>                     <li>any recommended remediation actions.</li>                  </ul> | 
+| [ism-1564](/ism/control/ism-1564) | <p>At the conclusion of a security assessment for a system, a plan of action and milestones is produced by the system owner.</p> | 
+| [ism-1565](/ism/control/ism-1565) | <p>Tailored privileged user training is undertaken annually by all privileged users.</p> | 
+| [ism-1566](/ism/control/ism-1566) | <p>Use of unprivileged access is logged.</p> | 
+| [ism-1567](/ism/control/ism-1567) | <p>Suppliers identified as high risk by a cyber supply chain risk assessment are not used.</p> | 
+| [ism-1568](/ism/control/ism-1568) | <p>Applications, ICT equipment and services are chosen from suppliers that have demonstrated a commitment to the security of their products and services.</p> | 
+| [ism-1569](/ism/control/ism-1569) | <p>A shared responsibility model is created, documented and shared between suppliers and their customers in order to articulate the security responsibilities of each party.</p> | 
+| [ism-1570](/ism/control/ism-1570) | <p>Outsourced cloud service providers and their cloud services undergo a security assessment by an IRAP assessor at least every 24 months.</p> | 
+| [ism-1571](/ism/control/ism-1571) | <p>The right to verify compliance with security requirements is documented in contractual arrangements with service providers.</p> | 
+| [ism-1572](/ism/control/ism-1572) | <p>The regions or availability zones where data will be processed, stored and communicated, as well as a minimum notification period for any configuration changes, is documented in contractual arrangements with service providers.</p> | 
+| [ism-1573](/ism/control/ism-1573) | <p>Access to all logs relating to an organisation’s data and services is documented in contractual arrangements with service providers.</p> | 
+| [ism-1574](/ism/control/ism-1574) | <p>The storage of data in a portable manner that allows for backups, service migration and service decommissioning without any loss of data is documented in contractual arrangements with service providers.</p> | 
+| [ism-1575](/ism/control/ism-1575) | <p>A minimum notification period of one month for the cessation of any services by a service provider is documented in contractual arrangements with service providers.</p> | 
+| [ism-1576](/ism/control/ism-1576) | <p>If an organisation’s systems or data are accessed or administered by a service provider in an unauthorised manner, the organisation is immediately notified.</p> | 
+| [ism-1577](/ism/control/ism-1577) | <p>An organisation’s networks are segregated from their service providers’ networks.</p> | 
+| [ism-1579](/ism/control/ism-1579) | <p>Cloud service providers’ ability to dynamically scale resources in response to a genuine spike in demand is discussed and verified as part of capacity and availability planning for online services.</p> | 
+| [ism-1580](/ism/control/ism-1580) | <p>Where a high availability requirement exists for online services, the services are architected to automatically transition between availability zones.</p> | 
+| [ism-1581](/ism/control/ism-1581) | <p>Continuous real-time monitoring of the capacity and availability of online services is performed.</p> | 
+| [ism-1582](/ism/control/ism-1582) | <p>Application control rulesets are validated on an annual or more frequent basis.</p> | 
+| [ism-1583](/ism/control/ism-1583) | <p>Personnel who are contractors are identified as such.</p> | 
+| [ism-1584](/ism/control/ism-1584) | <p>Unprivileged users are prevented from bypassing, disabling or modifying security functionality of operating systems.</p> | 
+| [ism-1585](/ism/control/ism-1585) | <p>Web browser security settings cannot be changed by users.</p> | 
+| [ism-1586](/ism/control/ism-1586) | <p>Data transfer logs are used to record all data imports and exports from systems.</p> | 
+| [ism-1587](/ism/control/ism-1587) | <p>System owners report the security status of each system to its authorising officer at least annually.</p> | 
+| [ism-1588](/ism/control/ism-1588) | <p>SOEs are reviewed and updated at least annually.</p> | 
+| [ism-1589](/ism/control/ism-1589) | <p>MTA-STS is enabled to prevent the unencrypted transfer of emails between complying servers.</p> | 
+| [ism-1590](/ism/control/ism-1590) | <p>Credentials are changed if:</p>                  <ul>                     <li>they are compromised</li>                     <li>they are suspected of being compromised</li>                     <li>they are discovered stored on networks in the clear</li>                     <li>they are discovered being transferred across networks in the clear</li>                     <li>membership of a shared account changes</li>                     <li>they have not been changed in the past 12 months.</li>                  </ul> | 
+| [ism-1591](/ism/control/ism-1591) | <p>Access to systems, applications and data repositories is removed or suspended as soon as practicable when personnel are detected undertaking malicious activities.</p> | 
+| [ism-1592](/ism/control/ism-1592) | <p>Unprivileged users do not have the ability to install unapproved software.</p> | 
+| [ism-1593](/ism/control/ism-1593) | <p>Users provide sufficient evidence to verify their identity when requesting new credentials.</p> | 
+| [ism-1594](/ism/control/ism-1594) | <p>Credentials are provided to users via a secure communications channel or, if not possible, split into two parts with one part provided to users and the other part provided to supervisors.</p> | 
+| [ism-1595](/ism/control/ism-1595) | <p>Credentials provided to users are changed on first use.</p> | 
+| [ism-1596](/ism/control/ism-1596) | <p>Credentials, in the form of memorised secrets, are not reused by users across different systems.</p> | 
+| [ism-1597](/ism/control/ism-1597) | <p>Credentials are obscured as they are entered into systems.</p> | 
+| [ism-1598](/ism/control/ism-1598) | <p>Following maintenance or repair activities for ICT equipment, the ICT equipment is inspected to confirm it retains its approved software configuration and that no unauthorised modifications have taken place.</p> | 
+| [ism-1599](/ism/control/ism-1599) | <p>ICT equipment is handled in a manner suitable for its sensitivity or classification.</p> | 
+| [ism-1600](/ism/control/ism-1600) | <p>Media is sanitised before it is used for the first time.</p> | 
+| [ism-1601](/ism/control/ism-1601) | <p>Microsoft’s Attack Surface Reduction rules are implemented.</p> | 
+| [ism-1602](/ism/control/ism-1602) | <p>Security documentation, including notification of subsequent changes, is communicated to all stakeholders.</p> | 
+| [ism-1603](/ism/control/ism-1603) | <p>Authentication methods susceptible to replay attacks are disabled.</p> | 
+| [ism-1604](/ism/control/ism-1604) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, the configuration of the isolation mechanism is hardened by removing unneeded functionality and restricting access to the administrative interface used to manage the isolation mechanism.</p> | 
+| [ism-1605](/ism/control/ism-1605) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, the underlying operating system is hardened.</p> | 
+| [ism-1606](/ism/control/ism-1606) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, patches, updates or vendor mitigations for security vulnerabilities are applied to the isolation mechanism and underlying operating system in a timely manner.</p> | 
+| [ism-1607](/ism/control/ism-1607) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, integrity and log monitoring are performed for the isolation mechanism and underlying operating system in a timely manner.</p> | 
+| [ism-1608](/ism/control/ism-1608) | <p>SOEs provided by third parties are scanned for malicious code and configurations.</p> | 
+| [ism-1609](/ism/control/ism-1609) | <p>System owners are consulted before allowing intrusion activity to continue on a system for the purpose of collecting further data or evidence.</p> | 
+| [ism-1610](/ism/control/ism-1610) | <p>A method of emergency access to systems is documented and tested at least once when initially implemented and each time fundamental information technology infrastructure changes occur.</p> | 
+| [ism-1611](/ism/control/ism-1611) | <p>Break glass accounts are only used when normal authentication processes cannot be used.</p> | 
+| [ism-1612](/ism/control/ism-1612) | <p>Break glass accounts are only used for specific authorised activities.</p> | 
+| [ism-1613](/ism/control/ism-1613) | <p>Use of break glass accounts is logged.</p> | 
+| [ism-1614](/ism/control/ism-1614) | <p>Break glass account credentials are changed by the account custodian after they are accessed by any other party.</p> | 
+| [ism-1615](/ism/control/ism-1615) | <p>Break glass accounts are tested after credentials are changed.</p> | 
+| [ism-1616](/ism/control/ism-1616) | <p>A vulnerability disclosure program is implemented to assist with the secure development and maintenance of products and services.</p> | 
+| [ism-1617](/ism/control/ism-1617) | <p>The CISO regularly reviews and updates their organisation’s cyber security program to ensure its relevance in addressing cyber threats and harnessing business and cyber security opportunities.</p> | 
+| [ism-1618](/ism/control/ism-1618) | <p>The CISO oversees their organisation’s response to cyber security incidents.</p> | 
+| [ism-1619](/ism/control/ism-1619) | <p>Service accounts are created as group Managed Service Accounts.</p> | 
+| [ism-1620](/ism/control/ism-1620) | <p>Privileged user accounts are members of the Protected Users security group.</p> | 
+| [ism-1621](/ism/control/ism-1621) | <p>Windows PowerShell 2.0 is disabled or removed.</p> | 
+| [ism-1622](/ism/control/ism-1622) | <p>PowerShell is configured to use Constrained Language Mode.</p> | 
+| [ism-1623](/ism/control/ism-1623) | <p>PowerShell is configured to use module logging, script block logging and transcription functionality.</p> | 
+| [ism-1624](/ism/control/ism-1624) | <p>PowerShell script block logs are protected by Protected Event Logging functionality.</p> | 
+| [ism-1625](/ism/control/ism-1625) | <p>A trusted insider program is developed, implemented and maintained.</p> | 
+| [ism-1626](/ism/control/ism-1626) | <p>Legal advice is sought regarding the development and implementation of a trusted insider program.</p> | 
+| [ism-1627](/ism/control/ism-1627) | <p>Inbound network connections from anonymity networks to internet-facing services are blocked.</p> | 
+| [ism-1628](/ism/control/ism-1628) | <p>Outbound network connections to anonymity networks are blocked.</p> | 
+| [ism-1629](/ism/control/ism-1629) | <p>When using DH for agreeing on encryption session keys, a modulus and associated parameters are selected according to NIST SP 800-56A Rev. 3.</p> | 
+| [ism-1630](/ism/control/ism-1630) | <p>When using DSA for digital signatures, a modulus and associated parameters are generated according to FIPS 186-4.</p> | 
+| [ism-1631](/ism/control/ism-1631) | <p>Suppliers of applications, ICT equipment and services associated with systems are identified.</p> | 
+| [ism-1632](/ism/control/ism-1632) | <p>Applications, ICT equipment and services are chosen from suppliers that have a strong track record of transparency and maintaining the security of their own systems and cyber supply chains.</p> | 
+| [ism-1633](/ism/control/ism-1633) | <p>System owners determine the type, value and security objectives for each system based on an assessment of the impact if it were to be compromised.</p> | 
+| [ism-1634](/ism/control/ism-1634) | <p>System owners select controls for each system and tailor them to achieve desired security objectives.</p> | 
+| [ism-1635](/ism/control/ism-1635) | <p>System owners implement controls for each system and its operating environment.</p> | 
+| [ism-1636](/ism/control/ism-1636) | <p>System owners ensure controls for each system and its operating environment are assessed to determine if they have been implemented correctly and are operating as intended.</p> | 
+| [ism-1637](/ism/control/ism-1637) | <p>An outsourced cloud service register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1638](/ism/control/ism-1638) | <p>An outsourced cloud service register contains the following for each outsourced cloud service:</p>                  <ul>                     <li>cloud service provider’s name</li>                     <li>cloud service’s name</li>                     <li>purpose for using the cloud service</li>                     <li>sensitivity or classification of data involved</li>                     <li>due date for the next security assessment of the cloud service</li>                     <li>contractual arrangements for the cloud service</li>                     <li>point of contact for users of the cloud service</li>                     <li>24/7 contact details for the cloud service provider.</li>                  </ul> | 
+| [ism-1639](/ism/control/ism-1639) | <p>Building management cables are labelled with their purpose in black writing on a yellow background, with a minimum size of 2.5 cm x 1 cm, and attached at five-metre intervals.</p> | 
+| [ism-1640](/ism/control/ism-1640) | <p>Cables for foreign systems installed in Australian facilities are labelled at inspection points.</p> | 
+| [ism-1641](/ism/control/ism-1641) | <p>Following the use of a degausser, magnetic media is physically damaged by deforming any internal platters.</p> | 
+| [ism-1642](/ism/control/ism-1642) | <p>Media is sanitised before it is reused in a different security domain.</p> | 
+| [ism-1643](/ism/control/ism-1643) | <p>Software registers contain versions and patch histories of applications, drivers, operating systems and firmware.</p> | 
+| [ism-1644](/ism/control/ism-1644) | <p>Sensitive or classified phone calls are not conducted in public locations unless care is taken to reduce the chance of conversations being overheard.</p> | 
+| [ism-1645](/ism/control/ism-1645) | <p>Floor plan diagrams are developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1646](/ism/control/ism-1646) | <p>Floor plan diagrams contain the following:</p>                  <ul>                     <li>cable paths (including ingress and egress points between floors)</li>                     <li>cable reticulation system and conduit paths</li>                     <li>floor concentration boxes</li>                     <li>wall outlet boxes</li>                     <li>network cabinets.</li>                  </ul> | 
+| [ism-1647](/ism/control/ism-1647) | <p>Privileged access to systems and applications is automatically disabled after 12 months unless revalidated.</p> | 
+| [ism-1648](/ism/control/ism-1648) | <p>Privileged access to systems and applications is automatically disabled after 45 days of inactivity.</p> | 
+| [ism-1649](/ism/control/ism-1649) | <p>Just-in-time administration is used for administering systems and applications.</p> | 
+| [ism-1650](/ism/control/ism-1650) | <p>Privileged account and group management events are logged.</p> | 
+| [ism-1651](/ism/control/ism-1651) | <p>Privileged access event logs are stored centrally.</p> | 
+| [ism-1652](/ism/control/ism-1652) | <p>Privileged account and group management event logs are stored centrally.</p> | 
+| [ism-1653](/ism/control/ism-1653) | <p>Privileged service accounts are prevented from accessing the internet, email and web services.</p> | 
+| [ism-1654](/ism/control/ism-1654) | <p>Internet Explorer 11 is disabled or removed.</p> | 
+| [ism-1655](/ism/control/ism-1655) | <p>.NET Framework 3.5 (includes .NET 2.0 and 3.0) is disabled or removed.</p> | 
+| [ism-1656](/ism/control/ism-1656) | <p>Application control is implemented on non-internet-facing servers.</p> | 
+| [ism-1657](/ism/control/ism-1657) | <p>Application control restricts the execution of executables, software libraries, scripts, installers, compiled HTML, HTML applications and control panel applets to an organisation-approved set.</p> | 
+| [ism-1658](/ism/control/ism-1658) | <p>Application control restricts the execution of drivers to an organisation-approved set.</p> | 
+| [ism-1659](/ism/control/ism-1659) | <p>Microsoft’s ‘recommended driver block rules’ are implemented.</p> | 
+| [ism-1660](/ism/control/ism-1660) | <p>Allowed and blocked execution events on workstations are logged.</p> | 
+| [ism-1661](/ism/control/ism-1661) | <p>Allowed and blocked execution events on internet-facing servers are logged.</p> | 
+| [ism-1662](/ism/control/ism-1662) | <p>Allowed and blocked execution events on non-internet-facing servers are logged.</p> | 
+| [ism-1663](/ism/control/ism-1663) | <p>Application control event logs are stored centrally.</p> | 
+| [ism-1664](/ism/control/ism-1664) | <p>Blocked PowerShell script execution events are logged.</p> | 
+| [ism-1665](/ism/control/ism-1665) | <p>PowerShell event logs are stored centrally.</p> | 
+| [ism-1666](/ism/control/ism-1666) | <p>Internet Explorer 11 does not process content from the internet.</p> | 
+| [ism-1667](/ism/control/ism-1667) | <p>Microsoft Office is blocked from creating child processes.</p> | 
+| [ism-1668](/ism/control/ism-1668) | <p>Microsoft Office is blocked from creating executable content.</p> | 
+| [ism-1669](/ism/control/ism-1669) | <p>Microsoft Office is blocked from injecting code into other processes.</p> | 
+| [ism-1670](/ism/control/ism-1670) | <p>PDF software is blocked from creating child processes.</p> | 
+| [ism-1671](/ism/control/ism-1671) | <p>Microsoft Office macros are disabled for users that do not have a demonstrated business requirement.</p> | 
+| [ism-1672](/ism/control/ism-1672) | <p>Microsoft Office macro antivirus scanning is enabled.</p> | 
+| [ism-1673](/ism/control/ism-1673) | <p>Microsoft Office macros are blocked from making Win32 API calls.</p> | 
+| [ism-1674](/ism/control/ism-1674) | <p>Only Microsoft Office macros running from within a sandboxed environment, a Trusted Location or that are digitally signed by a trusted publisher are allowed to execute.</p> | 
+| [ism-1675](/ism/control/ism-1675) | <p>Microsoft Office macros digitally signed by an untrusted publisher cannot be enabled via the Message Bar or Backstage View.</p> | 
+| [ism-1676](/ism/control/ism-1676) | <p>Microsoft Office’s list of trusted publishers is validated on an annual or more frequent basis.</p> | 
+| [ism-1677](/ism/control/ism-1677) | <p>Allowed and blocked Microsoft Office macro execution events are logged.</p> | 
+| [ism-1678](/ism/control/ism-1678) | <p>Microsoft Office macro event logs are stored centrally.</p> | 
+| [ism-1679](/ism/control/ism-1679) | <p>Multi-factor authentication is used by an organisation’s users if they authenticate to third-party internet-facing services that process, store or communicate their organisation’s sensitive data.</p> | 
+| [ism-1680](/ism/control/ism-1680) | <p>Multi-factor authentication (where available) is used by an organisation’s users if they authenticate to third-party internet-facing services that process, store or communicate their organisation’s non-sensitive data.</p> | 
+| [ism-1681](/ism/control/ism-1681) | <p>Multi-factor authentication is enabled by default for an organisation’s non-organisational users (but users can choose to opt out) if they authenticate to the organisation’s internet-facing services.</p> | 
+| [ism-1682](/ism/control/ism-1682) | <p>Multi-factor authentication is phishing-resistant.</p> | 
+| [ism-1683](/ism/control/ism-1683) | <p>Successful and unsuccessful multi-factor authentication events are logged.</p> | 
+| [ism-1684](/ism/control/ism-1684) | <p>Multi-factor authentication event logs are stored centrally.</p> | 
+| [ism-1685](/ism/control/ism-1685) | <p>Credentials for break glass accounts, local administrator accounts and service accounts are long, unique, unpredictable and managed.</p> | 
+| [ism-1686](/ism/control/ism-1686) | <p>Windows Defender Credential Guard and Windows Defender Remote Credential Guard are enabled.</p> | 
+| [ism-1687](/ism/control/ism-1687) | <p>Privileged operating environments are not virtualised within unprivileged operating environments.</p> | 
+| [ism-1688](/ism/control/ism-1688) | <p>Unprivileged accounts cannot logon to privileged operating environments.</p> | 
+| [ism-1689](/ism/control/ism-1689) | <p>Privileged accounts (excluding local administrator accounts) cannot logon to unprivileged operating environments.</p> | 
+| [ism-1690](/ism/control/ism-1690) | <p>Patches, updates or vendor mitigations for security vulnerabilities in internet-facing services are applied within two weeks of release, or within 48 hours if an exploit exists.</p> | 
+| [ism-1691](/ism/control/ism-1691) | <p>Patches, updates or vendor mitigations for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are applied within two weeks of release.</p> | 
+| [ism-1692](/ism/control/ism-1692) | <p>Patches, updates or vendor mitigations for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are applied within 48 hours if an exploit exists.</p> | 
+| [ism-1693](/ism/control/ism-1693) | <p>Patches, updates or vendor mitigations for security vulnerabilities in applications other than office productivity suites, web browsers and their extensions, email clients, PDF software, and security products are applied within one month of release.</p> | 
+| [ism-1694](/ism/control/ism-1694) | <p>Patches, updates or vendor mitigations for security vulnerabilities in operating systems of internet-facing services are applied within two weeks of release, or within 48 hours if an exploit exists.</p> | 
+| [ism-1695](/ism/control/ism-1695) | <p>Patches, updates or vendor mitigations for security vulnerabilities in operating systems of workstations, servers and network devices are applied within two weeks of release.</p> | 
+| [ism-1696](/ism/control/ism-1696) | <p>Patches, updates or vendor mitigations for security vulnerabilities in operating systems of workstations, servers and network devices are applied within 48 hours if an exploit exists.</p> | 
+| [ism-1697](/ism/control/ism-1697) | <p>Patches, updates or vendor mitigations for security vulnerabilities in drivers and firmware are applied within two weeks of release, or within 48 hours if an exploit exists.</p> | 
+| [ism-1698](/ism/control/ism-1698) | <p>A vulnerability scanner is used at least daily to identify missing patches or updates for security vulnerabilities in internet-facing services.</p> | 
+| [ism-1699](/ism/control/ism-1699) | <p>A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in office productivity suites, web browsers and their extensions, email clients, PDF software, and security products.</p> | 
+| [ism-1700](/ism/control/ism-1700) | <p>A vulnerability scanner is used at least fortnightly to identify missing patches or updates for security vulnerabilities in applications other than office productivity suites, web browsers and their extensions, email clients, PDF software, and security products.</p> | 
+| [ism-1701](/ism/control/ism-1701) | <p>A vulnerability scanner is used at least daily to identify missing patches or updates for security vulnerabilities in operating systems of internet-facing services.</p> | 
+| [ism-1702](/ism/control/ism-1702) | <p>A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in operating systems of workstations, servers and network devices.</p> | 
+| [ism-1703](/ism/control/ism-1703) | <p>A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in drivers and firmware.</p> | 
+| [ism-1704](/ism/control/ism-1704) | <p>Internet-facing services, office productivity suites, web browsers and their extensions, email clients, PDF software, Adobe Flash Player, and security products that are no longer supported by vendors are removed.</p> | 
+| [ism-1705](/ism/control/ism-1705) | <p>Privileged accounts (excluding backup administrator accounts) cannot access backups belonging to other accounts.</p> | 
+| [ism-1706](/ism/control/ism-1706) | <p>Privileged accounts (excluding backup administrator accounts) cannot access their own backups.</p> | 
+| [ism-1707](/ism/control/ism-1707) | <p>Privileged accounts (excluding backup administrator accounts) are prevented from modifying and deleting backups.</p> | 
+| [ism-1708](/ism/control/ism-1708) | <p>Privileged accounts (including backup administrator accounts) are prevented from modifying and deleting backups during their retention period.</p> | 
+| [ism-1710](/ism/control/ism-1710) | <p>Configuration settings for wireless access points are hardened.</p> | 
+| [ism-1711](/ism/control/ism-1711) | <p>User identity confidentiality is used if available with EAP-TLS implementations.</p> | 
+| [ism-1712](/ism/control/ism-1712) | <p>The use of FT (802.11r) is disabled unless authenticator-to-authenticator communications are secured by an ASD-Approved Cryptographic Protocol.</p> | 
+| [ism-1713](/ism/control/ism-1713) | <p>A removable media register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1714](/ism/control/ism-1714) | <p>Unprivileged access event logs are stored centrally.</p> | 
+| [ism-1715](/ism/control/ism-1715) | <p>Break glass event logs are stored centrally.</p> | 
+| [ism-1716](/ism/control/ism-1716) | <p>Access to data repositories is automatically disabled after 45 days of inactivity.</p> | 
+| [ism-1717](/ism/control/ism-1717) | <p>A ‘security.txt’ file is hosted for all internet-facing organisational domains to assist in the responsible disclosure of security vulnerabilities in an organisation’s products and services.</p> | 
+| [ism-1718](/ism/control/ism-1718) | <p>SECRET cables are coloured salmon pink.</p> | 
+| [ism-1719](/ism/control/ism-1719) | <p>TOP SECRET cables are coloured red.</p> | 
+| [ism-1720](/ism/control/ism-1720) | <p>SECRET wall outlet boxes are coloured salmon pink.</p> | 
+| [ism-1721](/ism/control/ism-1721) | <p>TOP SECRET wall outlet boxes are coloured red.</p> | 
+| [ism-1722](/ism/control/ism-1722) | <p>Electrostatic memory devices are destroyed using a furnace/incinerator, hammer mill, disintegrator or grinder/sander.</p> | 
+| [ism-1723](/ism/control/ism-1723) | <p>Magnetic floppy disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, degausser or by cutting.</p> | 
+| [ism-1724](/ism/control/ism-1724) | <p>Magnetic hard disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, grinder/sander or degausser.</p> | 
+| [ism-1725](/ism/control/ism-1725) | <p>Magnetic tapes are destroyed using a furnace/incinerator, hammer mill, disintegrator, degausser or by cutting.</p> | 
+| [ism-1726](/ism/control/ism-1726) | <p>Optical disks are destroyed using a furnace/incinerator, hammer mill, disintegrator, grinder/sander or by cutting.</p> | 
+| [ism-1727](/ism/control/ism-1727) | <p>Semiconductor memory is destroyed using a furnace/incinerator, hammer mill or disintegrator.</p> | 
+| [ism-1728](/ism/control/ism-1728) | <p>The resulting media waste particles from the destruction of SECRET media is stored and handled as OFFICIAL if less than or equal to 3 mm, PROTECTED if greater than 3 mm and less than or equal to 6 mm, or SECRET if greater than 6 mm and less than or equal to 9 mm.</p> | 
+| [ism-1729](/ism/control/ism-1729) | <p>The resulting media waste particles from the destruction of TOP SECRET media is stored and handled as OFFICIAL if less than or equal to 3 mm, or SECRET if greater than 3 mm and less than or equal to 9 mm.</p> | 
+| [ism-1730](/ism/control/ism-1730) | <p>A software bill of materials is produced and made available to consumers of software.</p> | 
+| [ism-1731](/ism/control/ism-1731) | <p>Planning and coordination of intrusion remediation activities are conducted on a separate system to that which has been compromised.</p> | 
+| [ism-1732](/ism/control/ism-1732) | <p>To the extent possible, all intrusion remediation activities are conducted in a coordinated manner during the same planned outage.</p> | 
+| [ism-1733](/ism/control/ism-1733) | <p>Requests for privileged access to data repositories are validated when first requested.</p> | 
+| [ism-1734](/ism/control/ism-1734) | <p>Privileged access to data repositories is automatically disabled after 12 months unless revalidated.</p> | 
+| [ism-1735](/ism/control/ism-1735) | <p>Faulty or damaged media that cannot be successfully sanitised is destroyed prior to its disposal.</p> | 
+| [ism-1736](/ism/control/ism-1736) | <p>A managed service register is developed, implemented, maintained and verified on a regular basis.</p> | 
+| [ism-1737](/ism/control/ism-1737) | <p>A managed service register contains the following for each managed service:</p>                  <ul>                     <li>managed service provider’s name</li>                     <li>managed service’s name</li>                     <li>purpose for using the managed service</li>                     <li>sensitivity or classification of data involved</li>                     <li>due date for the next security assessment of the managed service</li>                     <li>contractual arrangements for the managed service</li>                     <li>point of contact for users of the managed service</li>                     <li>24/7 contact details for the managed service provider.</li>                  </ul> | 
+| [ism-1738](/ism/control/ism-1738) | <p>The right to verify compliance with security requirements documented in contractual arrangements with service providers is exercised on a regular and ongoing basis.</p> | 
+| [ism-1739](/ism/control/ism-1739) | <p>A system’s security architecture is approved prior to the development of the system.</p> | 
+| [ism-1740](/ism/control/ism-1740) | <p>Personnel dealing with banking details and payment requests are advised of what business email compromise is, how to manage such situations and how to report it.</p> | 
+| [ism-1741](/ism/control/ism-1741) | <p>ICT equipment destruction processes, and supporting ICT equipment destruction procedures, are developed, implemented and maintained.</p> | 
+| [ism-1742](/ism/control/ism-1742) | <p>ICT equipment that cannot be sanitised is destroyed.</p> | 
+| [ism-1743](/ism/control/ism-1743) | <p>Operating systems are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.</p> | 
+| [ism-1745](/ism/control/ism-1745) | <p>Early Launch Antimalware, Secure Boot, Trusted Boot and Measured Boot functionality is enabled.</p> | 
+| [ism-1746](/ism/control/ism-1746) | <p>When implementing application control using path rules, only approved users can change file system permissions for approved files and folders.</p> | 
+| [ism-1747](/ism/control/ism-1747) | <p>Operating system event logs are stored centrally.</p> | 
+| [ism-1748](/ism/control/ism-1748) | <p>Email client security settings cannot be changed by users.</p> | 
+| [ism-1749](/ism/control/ism-1749) | <p>Cached credentials are limited to one previous logon.</p> | 
+| [ism-1750](/ism/control/ism-1750) | <p>Administrative infrastructure for critical servers, high-value servers and regular servers is segregated from each other.</p> | 
+| [ism-1751](/ism/control/ism-1751) | <p>Patches, updates or vendor mitigations for security vulnerabilities in operating systems of ICT equipment other than workstations, servers and network devices are applied within two weeks of release, or within 48 hours if an exploit exists.</p> | 
+| [ism-1752](/ism/control/ism-1752) | <p>A vulnerability scanner is used at least weekly to identify missing patches or updates for security vulnerabilities in operating systems of ICT equipment other than workstations, servers and network devices.</p> | 
+| [ism-1753](/ism/control/ism-1753) | <p>Network devices and other ICT equipment that are no longer supported by vendors are replaced.</p> | 
+| [ism-1754](/ism/control/ism-1754) | <p>Security vulnerabilities identified in applications are resolved by software developers in a timely manner.</p> | 
+| [ism-1755](/ism/control/ism-1755) | <p>A vulnerability disclosure policy is developed, implemented and maintained.</p> | 
+| [ism-1756](/ism/control/ism-1756) | <p>Vulnerability disclosure processes, and supporting vulnerability disclosure procedures, are developed, implemented and maintained.</p> | 
+| [ism-1757](/ism/control/ism-1757) | <p>Web application event logs are stored centrally.</p> | 
+| [ism-1758](/ism/control/ism-1758) | <p>Database event logs are stored centrally.</p> | 
+| [ism-1759](/ism/control/ism-1759) | <p>When using DH for agreeing on encryption session keys, a modulus of at least 3072 bits is used, preferably 3072 bits.</p> | 
+| [ism-1760](/ism/control/ism-1760) | <p>DSA is not used for digital signatures.</p> | 
+| [ism-1761](/ism/control/ism-1761) | <p>When using ECDH for agreeing on encryption session keys, NIST P-256, P-384 or P-521 curves are used, preferably the NIST P-384 curve.</p> | 
+| [ism-1762](/ism/control/ism-1762) | <p>When using ECDH for agreeing on encryption session keys, NIST P-384 or P-521 curves are used, preferably the NIST P-384 curve.</p> | 
+| [ism-1763](/ism/control/ism-1763) | <p>When using ECDSA for digital signatures, NIST P-256, P-384 or P-521 curves are used, preferably the NIST P-384 curve.</p> | 
+| [ism-1764](/ism/control/ism-1764) | <p>When using ECDSA for digital signatures, NIST P-384 or P-521 curves are used, preferably the NIST P-384 curve.</p> | 
+| [ism-1765](/ism/control/ism-1765) | <p>When using RSA for digital signatures, and passing encryption session keys or similar keys, a modulus of at least 3072 bits is used, preferably 3072 bits.</p> | 
+| [ism-1766](/ism/control/ism-1766) | <p>When using SHA-2 for hashing, an output size of at least 224 bits is used, preferably SHA-384.</p> | 
+| [ism-1767](/ism/control/ism-1767) | <p>When using SHA-2 for hashing, an output size of at least 256 bits is used, preferably SHA-384.</p> | 
+| [ism-1768](/ism/control/ism-1768) | <p>When using SHA-2 for hashing, an output size of at least 384 bits is used, preferably SHA-384.</p> | 
+| [ism-1769](/ism/control/ism-1769) | <p>When using AES for encryption, AES-128, AES-192 or AES-256 is used, preferably AES-256.</p> | 
+| [ism-1770](/ism/control/ism-1770) | <p>When using AES for encryption, AES-192 or AES-256 is used, preferably AES-256.</p> | 
+| [ism-1771](/ism/control/ism-1771) | <p>AES is used for encrypting IPsec connections, preferably ENCR_AES_GCM_16.</p> | 
+| [ism-1772](/ism/control/ism-1772) | <p>PRF_HMAC_SHA2_256, PRF_HMAC_SHA2_384 or PRF_HMAC_SHA2_512 is used for IPsec connections, preferably PRF_HMAC_SHA2_512.</p> | 
+| [ism-1773](/ism/control/ism-1773) | <p>System administrators for gateways that connect to Australian Government Access Only networks are Australian nationals or seconded foreign nationals.</p> | 
+| [ism-1774](/ism/control/ism-1774) | <p>Gateways are managed via a secure path isolated from all connected networks.</p> | 
+| [ism-1775](/ism/control/ism-1775) | <p>Gateway event logs are stored centrally.</p> | 
+| [ism-1776](/ism/control/ism-1776) | <p>CDS event logs are stored centrally.</p> | 
+| [ism-1777](/ism/control/ism-1777) | <p>Web proxy event logs are stored centrally.</p> | 
+| [ism-1778](/ism/control/ism-1778) | <p>When manually importing data to systems, all data that fails security checks is quarantined until reviewed and subsequently approved or not approved for release.</p> | 
+| [ism-1779](/ism/control/ism-1779) | <p>When manually exporting data from systems, all data that fails security checks is quarantined until reviewed and subsequently approved or not approved for release.</p> | 
+| [ism-1780](/ism/control/ism-1780) | <p>SecDevOps practices are used for application development.</p> | 
+| [ism-1781](/ism/control/ism-1781) | <p>All data communicated over network infrastructure is encrypted.</p> | 
+| [ism-1782](/ism/control/ism-1782) | <p>A protective DNS service is used to block access to known malicious domain names.</p> | 
+| [ism-1783](/ism/control/ism-1783) | <p>Public IP addresses controlled by, or used by, an organisation are signed by valid ROA records.</p> | 
+| [ism-1784](/ism/control/ism-1784) | <p>The incident management policy, including the associated incident response plan, is exercised at least annually.</p> | 
+| [ism-1785](/ism/control/ism-1785) | <p>A supplier relationship management policy is developed, implemented and maintained.</p> | 
+| [ism-1786](/ism/control/ism-1786) | <p>An approved supplier list is developed, implemented and maintained.</p> | 
+| [ism-1787](/ism/control/ism-1787) | <p>Applications, ICT equipment and services are sourced from approved suppliers.</p> | 
+| [ism-1788](/ism/control/ism-1788) | <p>Multiple potential suppliers are identified for sourcing critical applications, ICT equipment and services.</p> | 
+| [ism-1789](/ism/control/ism-1789) | <p>Sufficient spares of critical ICT equipment are sourced and kept in reserve.</p> | 
+| [ism-1790](/ism/control/ism-1790) | <p>Applications, ICT equipment and services are delivered in a manner that maintains their integrity.</p> | 
+| [ism-1791](/ism/control/ism-1791) | <p>The integrity of applications, ICT equipment and services are assessed as part of acceptance of products and services.</p> | 
+| [ism-1792](/ism/control/ism-1792) | <p>The authenticity of applications, ICT equipment and services are assessed as part of acceptance of products and services.</p> | 
+| [ism-1793](/ism/control/ism-1793) | <p>Managed service providers and their managed services undergo a security assessment by an IRAP assessor at least every 24 months.</p> | 
+| [ism-1794](/ism/control/ism-1794) | <p>A minimum notification period of one month by service providers for significant changes to their own service provider arrangements is documented in contractual arrangements with service providers.</p> | 
+| [ism-1795](/ism/control/ism-1795) | <p>Credentials for break glass accounts, local administrator accounts and service accounts are a minimum of 30 characters.</p> | 
+| [ism-1796](/ism/control/ism-1796) | <p>Files containing executable content are digitally signed as part of application development.</p> | 
+| [ism-1797](/ism/control/ism-1797) | <p>Installers, patches and updates are digitally signed or provided with cryptographic checksums as part of application development.</p> | 
+| [ism-1798](/ism/control/ism-1798) | <p>Secure configuration guidance is produced as part of application development.</p> | 
+| [ism-1799](/ism/control/ism-1799) | <p>Incoming emails are rejected if they do not pass DMARC checks.</p> | 
+| [ism-1800](/ism/control/ism-1800) | <p>Network devices are flashed with trusted firmware before they are used for the first time.</p> | 
+| [ism-1801](/ism/control/ism-1801) | <p>Network devices are restarted on at least a monthly basis.</p> | 
+| [ism-1802](/ism/control/ism-1802) | <p>HACE does not process, store or communicate SECRET or TOP SECRET data until approved for use by ASD.</p> | 
+| [ism-1803](/ism/control/ism-1803) | <p>A cyber security incident register contains the following for each cyber security incident:</p>                  <ul>                     <li>the date the cyber security incident occurred</li>                     <li>the date the cyber security incident was discovered</li>                     <li>a description of the cyber security incident</li>                     <li>any actions taken in response to the cyber security incident</li>                     <li>to whom the cyber security incident was reported.</li>                  </ul> | 
+| [ism-1804](/ism/control/ism-1804) | <p>Break clauses associated with failure to meet security requirements are documented in contractual arrangements with service providers.</p> | 
+| [ism-1805](/ism/control/ism-1805) | <p>A denial of service response plan for video conferencing and IP telephony services contains the following:</p>                  <ul>                     <li>how to identify signs of a denial-of-service attack</li>                     <li>how to identify the source of a denial-of-service attack</li>                     <li>how capabilities can be maintained during a denial-of-service attack</li>                     <li>what actions can be taken to respond to a denial-of-service attack.</li>                  </ul> | 
+| [ism-1806](/ism/control/ism-1806) | <p>Default accounts or credentials for user applications, including for any pre-configured accounts, are changed.</p> | 
+| [ism-1807](/ism/control/ism-1807) | <p>An automated method of asset discovery is used at least fortnightly to support the detection of assets for subsequent vulnerability scanning activities.</p> | 
+| [ism-1808](/ism/control/ism-1808) | <p>A vulnerability scanner with an up-to-date vulnerability database is used for vulnerability scanning activities.</p> | 
+| [ism-1809](/ism/control/ism-1809) | <p>When applications, operating systems, network devices or other ICT equipment that are no longer supported by vendors cannot be immediately removed or replaced, compensating controls are implemented until such time that they can be removed or replaced.</p> | 
+| [ism-1810](/ism/control/ism-1810) | <p>Backups of important data, software and configuration settings are synchronised to enable restoration to a common point in time.</p> | 
+| [ism-1811](/ism/control/ism-1811) | <p>Backups of important data, software and configuration settings are retained in a secure and resilient manner.</p> | 
+| [ism-1812](/ism/control/ism-1812) | <p>Unprivileged accounts cannot access backups belonging to other accounts.</p> | 
+| [ism-1813](/ism/control/ism-1813) | <p>Unprivileged accounts cannot access their own backups.</p> | 
+| [ism-1814](/ism/control/ism-1814) | <p>Unprivileged accounts are prevented from modifying and deleting backups.</p> | 
+| [ism-1815](/ism/control/ism-1815) | <p>Event logs stored within a centralised event logging facility are protected from unauthorised modification and deletion.</p> | 
+| [ism-1816](/ism/control/ism-1816) | <p>Unauthorised modification of the authoritative source for software is prevented.</p> | 
+| [ism-1817](/ism/control/ism-1817) | <p>Authentication and authorisation of clients is performed when clients call web APIs that facilitate access to data not authorised for release into the public domain.</p> | 
+| [ism-1818](/ism/control/ism-1818) | <p>Authentication and authorisation of clients is performed when clients call web APIs that facilitate modification of data.</p> | 
+| [ism-1819](/ism/control/ism-1819) | <p>Following the identification of a cyber security incident, an organisation’s incident response plan is enacted.</p> | 
+| [ism-1820](/ism/control/ism-1820) | <p>Cables for individual systems use a consistent colour.</p> | 
+| [ism-1821](/ism/control/ism-1821) | <p>TOP SECRET cables, when bundled together or run in conduit, are run exclusively in their own individual cable bundle or conduit.</p> | 
+| [ism-1822](/ism/control/ism-1822) | <p>Wall outlet boxes for individual systems use a consistent colour.</p> | 
+| [ism-1823](/ism/control/ism-1823) | <p>Office productivity suite security settings cannot be changed by users.</p> | 
+| [ism-1824](/ism/control/ism-1824) | <p>PDF software security settings cannot be changed by users.</p> | 
+| [ism-1825](/ism/control/ism-1825) | <p>Security product security settings cannot be changed by users.</p> | 
+| [ism-1826](/ism/control/ism-1826) | <p>Server applications are chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.</p> | 
+| [ism-1827](/ism/control/ism-1827) | <p>Microsoft AD DS domain controllers are administered using dedicated domain administrator user accounts that are not used to administer other systems.</p> | 
+| [ism-1828](/ism/control/ism-1828) | <p>The Print Spooler service is disabled on Microsoft AD DS domain controllers.</p> | 
+| [ism-1829](/ism/control/ism-1829) | <p>Passwords and cpasswords are not used in Group Policy Preferences.</p> | 
+| [ism-1830](/ism/control/ism-1830) | <p>Security-related events for Microsoft AD DS are logged.</p> | 
+| [ism-1831](/ism/control/ism-1831) | <p>Microsoft AD DS event logs are stored centrally.</p> | 
+| [ism-1832](/ism/control/ism-1832) | <p>Only service accounts and computer accounts are configured with Service Principal Names (SPNs).</p> | 
+| [ism-1833](/ism/control/ism-1833) | <p>Service accounts are provisioned with the minimum privileges required and are not members of the domain administrators group or similar highly privileged groups.</p> | 
+| [ism-1834](/ism/control/ism-1834) | <p>Duplicate SPNs do not exist within the domain.</p> | 
+| [ism-1835](/ism/control/ism-1835) | <p>Privileged user accounts are configured as sensitive and cannot be delegated.</p> | 
+| [ism-1836](/ism/control/ism-1836) | <p>User accounts require Kerberos pre-authentication.</p> | 
+| [ism-1837](/ism/control/ism-1837) | <p>User accounts are not configured with password never expires or password not required.</p> | 
+| [ism-1838](/ism/control/ism-1838) | <p>The UserPassword attribute for user accounts is not used.</p> | 
+| [ism-1839](/ism/control/ism-1839) | <p>Account properties accessible by unprivileged users are not used to store passwords.</p> | 
+| [ism-1840](/ism/control/ism-1840) | <p>User account passwords do not use reversible encryption.</p> | 
+| [ism-1841](/ism/control/ism-1841) | <p>Unprivileged user accounts cannot add machines to the domain.</p> | 
+| [ism-1842](/ism/control/ism-1842) | <p>Dedicated service accounts are used to add machines to the domain.</p> | 
+| [ism-1843](/ism/control/ism-1843) | <p>User accounts with unconstrained delegation are reviewed at least annually, and those without an associated Kerberos SPN or demonstrated business requirement are removed.</p> | 
+| [ism-1844](/ism/control/ism-1844) | <p>Computer accounts that are not Microsoft AD DS domain controllers are not trusted for delegation to services.</p> | 
+| [ism-1845](/ism/control/ism-1845) | <p>When a user account is disabled, it is removed from all security group memberships.</p> | 
+| [ism-1846](/ism/control/ism-1846) | <p>The Pre-Windows 2000 Compatible Access security group does not contain user accounts.</p> | 
+| [ism-1847](/ism/control/ism-1847) | <p>Credentials for the Kerberos Key Distribution Center’s service account (KRBTGT) are changed twice, allowing for replication to all Microsoft Active Directory Domain Services domain controllers in-between each change, if:</p>                  <ul>                     <li>the domain has been directly compromised</li>                     <li>the domain is suspected of being compromised</li>                     <li>they have not been changed in the past 12 months.</li>                  </ul> | 
+| [ism-1848](/ism/control/ism-1848) | <p>When using a software-based isolation mechanism to share a physical server’s hardware, the isolation mechanism or underlying operating system is replaced when it is no longer supported by a vendor.</p> | 
+| [ism-1849](/ism/control/ism-1849) | <p>The OWASP Top Ten Proactive Controls are used in the development of web applications.</p> | 
+| [ism-1850](/ism/control/ism-1850) | <p>The OWASP Top 10 are mitigated in the development of web applications.</p> | 
+| [ism-1851](/ism/control/ism-1851) | <p>The OWASP API Security Top 10 are mitigated in the development of web APIs.</p> | 
+| [ism-1852](/ism/control/ism-1852) | <p>Unprivileged access to systems, applications and data repositories is limited to only what is required for users and services to undertake their duties.</p> | 
+| [ism-1853](/ism/control/ism-1853) | <p>Privileged access to data repositories is limited to only what is required for users and services to undertake their duties.</p> | 
+| [ism-1854](/ism/control/ism-1854) | <p>Users authenticate to MFDs before they can print, scan or copy documents.</p> | 
+| [ism-1855](/ism/control/ism-1855) | <p>Use of MFDs for printing, scanning and copying purposes, including the capture of shadow copies of documents, are logged.</p> | 
+| [ism-1856](/ism/control/ism-1856) | <p>MFD event logs are stored centrally.</p> | 
+| [ism-1857](/ism/control/ism-1857) | <p>ICT equipment is chosen from vendors that have demonstrated a commitment to secure-by-design and secure-by-default principles, use of memory-safe programming languages where possible, secure programming practices, and maintaining the security of their products.</p> | 
+| [ism-1858](/ism/control/ism-1858) | <p>ACSC and vendor hardening guidance for ICT equipment is implemented.</p> | 
+| [ism-1859](/ism/control/ism-1859) | <p>ACSC or vendor hardening guidance for office productivity suites is implemented.</p> | 
+| [ism-1860](/ism/control/ism-1860) | <p>ACSC or vendor hardening guidance for PDF software is implemented.</p> | 
+| [ism-1861](/ism/control/ism-1861) | <p>Protective Process Light for LSASS is enabled with a UEFI lock.</p> | 
+| [ism-1862](/ism/control/ism-1862) | <p>If using a WAF, disclosing the IP addresses of web servers under an organisation’s control (referred to as origin servers) is avoided and access to the origin servers is restricted to the WAF and authorised management networks.</p> | 
+| [ism-1863](/ism/control/ism-1863) | <p>Networked management interfaces for ICT equipment are not directly exposed to the internet.</p> | 
+| [ism-principle-d1](/ism/control/ism-principle-d1) | <p>Event logs are collected and analysed in a timely manner to detect cyber security events.</p> | 
+| [ism-principle-d2](/ism/control/ism-principle-d2) | <p>Cyber security events are analysed in a timely manner to identify cyber security incidents.</p> | 
+| [ism-principle-g1](/ism/control/ism-principle-g1) | <p>A Chief Information Security Officer provides leadership and oversight of cyber security.</p> | 
+| [ism-principle-g2](/ism/control/ism-principle-g2) | <p>The identity and value of systems, applications and data is determined and documented.</p> | 
+| [ism-principle-g3](/ism/control/ism-principle-g3) | <p>The confidentiality, integrity and availability requirements for systems, applications and data are determined and documented.</p> | 
+| [ism-principle-g4](/ism/control/ism-principle-g4) | <p>Security risk management processes are embedded into organisational risk management frameworks.</p> | 
+| [ism-principle-g5](/ism/control/ism-principle-g5) | <p>Security risks are identified, documented, managed and accepted both before systems and applications are authorised for use, and continuously throughout their operational life.</p> | 
+| [ism-principle-p10](/ism/control/ism-principle-p10) | <p>Only trusted and vetted personnel are granted access to systems, applications and data repositories.</p> | 
+| [ism-principle-p11](/ism/control/ism-principle-p11) | <p>Personnel are granted the minimum access to systems, applications and data repositories required for their duties.</p> | 
+| [ism-principle-p12](/ism/control/ism-principle-p12) | <p>Multiple methods are used to identify and authenticate personnel to systems, applications and data repositories.</p> | 
+| [ism-principle-p13](/ism/control/ism-principle-p13) | <p>Personnel are provided with ongoing cyber security awareness training.</p> | 
+| [ism-principle-p14](/ism/control/ism-principle-p14) | <p>Physical access to systems, supporting infrastructure and facilities is restricted to authorised personnel.</p> | 
+| [ism-principle-p1](/ism/control/ism-principle-p1) | <p>Systems and applications are designed, deployed, maintained and decommissioned according to their value and their confidentiality, integrity and availability requirements.</p> | 
+| [ism-principle-p2](/ism/control/ism-principle-p2) | <p>Systems and applications are delivered and supported by trusted suppliers.</p> | 
+| [ism-principle-p3](/ism/control/ism-principle-p3) | <p>Systems and applications are designed and configured to reduce their attack surface.</p> | 
+| [ism-principle-p4](/ism/control/ism-principle-p4) | <p>Systems and applications are administered in a secure and accountable manner.</p> | 
+| [ism-principle-p5](/ism/control/ism-principle-p5) | <p>Security vulnerabilities in systems and applications are identified and mitigated in a timely manner.</p> | 
+| [ism-principle-p6](/ism/control/ism-principle-p6) | <p>Only trusted and supported operating systems, applications and computer code can execute on systems.</p> | 
+| [ism-principle-p7](/ism/control/ism-principle-p7) | <p>Data is encrypted at rest and in transit between different systems.</p> | 
+| [ism-principle-p8](/ism/control/ism-principle-p8) | <p>Data communicated between different systems is controlled and inspectable.</p> | 
+| [ism-principle-p9](/ism/control/ism-principle-p9) | <p>Data, applications and configuration settings are backed up in a secure and proven manner on a regular basis.</p> | 
+| [ism-principle-r1](/ism/control/ism-principle-r1) | <p>Cyber security incidents are reported both internally and externally to relevant bodies in a timely manner.</p> | 
+| [ism-principle-r2](/ism/control/ism-principle-r2) | <p>Cyber security incidents are contained, eradicated and recovered from in a timely manner.</p> | 
+| [ism-principle-r3](/ism/control/ism-principle-r3) | <p>Business continuity and disaster recovery plans are enacted when required.</p> | 
