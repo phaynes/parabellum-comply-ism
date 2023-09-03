@@ -1,5 +1,5 @@
 # ISM CONTROL INDEX
-|    ISM Control   | Statement |
+|    ISM Control | Statement |
 | :-------------: | ----------- |
 | [ism-0027](/ism/control/ism-0027) | <p>System owners obtain authorisation to operate each system from its authorising officer based on the acceptance of the security risks associated with its operation.</p> | 
 | [ism-0039](/ism/control/ism-0039) | <p>A cyber security strategy is developed, implemented and maintained.</p> | 

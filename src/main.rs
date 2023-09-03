@@ -65,6 +65,10 @@ impl IsmGroup {
         work_str = work_str.replace("]","");
         self.sort_id = String::from(work_str);  
     }
+    
+    pub fn get_md_depth(&mut self) -> String {
+        "#".to_string().repeat(self.sort_id.matches(",").count() + 1)
+    }
 }
 
 //
@@ -99,6 +103,7 @@ impl IsmControl {
             sort_id: String::new(),
         }
     }
+    
     // sort_id field supports parsing 
     pub fn set_sort_id(&mut self, id: &str) {
         let mut work_str = id.replace("catalog[1].", "");
@@ -114,8 +119,10 @@ pub  struct IsmControlSummary {
     id: String,
     title: String, 
 }
+
 static mut ISM_CONTROLS : Vec::<IsmControl> = Vec::<IsmControl>::new();
 static mut ISM_GROUPS : Vec::<IsmGroup>  =  Vec::<IsmGroup>::new();
+static mut CONTROL_INDEX : String = String::new();
 
 // Parses an ISM control OSCAL XML fragment
 fn process_ism_control<'a, 'input>(ism_group : &String, node : &Node<'a, 'input> ) -> serde_json::Result<String> {
@@ -167,7 +174,15 @@ fn process_ism_control<'a, 'input>(ism_group : &String, node : &Node<'a, 'input>
                 let mut attributes = n.attributes();
                 if attributes.len() > 0 {
                   let nm = attributes.next().unwrap().value();
-                  let id =attributes.next().unwrap().value(); 
+                  let id =attributes.next().unwrap().value();
+                  
+                  // Build up an index.
+                  let mut index_string = String::from("- [*](/ism/control/*) \n");
+                  index_string = index_string.replacen('*', current_control.id.as_str(), 2);
+                  unsafe {
+                    CONTROL_INDEX.push_str(index_string.as_str());
+                  }
+                  
                   if nm.eq("statement") {
                     let xml_src =  n.document().input_text();
                     let start = n.range().start + "<part name=\"statement\" + id=>\r".len() + id.len() + 2;
@@ -205,7 +220,13 @@ fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Resu
                   let nm = attributes.next().unwrap().value();
                   if nm.eq("sort-id") {
                       current_group.set_sort_id(attributes.next().unwrap().value());
-                  }
+                      unsafe {
+                          CONTROL_INDEX.push_str(current_group.get_md_depth().as_str());
+                          CONTROL_INDEX.push_str(" ");
+                          CONTROL_INDEX.push_str(current_group.title.as_str());
+                          CONTROL_INDEX.push_str("\n");
+                      }
+                    }
                 }    
             }
             "control" => {
@@ -213,7 +234,7 @@ fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Resu
             }
             "title" => { 
                 let title = n.text().unwrap().to_string();
-                current_group.title = title;
+                current_group.title = title.clone();
             }
             "" => {
             }
@@ -241,6 +262,7 @@ fn process_ism_group<'a, 'input>(node : &Node<'a, 'input> ) ->  serde_json::Resu
     }
     return Ok(result);
 }
+
 fn produce_markdown() -> std::io::Result<()> {
     let mut dir = env::current_dir().unwrap();
     dir.push("static");
@@ -270,7 +292,7 @@ fn produce_markdown() -> std::io::Result<()> {
     let mut ism_values: Vec<_> = control_index.values().cloned().collect();
     ism_values.sort();
     let mut index_md = String::new();
-    index_md.push_str("# ISM CONTROL INDEX\n|    ISM Control   | Statement |\n| :-------------: | ----------- |\n");
+    index_md.push_str("# ISM CONTROL INDEX\n|    ISM Control | Statement |\n| :-------------: | ----------- |\n");
     for ism_value in ism_values.iter() {
         index_md.push_str(ism_value.as_str());
     }
@@ -358,7 +380,17 @@ async fn main() -> std::io::Result<()> {
     }
     
     produce_markdown()?;
-    
+
+    // Write out the ISM context file. 
+    let dir = env::current_dir().unwrap();
+    let mut pwd : String = String::new();
+    pwd.push_str(&dir.to_str().unwrap());
+    let context_md_filename = format!("{}/static/ism/context.md", pwd);
+    let mut output = File::create(context_md_filename)?;
+    unsafe {
+        write!(output, "{}", CONTROL_INDEX)?;
+    }
+
     HttpServer::new(|| {
          App::new()
             .service(home)
